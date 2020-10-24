@@ -1,0 +1,22 @@
+{{ define "title" }}{{ .Title }} - {{ end }}
+
+{{ define "meta" }}
+{{ partial "single_meta.html" . }}
+{{ partial "single_json_ld.html" . }}
+{{ end }}
+
+{{ define "main" }}
+<div class="mrow">
+  <div class="mcol c8">
+
+    {{ .Render "summary" }}
+
+    {{ partial "related.html" . }}   
+
+    <!-- {{ template "_internal/disqus.html" . }} -->
+  </div>
+  <div class="mcol c4">
+    {{ partial "sidebar.html" . }}
+  </div>
+</div>
+{{ end }}

@@ -1,0 +1,21 @@
+{{ $related := .Site.RegularPages.Related . | last 6 }}
+{{ with $related }}
+     <div class="related" >
+          <div class="related_title">
+               <h3>関連記事</h3>
+          </div>
+          {{ range . }}
+          <article class="related">
+               <a href="{{ .RelPermalink }}">
+                    <div class="box">
+                         <div class="thumb thumb-{{ with .File }}{{ .UniqueID }}{{ end }}"></div>
+
+                         <div class="inner">
+                              <div class="title">{{ .Title }}</div>
+                         </div>
+                    </div>
+               </a>
+          </article>
+          {{ end }}
+    </div>
+{{ end }}

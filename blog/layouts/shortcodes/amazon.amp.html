@@ -1,0 +1,18 @@
+<figure{{ if .Get "class" }} class="{{ .Get "class" }}"{{ end }}>
+    <div class="amazon-shortcode-box">
+        <div class="amazon-shortcode-image">
+            <a href="{{ .Get "img_href" }}" target="_blank">
+            </a>
+        </div>
+        <div class="amazon-shortcode-info">
+            <p class="amazon-shortcode-title">
+                {{ .Get "title" }}
+            </p>
+            <div class="amazon-shortcode-button">
+                <a target="_blank"  href="{{ .Get "button" }}" class="button-a">
+			    Amazonで見てみる!
+                </a>
+            </div>
+        </div>
+    </div>
+</figure>

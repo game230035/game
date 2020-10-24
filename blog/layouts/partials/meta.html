@@ -1,0 +1,11 @@
+<meta name="pinterest" content="nopin">
+<meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
+<meta name="theme-color" content="#263238">
+<meta name="yggdore-confirmation" content="rSzdm9GWJOT1nSex1sdJ0O4RbhRtMu75" />
+{{ with .Site.Params.contact }}<meta name="contact" content="{{ . }}">{{ end }}
+{{ hugo.Generator }}
+<link rel="apple-touch-icon" href="{{ .Site.BaseURL }}favicon.png">
+{{ range .AlternativeOutputFormats -}}
+<link rel="{{ .Rel }}" type="{{ .MediaType.Type | html }}" href="{{ .Permalink | safeURL }}" title="{{ $.Site.Title | safeHTML }}">
+{{ end -}}
+

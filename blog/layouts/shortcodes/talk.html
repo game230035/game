@@ -1,0 +1,17 @@
+{{ $chara := or (.Get "chara") "" }}
+{{ with .Site.Params.author }}
+    <div class="talk">
+        {{ with .thumbnail }}
+
+        
+          <div class="faceicon" style="background-image: url({{ $.Site.BaseURL }}images/auther.JPG);"></div>
+        
+
+      {{ end }}
+      <div class="chatting">
+        <div class="talk_serif">
+          <p>{{ $.Inner | markdownify }}</p>
+        </div>
+      </div>
+    </div>
+{{ end }}

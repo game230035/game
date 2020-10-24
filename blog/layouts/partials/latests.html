@@ -1,0 +1,18 @@
+<section class="sidebar">
+  <header>最新記事</header>
+  <div>
+    <div class="articles sm">
+      {{ $number := 0 }}
+      {{ range $i, $p := (first 50 $.Site.Pages.ByLastmod.Reverse) }}
+        {{ if eq ".Title" "クソ日記" }}
+        {{ if and (.IsPage) (lt $number 5)}}
+          
+          {{ .Render "li_sm" }}
+          {{ $number = add $number 1 }}
+
+        {{ end }}
+        {{ end }}
+      {{ end }}
+    </div>
+  </div>
+</section>
