@@ -2,7 +2,7 @@
 title: "クラッシュ ロワイヤル"
 date: 2020-10-22T21:27:24+09:00
 draft: false
-thumbnail: "images/thumbnail_.png"
+thumbnail: "images/thumbnail_kurarowa.png"
 categories: ["レビュー"]
 tags: ["クラロワ"]
 toc: true
