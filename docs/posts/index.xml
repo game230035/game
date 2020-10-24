@@ -1,12 +1,72 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My New Hugo Site</title>
+    <title>Posts on ゲームを作ろうじゃないか</title>
     <link>https://oosako.github.io/game/posts/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
+    <description>Recent content in Posts on ゲームを作ろうじゃないか</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Oct 2020 21:27:24 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2020 22:03:01 +0900</lastBuildDate>
     <atom:link href="/game/posts/" rel="self" type="application/rss+xml"/>
+    
+    <item>
+      <title>気になるアセット</title>
+      <link>https://oosako.github.io/game/posts/howto2/</link>
+      <pubDate>Sat, 24 Oct 2020 22:03:01 +0900</pubDate>
+      
+      <guid>https://oosako.github.io/game/posts/howto2/</guid>
+      <description>
+        <p>2020年10月現在で気になるUnityアセット
+画像クリックでstoreに飛べます。
+2020年10月現在で気になるUnityアセット 画像クリックでstoreに飛べます。
+購入方針 基本的に便利なもの・人気があるものは高い！
+セールになるまで待つ。
+ただ、欲しい物で1年待ってるとかであれば、買ったほうが良い。
+人気のものはだんだん値上がりする傾向がある。
+便利そうで、将来使うかもな〜というのは買わない。使わないことが多い。
+Unityのバージョンアップで使えなくなるアセットが結構ある。有料・人気のモノはだいたい対応してくれるけど。
+あと、ずっとUnityを使い続けるんですか？Unreal Engineに移行したりしませんか？とかの将来も。
+SEとかは腐らないので、買って良いと思う。
+あとスマホを作る時は、アセットがスマホに対応しているかも調べる。
+参照サイト https://www.youtube.com/watch?v=7GUFekIo5v8
+https://www.youtube.com/watch?v=GsY6j0TeVu8
+https://www.youtube.com/watch?v=Oj9GTIbp0lM
+Pixel UI 2Dゲームに利用できそうなUIデザインのサンプル。
+アニメーションとかも付いていて良さそう。
+ただちょっとドット色が強すぎる感じはする。
+   Frost - Complete UI PCゲームに利用できそうなUIサンプル。
+アニメーション具合が人気のゲームのものそのまんま。
+PCゲームは今の所作る予定無いけど。
+   Procedural UI Image フラットでシンプルなUI。一つ一つの形状をリソースを使うことなく、コンポーネントでUIの形状を作成できる。
+サンプル画像からおそらくスマホにも対応しているようで、気になっています。
+   Peek - Editor Toolkit ヒエラルキーやインスペクターとかの邪魔な表示を取り除けて、Sceneでクリックで表示させることができる。
+   Editor Console Pro テキスト、ファイル名、クラス、ゲームオブジェクトをフィルターできたり、正規表現で検索できたりする。
+今の所いらないけど、必要なときも来るかもということでメモ。
+   Rainbow Folders 2 フォルダの色分けや背景色、アイコン設定などできるようです。
+かなり欲しい。
+Unityってデフォルトでアイコンとか変わらないので、これを導入すれば、見やすくなるかなと思う。
+変える方法あるのかもしれないけど、、まぁ、簡単に変えられるんだったら、このアセットこんなに売れてないかなと。
+   Anti-Cheat Toolkit チート対策ツール。...</p>
+        <p><a href="https://oosako.github.io/game/posts/howto2/">Read More</a></p>
+      </description>
+    </item>
+    
+    <item>
+      <title>遅延して処理する方法</title>
+      <link>https://oosako.github.io/game/posts/howto1/</link>
+      <pubDate>Sat, 24 Oct 2020 21:47:06 +0900</pubDate>
+      
+      <guid>https://oosako.github.io/game/posts/howto1/</guid>
+      <description>
+        <p>ここの神サイトを見てください。
+(:3[kanのメモ帳]引数を渡して遅延処理【Unity】【拡張メソッド】
+上記サイトの
+MonoBehaviorExtentsionを作成し
+記事内人同じく
+StartCoroutine(this.DelayMethod(1.0f, メソッド名, 引数));
+で利用できます。...</p>
+        <p><a href="https://oosako.github.io/game/posts/howto1/">Read More</a></p>
+      </description>
+    </item>
     
     <item>
       <title>クラッシュ ロワイヤル</title>
