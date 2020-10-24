@@ -1,0 +1,24 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on My New Hugo Site</title>
+    <link>https://oosako.github.io/game/categories/</link>
+    <description>Recent content in Categories on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 22 Oct 2020 21:27:24 +0900</lastBuildDate>
+    <atom:link href="/game/categories/" rel="self" type="application/rss+xml"/>
+    
+    <item>
+      <title>レビュー</title>
+      <link>https://oosako.github.io/game/categories/%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC/</link>
+      <pubDate>Thu, 22 Oct 2020 21:27:24 +0900</pubDate>
+      
+      <guid>https://oosako.github.io/game/categories/%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC/</guid>
+      <description>
+        <p>...</p>
+        <p><a href="https://oosako.github.io/game/categories/%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC/">Read More</a></p>
+      </description>
+    </item>
+    
+  </channel>
+</rss>
