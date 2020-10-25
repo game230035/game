@@ -2,9 +2,9 @@
 title: "遅延して処理する方法"
 date: 2020-10-24T21:47:06+09:00
 draft: false
-thumbnail: "images/thumbnail_program.png"
-categories: ["プログラム"]
-tags: ["遅延処理"]
+thumbnail: "images/thumbnail_.png"
+categories: [""]
+tags: [""]
 toc: true
 ---
 ここの神サイトを見てください。  

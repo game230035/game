@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on ゲームを作ろうじゃないか</title>
-    <link>https://oosako.github.io/game/posts/</link>
-    <description>Recent content in Posts on ゲームを作ろうじゃないか</description>
+    <title>気になるアセット on ゲームを作ろうじゃないか</title>
+    <link>https://oosako.github.io/game/tags/%E6%B0%97%E3%81%AB%E3%81%AA%E3%82%8B%E3%82%A2%E3%82%BB%E3%83%83%E3%83%88/</link>
+    <description>Recent content in 気になるアセット on ゲームを作ろうじゃないか</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 24 Oct 2020 22:03:01 +0900</lastBuildDate>
-    <atom:link href="/game/posts/" rel="self" type="application/rss+xml"/>
+    <atom:link href="/game/tags/%E6%B0%97%E3%81%AB%E3%81%AA%E3%82%8B%E3%82%A2%E3%82%BB%E3%83%83%E3%83%88/" rel="self" type="application/rss+xml"/>
     
     <item>
       <title>気になるアセット</title>
@@ -47,43 +47,6 @@ Unityってデフォルトでアイコンとか変わらないので、これを
 変える方法あるのかもしれないけど、、まぁ、簡単に変えられるんだったら、このアセットこんなに売れてないかなと。
    Anti-Cheat Toolkit チート対策ツール。...</p>
         <p><a href="https://oosako.github.io/game/posts/asset1/">Read More</a></p>
-      </description>
-    </item>
-    
-    <item>
-      <title>遅延して処理する方法</title>
-      <link>https://oosako.github.io/game/posts/howto1/</link>
-      <pubDate>Sat, 24 Oct 2020 21:47:06 +0900</pubDate>
-      
-      <guid>https://oosako.github.io/game/posts/howto1/</guid>
-      <description>
-        <p>ここの神サイトを見てください。
-(:3[kanのメモ帳]引数を渡して遅延処理【Unity】【拡張メソッド】
-上記サイトの
-MonoBehaviorExtentsionを作成し
-記事内人同じく
-StartCoroutine(this.DelayMethod(1.0f, メソッド名, 引数));
-で利用できます。...</p>
-        <p><a href="https://oosako.github.io/game/posts/howto1/">Read More</a></p>
-      </description>
-    </item>
-    
-    <item>
-      <title>クラッシュ ロワイヤル</title>
-      <link>https://oosako.github.io/game/posts/%E3%82%AF%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%E3%83%AD%E3%83%AF%E3%82%A4%E3%83%A4%E3%83%AB/</link>
-      <pubDate>Thu, 22 Oct 2020 21:27:24 +0900</pubDate>
-      
-      <guid>https://oosako.github.io/game/posts/%E3%82%AF%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%E3%83%AD%E3%83%AF%E3%82%A4%E3%83%A4%E3%83%AB/</guid>
-      <description>
-        <p>   2020年10月で一番面白いと思えるゲーム。
-もちろん仕様的に嫌と思える部分や、リリースからだいぶ経っていて、過疎を感じる部分もある。
-基本ルール 100体を超えるキャラクターから8体を選んで、
-戦場に良いタイミングで、状況を良くするキャラクターを置くだけ
-キャラクターはAIで自動行動する。
-面白いと思える点  新規キャラゲットにガチャは必要としない、ほぼ必ず手に入れられる。 キャラクターのゲームバランス調整が随時行われている。 キャラの性能が三すくみ関係になっている。 +αのルールがあり、飽きない工夫がある。 ユニークな3Dキャラ  つまらないと思える点  煽りアイコンがある
-バトル中煽りとも取れるアイコンを表示させることができる。
-アイコンを表示させないことも設定で可能なので、そこまで比重はない。 プレイヤーレベルやキャラクターレベル差の影響がかなりある。 それぞれのキャラレベルを容易にあげられない。 なので、それぞれのレベルがカンストしてからが本番という面もある。 課金したとしても半年ぐらいかかるのでわ。  ...</p>
-        <p><a href="https://oosako.github.io/game/posts/%E3%82%AF%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%E3%83%AD%E3%83%AF%E3%82%A4%E3%83%A4%E3%83%AB/">Read More</a></p>
       </description>
     </item>
     

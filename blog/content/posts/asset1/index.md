@@ -2,9 +2,9 @@
 title: "気になるアセット"
 date: 2020-10-24T22:03:01+09:00
 draft: false
-thumbnail: "images/thumbnail_.png"
-categories: [""]
-tags: [""]
+thumbnail: "images/thumbnail_asset.png"
+categories: ["アセット"]
+tags: ["気になるアセット"]
 toc: true
 ---
 2020年10月現在で気になるUnityアセット  

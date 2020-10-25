@@ -1,0 +1,24 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ゲームを作ろうじゃないか on ゲームを作ろうじゃないか</title>
+    <link>https://oosako.github.io/game/</link>
+    <description>Recent content in ゲームを作ろうじゃないか on ゲームを作ろうじゃないか</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 24 Oct 2020 22:03:01 +0900</lastBuildDate>
+    <atom:link href="/game/" rel="self" type="application/rss+xml"/>
+    
+    <item>
+      <title>Posts</title>
+      <link>https://oosako.github.io/game/posts/</link>
+      <pubDate>Sat, 24 Oct 2020 22:03:01 +0900</pubDate>
+      
+      <guid>https://oosako.github.io/game/posts/</guid>
+      <description>
+        <p>...</p>
+        <p><a href="https://oosako.github.io/game/posts/">Read More</a></p>
+      </description>
+    </item>
+    
+  </channel>
+</rss>
