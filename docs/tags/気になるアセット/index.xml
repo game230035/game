@@ -33,21 +33,19 @@ https://www.youtube.com/watch?v=Oj9GTIbp0lM
 Pixel UI 2Dゲームに利用できそうなUIデザインのサンプル。
 アニメーションとかも付いていて良さそう。
 ただちょっとドット色が強すぎる感じはする。
-  Frost - Complete UI PCゲームに利用できそうなUIサンプル。
+   Frost - Complete UI PCゲームに利用できそうなUIサンプル。
 アニメーション具合が人気のゲームのものそのまんま。
 PCゲームは今の所作る予定無いけど。
-  Procedural UI Image フラットでシンプルなUI。一つ一つの形状をリソースを使うことなく、コンポーネントでUIの形状を作成できる。
+   Procedural UI Image フラットでシンプルなUI。一つ一つの形状をリソースを使うことなく、コンポーネントでUIの形状を作成できる。
 サンプル画像からおそらくスマホにも対応しているようで、気になっています。
-  Peek - Editor Toolkit ヒエラルキーやインスペクターとかの邪魔な表示を取り除けて、Sceneでクリックで表示させることができる。
-  Editor Console Pro テキスト、ファイル名、クラス、ゲームオブジェクトをフィルターできたり、正規表現で検索できたりする。
+   Peek - Editor Toolkit ヒエラルキーやインスペクターとかの邪魔な表示を取り除けて、Sceneでクリックで表示させることができる。
+   Editor Console Pro テキスト、ファイル名、クラス、ゲームオブジェクトをフィルターできたり、正規表現で検索できたりする。
 今の所いらないけど、必要なときも来るかもということでメモ。
-  Rainbow Folders 2 フォルダの色分けや背景色、アイコン設定などできるようです。
+   Rainbow Folders 2 フォルダの色分けや背景色、アイコン設定などできるようです。
 かなり欲しい。
 Unityってデフォルトでアイコンとか変わらないので、これを導入すれば、見やすくなるかなと思う。
 変える方法あるのかもしれないけど、、まぁ、簡単に変えられるんだったら、このアセットこんなに売れてないかなと。
-  Anti-Cheat Toolkit チート対策ツール。
-ゲームとかでは必須級なアセットだけど、、、高い。
-  I2 Localization ローカライズが簡単にできるアセット。...</p>
+   Anti-Cheat Toolkit チート対策ツール。...</p>
         <p><a href="https://oosako.github.io/game/posts/asset1/">Read More</a></p>
       </description>
     </item>
