@@ -1,5 +1,7 @@
 #!/bin/sh
 
+
+
 cd /Users/comboengineering/work/blog/game/blog
 hugo
 cd /Users/comboengineering/work/blog/game

@@ -1,0 +1,30 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>プログラム on ゲームを作ろうじゃないか</title>
+    <link>https://oosako.github.io/game/categories/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0/</link>
+    <description>Recent content in プログラム on ゲームを作ろうじゃないか</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 24 Oct 2020 21:47:06 +0900</lastBuildDate>
+    <atom:link href="/game/categories/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0/" rel="self" type="application/rss+xml"/>
+    
+    <item>
+      <title>遅延して処理する方法</title>
+      <link>https://oosako.github.io/game/posts/howto1/</link>
+      <pubDate>Sat, 24 Oct 2020 21:47:06 +0900</pubDate>
+      
+      <guid>https://oosako.github.io/game/posts/howto1/</guid>
+      <description>
+        <p>ここの神サイトを見てください。
+(:3[kanのメモ帳]引数を渡して遅延処理【Unity】【拡張メソッド】
+上記サイトの
+MonoBehaviorExtentsionを作成し
+記事内人同じく
+StartCoroutine(this.DelayMethod(1.0f, メソッド名, 引数));
+で利用できます。...</p>
+        <p><a href="https://oosako.github.io/game/posts/howto1/">Read More</a></p>
+      </description>
+    </item>
+    
+  </channel>
+</rss>
