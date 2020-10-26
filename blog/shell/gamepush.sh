@@ -1,7 +1,7 @@
 #!/bin/sh
 
 
-
+cp -rp /Users/comboengineering/work/unity/CasualBattle/CasualBattle/CasualBattle_web /Users/comboengineering/work/blog/game/blog/content
 cd /Users/comboengineering/work/blog/game/blog
 hugo
 cd /Users/comboengineering/work/blog/game
