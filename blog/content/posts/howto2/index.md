@@ -2,9 +2,9 @@
 title: "フォントの変え方メモ"
 date: 2020-10-27T09:26:43+09:00
 draft: true
-thumbnail: "images/thumbnail_.png"
-categories: [""]
-tags: [""]
+thumbnail: "images/thumbnail_program.png"
+categories: ["プログラム"]
+tags: ["フォント"]
 toc: true
 ---
 
