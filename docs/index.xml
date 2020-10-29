@@ -1,7 +1,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ゲームを作ろうじゃないか on ゲームを作ろうじゃないか</title>
-    <link>https://oosako.github.io/game/</link>
+    <link>https://comboeng.github.io/game/</link>
     <description>Recent content in ゲームを作ろうじゃないか on ゲームを作ろうじゃないか</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -10,13 +10,13 @@
     
     <item>
       <title>Posts</title>
-      <link>https://oosako.github.io/game/posts/</link>
+      <link>https://comboeng.github.io/game/posts/</link>
       <pubDate>Sat, 24 Oct 2020 22:03:01 +0900</pubDate>
       
-      <guid>https://oosako.github.io/game/posts/</guid>
+      <guid>https://comboeng.github.io/game/posts/</guid>
       <description>
         <p>...</p>
-        <p><a href="https://oosako.github.io/game/posts/">Read More</a></p>
+        <p><a href="https://comboeng.github.io/game/posts/">Read More</a></p>
       </description>
     </item>
     
