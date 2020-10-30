@@ -1,7 +1,7 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
-draft: true
+draft: false
 thumbnail: "images/thumbnail_.png"
 categories: [""]
 tags: [""]

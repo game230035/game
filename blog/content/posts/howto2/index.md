@@ -1,7 +1,7 @@
 ---
 title: "フォントの変え方メモ"
 date: 2020-10-27T09:26:43+09:00
-draft: true
+draft: false
 thumbnail: "images/thumbnail_program.png"
 categories: ["プログラム"]
 tags: ["フォント"]
@@ -21,4 +21,5 @@ toc: true
 フォント形式は`.ttf`か`.otf`  
 TextのInspectorのFontで設定する。  
 
-
+## 結果
+{{< img src="1.png" width="50%" >}}  
