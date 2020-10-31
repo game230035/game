@@ -2,9 +2,9 @@
 title: "Unityですぐに理解できない単語"
 date: 2020-10-30T11:02:29+09:00
 draft: false
-thumbnail: "images/thumbnail_.png"
-categories: [""]
-tags: [""]
+thumbnail: "images/thumbnail_program.png"
+categories: ["プログラム"]
+tags: ["理解できない単語"]
 toc: true
 ---
 
