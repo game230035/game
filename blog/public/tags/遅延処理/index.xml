@@ -15,13 +15,7 @@
       
       <guid>https://comboeng.github.io/game/posts/howto1/</guid>
       <description>
-        <p>ここの神サイトを見てください。
-(:3[kanのメモ帳]引数を渡して遅延処理【Unity】【拡張メソッド】
-上記サイトの
-MonoBehaviorExtentsionを作成し
-記事内人同じく
-StartCoroutine(this.DelayMethod(1.0f, メソッド名, 引数));
-で利用できます。...</p>
+        <p>ここの神サイトを見てください。 (:3[kanのメモ帳]引数を渡して遅延処理【Unity】【拡張メソッド】 上記サイトの MonoBehavior...</p>
         <p><a href="https://comboeng.github.io/game/posts/howto1/">Read More</a></p>
       </description>
     </item>
