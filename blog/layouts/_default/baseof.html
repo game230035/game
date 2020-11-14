@@ -14,23 +14,22 @@
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" rel="stylesheet">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
     <style>
-{{ partial "styles.css" . | safeCSS }}
-{{ partial "custom.css" . | safeCSS }}
-{{ with .Site.Params.fontfamily }} body { font-family: {{ . | safeCSS }}; } {{ end }}
-{{ with .Site.Params.logofontfamily }} .h-logo { font-family: {{ . | safeCSS }}; } {{ end }}
-    </style>
-{{ if and .Site.GoogleAnalytics (ne (getenv "HUGO_ENV") "DEV") }}
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id={{ .Site.GoogleAnalytics }}"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+    {{ partial "styles.css" . | safeCSS }}
+    {{ partial "custom.css" . | safeCSS }}
+    {{ with .Site.Params.fontfamily }} body { font-family: {{ . | safeCSS }}; } {{ end }}
+    {{ with .Site.Params.logofontfamily }} .h-logo { font-family: {{ . | safeCSS }}; } {{ end }}
+        </style>
+    {{ if and .Site.GoogleAnalytics (ne (getenv "HUGO_ENV") "DEV") }}
+      <!-- Global site tag (gtag.js) - Google Analytics -->
+      <script async src="https://www.googletagmanager.com/gtag/js?id={{ .Site.GoogleAnalytics }}"></script>
+      <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
 
-  gtag('config', {{ .Site.GoogleAnalytics }});
-</script>
-{{ end }}
-<script data-ad-client="ca-pub-3751569977209793" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        gtag('config', {{ .Site.GoogleAnalytics }});
+      </script>
+    {{ end }}
   </head>
   <body>
     <header class="l-header">

@@ -5,8 +5,20 @@
     <description>Recent content in Posts on ゲームを作ろうじゃないか</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Nov 2020 15:16:21 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2020 18:05:23 +0900</lastBuildDate>
     <atom:link href="/game/posts/" rel="self" type="application/rss+xml"/>
+    
+    <item>
+      <title>「Energy Bar Toolkit」アセットがエラーになりますね</title>
+      <link>https://comboeng.github.io/game/posts/asset3/</link>
+      <pubDate>Sat, 14 Nov 2020 18:05:23 +0900</pubDate>
+      
+      <guid>https://comboeng.github.io/game/posts/asset3/</guid>
+      <description>
+        <p>エラーについて 体力ゲージとかで使うアセット「Energy Bar Toolkit」 ですが、WebGL向けなどにビルドしようとすると、エラーになります...</p>
+        <p><a href="https://comboeng.github.io/game/posts/asset3/">Read More</a></p>
+      </description>
+    </item>
     
     <item>
       <title>独身の日でアセットセールやってるぞ</title>
