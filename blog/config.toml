@@ -2,3 +2,7 @@ baseURL = "https://comboeng.github.io/game/"
 languageCode = "en-us"
 title = "ゲームを作ろうじゃないか"
 theme = "hugo_theme_robust"
+
+languageCode = "en-us"
+hasCJKLanguage = true
+googleAnalytics = "G-BF00B4RKZV"
