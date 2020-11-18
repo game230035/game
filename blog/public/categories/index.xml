@@ -5,8 +5,20 @@
     <description>Recent content in Categories on ゲームを作ろうじゃないか</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Nov 2020 09:05:28 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2020 23:04:36 +0900</lastBuildDate>
     <atom:link href="/game/categories/" rel="self" type="application/rss+xml"/>
+    
+    <item>
+      <title>アセット</title>
+      <link>https://comboeng.github.io/game/categories/%E3%82%A2%E3%82%BB%E3%83%83%E3%83%88/</link>
+      <pubDate>Wed, 18 Nov 2020 23:04:36 +0900</pubDate>
+      
+      <guid>https://comboeng.github.io/game/categories/%E3%82%A2%E3%82%BB%E3%83%83%E3%83%88/</guid>
+      <description>
+        <p>...</p>
+        <p><a href="https://comboeng.github.io/game/categories/%E3%82%A2%E3%82%BB%E3%83%83%E3%83%88/">Read More</a></p>
+      </description>
+    </item>
     
     <item>
       <title>プログラム</title>
@@ -29,18 +41,6 @@
       <description>
         <p>...</p>
         <p><a href="https://comboeng.github.io/game/categories/program/">Read More</a></p>
-      </description>
-    </item>
-    
-    <item>
-      <title>アセット</title>
-      <link>https://comboeng.github.io/game/categories/%E3%82%A2%E3%82%BB%E3%83%83%E3%83%88/</link>
-      <pubDate>Sat, 14 Nov 2020 18:05:23 +0900</pubDate>
-      
-      <guid>https://comboeng.github.io/game/categories/%E3%82%A2%E3%82%BB%E3%83%83%E3%83%88/</guid>
-      <description>
-        <p>...</p>
-        <p><a href="https://comboeng.github.io/game/categories/%E3%82%A2%E3%82%BB%E3%83%83%E3%83%88/">Read More</a></p>
       </description>
     </item>
     
