@@ -5,8 +5,20 @@
     <description>Recent content in プログラム on ゲームを作ろうじゃないか</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Nov 2020 09:05:28 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2020 22:46:21 +0900</lastBuildDate>
     <atom:link href="/game/categories/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0/" rel="self" type="application/rss+xml"/>
+    
+    <item>
+      <title>キャラクターにアニメーションを設定して、キー操作で動かす。</title>
+      <link>https://comboeng.github.io/game/posts/howto5/</link>
+      <pubDate>Mon, 23 Nov 2020 22:46:21 +0900</pubDate>
+      
+      <guid>https://comboeng.github.io/game/posts/howto5/</guid>
+      <description>
+        <p>目的 キャラクターに既存のアニメーションを追加設定して、「SPACE」キーをタップした時そのアニメーションを実行するようにする時の手順メモ ※ア...</p>
+        <p><a href="https://comboeng.github.io/game/posts/howto5/">Read More</a></p>
+      </description>
+    </item>
     
     <item>
       <title>AnimationController整理[リンク]</title>

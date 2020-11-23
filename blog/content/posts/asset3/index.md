@@ -2,7 +2,7 @@
 title: "「Energy Bar Toolkit」アセットがエラーになりますね"
 date: 2020-11-14T18:05:23+09:00
 draft: false
-thumbnail: "images/thumbnail_.png"
+thumbnail: "images/thumbnail_asset.png"
 categories: ["アセット"]
 tags: ["Energy Bar Toolkit"]
 toc: true
