@@ -2,7 +2,7 @@
 title: "キャラクターにアニメーションを設定して、キー操作で動かす。"
 date: 2020-11-23T22:46:21+09:00
 draft: false
-thumbnail: "images/thumbnail_program2.png"
+thumbnail: "images/thumbnail_program.png"
 categories: ["プログラム"]
 tags: ["キー操作"]
 toc: true

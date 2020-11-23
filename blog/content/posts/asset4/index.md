@@ -2,7 +2,7 @@
 title: "冬キャンペーン2020"
 date: 2020-11-18T23:04:36+09:00
 draft: false
-thumbnail: "images/thumbnail_.png"
+thumbnail: "images/thumbnail_asset3.png"
 categories: ["アセット"]
 tags: ["キャンペーン"]
 toc: true
