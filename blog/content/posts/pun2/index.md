@@ -3,7 +3,7 @@ title: "PUN2 入門ドキュメント"
 date: 2020-11-15T15:37:33+09:00
 draft: false
 thumbnail: "images/thumbnail_program.png"
-categories: ["program"]
+categories: ["プログラム"]
 tags: [""]
 toc: true
 ---
