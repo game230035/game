@@ -1,0 +1,24 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PUN2 on ゲームを作ろうじゃないか</title>
+    <link>https://comboeng.github.io/game/tags/pun2/</link>
+    <description>Recent content in PUN2 on ゲームを作ろうじゃないか</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 24 Nov 2020 09:37:26 +0900</lastBuildDate>
+    <atom:link href="/game/tags/pun2/" rel="self" type="application/rss+xml"/>
+    
+    <item>
+      <title>PUN 2を導入してみる</title>
+      <link>https://comboeng.github.io/game/posts/pun2_2/</link>
+      <pubDate>Tue, 24 Nov 2020 09:37:26 +0900</pubDate>
+      
+      <guid>https://comboeng.github.io/game/posts/pun2_2/</guid>
+      <description>
+        <p>目的 PUN 2(photon unity network 2)というネットワークで多人数と同期ゲームができる アセットの導入部分のメモ 参照サイト この記事内のことは、以下の公式サイトでやって...</p>
+        <p><a href="https://comboeng.github.io/game/posts/pun2_2/">Read More</a></p>
+      </description>
+    </item>
+    
+  </channel>
+</rss>
