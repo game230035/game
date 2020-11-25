@@ -1,6 +1,4 @@
 .webgl-customecontent * {border: 0; margin: 0; padding: 0}
-
-/* .webgl-customecontent .logo, .progress {position: absolute; left: 10%; top: 10%; -webkit-transform: translate(-10%, -10%); transform: translate(-10%, -10%);} */
 .webgl-customecontent .logo {margin-top: 90px; margin-left: 90px;}
 .webgl-customecontent .progress {margin-top: 270px; margin-left: 90px;}
 .webgl-customecontent .logo {background: url('TemplateData/progressLogo.Light.png') no-repeat center / contain; width: 154px; height: 130px;}
