@@ -3,6 +3,10 @@
 cp -rp /Users/comboengineering/work/unity/CasualBattle/CasualBattle/CasualBattle_web/TemplateData /Users/comboengineering/work/blog/game/blog/content/CasualBattle_web
 cp -rp /Users/comboengineering/work/unity/CasualBattle/CasualBattle/CasualBattle_web/Build /Users/comboengineering/work/blog/game/blog/content/CasualBattle_web
 
+cp -rp /Users/comboengineering/work/unity/DropFloor/dropfloor_web/TemplateData /Users/comboengineering/work/blog/game/blog/content/dropfloor_web
+cp -rp /Users/comboengineering/work/unity/DropFloor/dropfloor_web/Build /Users/comboengineering/work/blog/game/blog/content/dropfloor_web
+
+
 cd /Users/comboengineering/work/blog/game/blog
 hugo
 cd /Users/comboengineering/work/blog/game
