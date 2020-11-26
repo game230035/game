@@ -5,8 +5,20 @@
     <description>Recent content in Tags on ゲームを作ろうじゃないか</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Nov 2020 11:04:11 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2020 09:05:44 +0900</lastBuildDate>
     <atom:link href="/game/tags/" rel="self" type="application/rss+xml"/>
+    
+    <item>
+      <title>WebGL</title>
+      <link>https://comboeng.github.io/game/tags/webgl/</link>
+      <pubDate>Thu, 26 Nov 2020 09:05:44 +0900</pubDate>
+      
+      <guid>https://comboeng.github.io/game/tags/webgl/</guid>
+      <description>
+        <p>...</p>
+        <p><a href="https://comboeng.github.io/game/tags/webgl/">Read More</a></p>
+      </description>
+    </item>
     
     <item>
       <title>FirebaseRealtime</title>

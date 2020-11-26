@@ -2,9 +2,9 @@
 title: "MacOS BigSurだとブラウザ上でWebGLの実行ができない件"
 date: 2020-11-26T09:05:44+09:00
 draft: false
-thumbnail: "images/thumbnail_.png"
-categories: [""]
-tags: [""]
+thumbnail: "images/thumbnail_program.png"
+categories: ["プログラム"]
+tags: ["WebGL"]
 toc: true
 ---
 
