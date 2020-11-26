@@ -20,6 +20,6 @@ MacOSをBigSurにアップデートしたところ、
 以下ページに対応策が書いてあった。  
 ページ中盤にはる、WebglPostBuild.csプログラムを  
 `Assets/Scripts/Editor`配下に配置すると、ブラウザ上でWebGLが実行されるようになった。
-(Bug? Generated UnityLoader.js fails in iOS 14 public beta)[https://forum.unity.com/threads/bug-generated-unityloader-js-fails-in-ios-14-public-beta.942484/]
+[Bug? Generated UnityLoader.js fails in iOS 14 public beta](https://forum.unity.com/threads/bug-generated-unityloader-js-fails-in-ios-14-public-beta.942484/)
   
 以上。  
