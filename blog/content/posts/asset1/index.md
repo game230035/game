@@ -99,4 +99,11 @@ Unityってデフォルトでアイコンとか変わらないので、これを
 $35だけど、もう少し安くならないか。。。  
 {{< img src="9.png" width="70%" href="https://assetstore.unity.com/packages/tools/particles-effects/exploder-9771" >}}  
   
+<br>
+
+## Exploder
+ノードベースで敵のAIとかを作れる。  
+{{< img src="10.png" width="70%" href="https://assetstore.unity.com/packages/tools/visual-scripting/arbor-3-fsm-bt-graph-editor-112239?locale=ja-JP" >}}  
+{{< youtube OEfHtqIQh1I >}}  
   
+
