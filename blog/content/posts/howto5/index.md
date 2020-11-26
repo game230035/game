@@ -94,6 +94,7 @@ Time.deltaTimeとかなんぞ！？という方は冒頭の参照リンクを見
 ## 確認
 準備が出来たので、アプリを実行します。  
 SPACEキーでキャラクターが動くことを確認。  
-{{ < tweet 1306202586635145218 > }}  
+<blockquote class="twitter-tweet"><p lang="und" dir="ltr"><a href="https://t.co/pUEzeVbnPd">pic.twitter.com/pUEzeVbnPd</a></p>&mdash; タッコング (@IT67709618) <a href="https://twitter.com/IT67709618/status/1306202586635145218?ref_src=twsrc%5Etfw">September 16, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>  
+
 
 
