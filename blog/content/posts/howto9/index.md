@@ -1,5 +1,5 @@
 ---
-title: "AnimationControllerを使ったコンボ攻撃理[リンク]
+title: "AnimationControllerを使ったコンボ攻撃理[リンク]"
 date: 2020-11-30T23:06:24+09:00
 draft: false
 thumbnail: "images/thumbnail_program.png"
