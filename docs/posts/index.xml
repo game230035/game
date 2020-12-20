@@ -5,8 +5,20 @@
     <description>Recent content in Posts on ゲームを作ろうじゃないか</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 18 Dec 2020 21:50:51 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 20 Dec 2020 21:36:24 +0900</lastBuildDate>
     <atom:link href="/game/posts/" rel="self" type="application/rss+xml"/>
+    
+    <item>
+      <title>NavMeshについて</title>
+      <link>https://comboeng.github.io/game/posts/howto11/</link>
+      <pubDate>Sun, 20 Dec 2020 21:36:24 +0900</pubDate>
+      
+      <guid>https://comboeng.github.io/game/posts/howto11/</guid>
+      <description>
+        <p>NavMeshについて 設定手順とか 歩く部分をNavigation Staticにする。 Navigation StaticはInspectorInspectorのS...</p>
+        <p><a href="https://comboeng.github.io/game/posts/howto11/">Read More</a></p>
+      </description>
+    </item>
     
     <item>
       <title>空の設定</title>

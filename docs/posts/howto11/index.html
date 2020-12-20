@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>空の設定 - ゲームを作ろうじゃないか</title>
+    <title>NavMeshについて - ゲームを作ろうじゃないか</title>
     <meta name="pinterest" content="nopin">
 <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
 <meta name="theme-color" content="#263238">
@@ -12,7 +12,7 @@
 <link rel="apple-touch-icon" href="https://comboeng.github.io/game/favicon.png">
 
 
-    <link rel="canonical" href="https://comboeng.github.io/game/posts/howto10/">
+    <link rel="canonical" href="https://comboeng.github.io/game/posts/howto11/">
     
     <link href="https://fonts.googleapis.com/css?family=Roboto+Slab:400,700" rel="stylesheet">
     
@@ -1337,16 +1337,16 @@ section.sidebar > header {
 
     <article class="sn">
 
-  <div class="thumb thumb-1a5a6e7795376065841d326c90f80964"></div>
+  <div class="thumb thumb-c23ba933b7469bf40fdefea58229160d"></div>
 
   <header class="article-header">
-    <h1 class="title">空の設定</h1>
+    <h1 class="title">NavMeshについて</h1>
 
     <ul class="facts">
       <li>
         <i class="fas fa-calendar" aria-hidden="true"></i>
-          <time datetime="2020-12-18T21:50:51JST">
-            Dec 18, 2020
+          <time datetime="2020-12-20T21:36:24JST">
+            Dec 20, 2020
           </time>
       </li>
       
@@ -1354,8 +1354,8 @@ section.sidebar > header {
     </ul>
 
     <aside class="share">
-  <a href="https://twitter.com/intent/tweet?url=https%3a%2f%2fcomboeng.github.io%2fgame%2fposts%2fhowto10%2f&text=%e7%a9%ba%e3%81%ae%e8%a8%ad%e5%ae%9a&tw_p=tweetbutton" title="Twitterでシェア" class="tw" target="_blank" rel="nofollow"><i class="fab fa-twitter" aria-hidden="true"></i></a>
-  <a href="https://getpocket.com/edit?url=https%3a%2f%2fcomboeng.github.io%2fgame%2fposts%2fhowto10%2f&title=%e7%a9%ba%e3%81%ae%e8%a8%ad%e5%ae%9a" title="Pocketに保存" class="pk" target="_blank" rel="nofollow"><i class="fab fa-get-pocket" aria-hidden="true"></i></a>
+  <a href="https://twitter.com/intent/tweet?url=https%3a%2f%2fcomboeng.github.io%2fgame%2fposts%2fhowto11%2f&text=NavMesh%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6&tw_p=tweetbutton" title="Twitterでシェア" class="tw" target="_blank" rel="nofollow"><i class="fab fa-twitter" aria-hidden="true"></i></a>
+  <a href="https://getpocket.com/edit?url=https%3a%2f%2fcomboeng.github.io%2fgame%2fposts%2fhowto11%2f&title=NavMesh%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6" title="Pocketに保存" class="pk" target="_blank" rel="nofollow"><i class="fab fa-get-pocket" aria-hidden="true"></i></a>
 </aside>
 
   </header>
@@ -1364,23 +1364,46 @@ section.sidebar > header {
   <div class="toc">
     <nav id="TableOfContents">
   <ul>
-    <li><a href="#空の設定方法">空の設定方法</a></li>
+    <li><a href="#navmeshについて設定手順とか">NavMeshについて　設定手順とか</a></li>
   </ul>
 </nav>
   </div>
   
-  <div class="article-body"><h2 id="空の設定方法">空の設定方法</h2>
-<p>Window -&gt; Rendering -&gt; Light Settings</p>
-<p>Skybox Materialを修正</p>
-<p>これだけなのに忘れる。</p>
-<p>というか、Light Settingの表示がUnityのバージョンごとに変更している（気がする。。。）</p>
+  <div class="article-body"><h2 id="navmeshについて設定手順とか">NavMeshについて　設定手順とか</h2>
+<ul>
+<li>
+<p>歩く部分をNavigation Staticにする。
+Navigation StaticはInspectorInspectorのStaticにて</p>
+</li>
+<li>
+<p>Navigation画面を開く
+NavigationはUnityツールバーのWindow &gt; AI &gt; Navigation<br>
+versionによって変わるイメージ（やめてくれ）</p>
+</li>
+<li>
+<p>Navigation設定を行う
+歩かせたくない場所はNot walkable<br>
+歩かせたい場所はWalkable<br>
+とかにする。</p>
+</li>
+<li>
+<p>設定
+Bakeタブを開いて、Bakeボタンをタップ。<br>
+歩ける場所は色が水色となる。<br>
+<img src="2020-12-20-22-00-29.png" alt=""></p>
+</li>
+<li>
+<p>NPC設定
+NPCのGameObectにNav Mesh Agentをアタッチする。</p>
+</li>
+</ul>
 </div>
 
   <footer class="article-footer">
 
     <aside class="share">
-  <a href="https://twitter.com/intent/tweet?url=https%3a%2f%2fcomboeng.github.io%2fgame%2fposts%2fhowto10%2f&text=%e7%a9%ba%e3%81%ae%e8%a8%ad%e5%ae%9a&tw_p=tweetbutton" title="Twitterでシェア" class="tw" target="_blank" rel="nofollow"><i class="fab fa-twitter" aria-hidden="true"></i></a>
-  <a href="https://getpocket.com/edit?url=https%3a%2f%2fcomboeng.github.io%2fgame%2fposts%2fhowto10%2f&title=%e7%a9%ba%e3%81%ae%e8%a8%ad%e5%ae%9a" title="Pocketに保存" class="pk" target="_blank" rel="nofollow"><i class="fab fa-get-pocket" aria-hidden="true"></i></a>
+  <a href="https://twitter.com/intent/tweet?url=https%3a%2f%2fcomboeng.github.io%2fgame%2fposts%2fhowto11%2f&text=NavMesh%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6&tw_p=tweetbutton" title="Twitterでシェア" class="tw" target="_blank" rel="nofollow"><i class="fab fa-twitter" aria-hidden="true"></i></a>
+  <a href="https://getpocket.com/edit?url=https%3a%2f%2fcomboeng.github.io%2fgame%2fposts%2fhowto11%2f&title=NavMesh%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6" title="Pocketに保存" class="pk" target="_blank" rel="nofollow"><i class="fab fa-get-pocket" aria-hidden="true"></i></a>
 </aside>
 
 
@@ -1392,7 +1415,7 @@ section.sidebar > header {
             
             <li itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="https://comboeng.github.io/game/posts/" itemprop="url"><span itemprop="title">POSTS</span></a></li>
             
-            <li class="active">空の設定</li>
+            <li class="active">NavMeshについて</li>
           </ol>
         </nav>
       </div>
@@ -1430,7 +1453,7 @@ section.sidebar > header {
         <div>
           <ul class="terms">
             
-            <li><a href="https://comboeng.github.io/game/tags/%E7%A9%BA/">空</a></li>
+            <li><a href="https://comboeng.github.io/game/tags/navmesh/">NavMesh</a></li>
             
           </ul>
         </div>
@@ -1527,7 +1550,7 @@ section.sidebar > header {
 <section class="sidebar">
   <header>SEARCH</header>
   <div >
-    <form class="custome_form" action="https://comboeng.github.io/game/posts/howto10/" onkeyup="search()">
+    <form class="custome_form" action="https://comboeng.github.io/game/posts/howto11/" onkeyup="search()">
       <input id="search-query" placeholder="記事の検索" name="query" autocomplete="off" search />
     </form>
 
