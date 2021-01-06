@@ -14,8 +14,8 @@ FirebaseRealtimeにて設定したデータベースを、UnityのC#プログラ
   
 ## 公式ドキュメント
 Googleによる公式ドキュメントは以下となります。  
-(Unity プロジェクトに Firebase を追加する)[https://firebase.google.com/docs/unity/setup?hl=ja]  
-(Unity の Firebase Realtime Database を使ってみる)[https://firebase.google.com/docs/database/unity/start?hl=ja]  
+[Unity プロジェクトに Firebase を追加する](https://firebase.google.com/docs/unity/setup?hl=ja)  
+[Unity の Firebase Realtime Database を使ってみる](https://firebase.google.com/docs/database/unity/start?hl=ja)  
   
 
 ## 環境について
@@ -31,7 +31,7 @@ Googleによる公式ドキュメントは以下となります。
 
 ## Firebase プロジェクトを作成
 ブラウザより、Firebaseに接続して、アプリを登録します。  
-(Firebase)[https://console.firebase.google.com/u/0/?hl=ja]  
+[Firebase](https://console.firebase.google.com/u/0/?hl=ja)  
 ![](2020-11-24-11-08-51.png)  
 ![](2020-11-24-11-09-05.png)  
 ![](2020-11-24-11-09-19.png)  
@@ -106,7 +106,14 @@ Realtime Databaseページが表示され、以下のように表記されてい
 
 ## プログラムにて設定したデータを取得
 UnityにてC#プログラムでRealtime Databaseで設定したデータを取得します。  
-{{< code lang="" title="" >}}
+{{< code lang="C#" title="データ取得" >}}
+using Firebase;
+using Firebase.Database;
+using Firebase.Unity.Editor;
+
+....
+
+
 // Set this before calling into the realtime database.
 FirebaseApp.DefaultInstance.SetEditorDatabaseUrl("https://YOUR-FIREBASE-APP.firebaseio.com/");
 

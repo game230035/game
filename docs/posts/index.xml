@@ -5,8 +5,32 @@
     <description>Recent content in Posts on ゲームを作ろうじゃないか</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 20 Dec 2020 21:36:24 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 06 Jan 2021 22:34:49 +0900</lastBuildDate>
     <atom:link href="/game/posts/" rel="self" type="application/rss+xml"/>
+    
+    <item>
+      <title>WebGLでゲームを出力するとUnityWebRequestでエラーになる</title>
+      <link>https://comboeng.github.io/game/posts/howto13/</link>
+      <pubDate>Wed, 06 Jan 2021 22:34:49 +0900</pubDate>
+      
+      <guid>https://comboeng.github.io/game/posts/howto13/</guid>
+      <description>
+        <p>エラー詳細 WebGLで出力したゲームについて、ゲーム中にUnityWebRequestなどで自サーバにアクセスすると、 UNKNOWNエラーに...</p>
+        <p><a href="https://comboeng.github.io/game/posts/howto13/">Read More</a></p>
+      </description>
+    </item>
+    
+    <item>
+      <title>UnityプレジェクトをGit管理するときのignore設定</title>
+      <link>https://comboeng.github.io/game/posts/howto12/</link>
+      <pubDate>Fri, 01 Jan 2021 17:24:22 +0900</pubDate>
+      
+      <guid>https://comboeng.github.io/game/posts/howto12/</guid>
+      <description>
+        <p>目的 UnityプレジェクトをGit管理する場合のignore設定のリンク 参照先 gitignore/Unity.gitignore...</p>
+        <p><a href="https://comboeng.github.io/game/posts/howto12/">Read More</a></p>
+      </description>
+    </item>
     
     <item>
       <title>NavMeshについて</title>
@@ -221,18 +245,6 @@
       <description>
         <p>ここの神サイトを見てください。 (:3[kanのメモ帳]引数を渡して遅延処理【Unity】【拡張メソッド】 上記サイトの MonoBehavior...</p>
         <p><a href="https://comboeng.github.io/game/posts/howto1/">Read More</a></p>
-      </description>
-    </item>
-    
-    <item>
-      <title>クラッシュ ロワイヤル</title>
-      <link>https://comboeng.github.io/game/posts/%E3%82%AF%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%E3%83%AD%E3%83%AF%E3%82%A4%E3%83%A4%E3%83%AB/</link>
-      <pubDate>Thu, 22 Oct 2020 21:27:24 +0900</pubDate>
-      
-      <guid>https://comboeng.github.io/game/posts/%E3%82%AF%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%E3%83%AD%E3%83%AF%E3%82%A4%E3%83%A4%E3%83%AB/</guid>
-      <description>
-        <p>2020年10月で一番面白いと思えるゲーム。 もちろん仕様的に嫌と思える部分や、リリースからだいぶ経っていて、過疎を感じる部分もある。 基本ルー...</p>
-        <p><a href="https://comboeng.github.io/game/posts/%E3%82%AF%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%E3%83%AD%E3%83%AF%E3%82%A4%E3%83%A4%E3%83%AB/">Read More</a></p>
       </description>
     </item>
     

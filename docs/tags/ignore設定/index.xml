@@ -1,0 +1,24 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ignore設定 on ゲームを作ろうじゃないか</title>
+    <link>https://comboeng.github.io/game/tags/ignore%E8%A8%AD%E5%AE%9A/</link>
+    <description>Recent content in ignore設定 on ゲームを作ろうじゃないか</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Jan 2021 17:24:22 +0900</lastBuildDate>
+    <atom:link href="/game/tags/ignore%E8%A8%AD%E5%AE%9A/" rel="self" type="application/rss+xml"/>
+    
+    <item>
+      <title>UnityプレジェクトをGit管理するときのignore設定</title>
+      <link>https://comboeng.github.io/game/posts/howto12/</link>
+      <pubDate>Fri, 01 Jan 2021 17:24:22 +0900</pubDate>
+      
+      <guid>https://comboeng.github.io/game/posts/howto12/</guid>
+      <description>
+        <p>目的 UnityプレジェクトをGit管理する場合のignore設定のリンク 参照先 gitignore/Unity.gitignore...</p>
+        <p><a href="https://comboeng.github.io/game/posts/howto12/">Read More</a></p>
+      </description>
+    </item>
+    
+  </channel>
+</rss>

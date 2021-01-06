@@ -32,4 +32,6 @@ Bakeタブを開いて、Bakeボタンをタップ。
 - NPC設定
 NPCのGameObectにNav Mesh Agentをアタッチする。  
 
+- Nav Mesh Agentのプロパティについて
+[Unity ナビメッシュエージェント](https://docs.unity3d.com/ja/current/Manual/class-NavMeshAgent.html)  
 
