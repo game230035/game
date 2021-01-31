@@ -5,8 +5,20 @@
     <description>Recent content in Categories on ゲームを作ろうじゃないか</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 06 Jan 2021 22:34:49 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 31 Jan 2021 14:26:03 +0900</lastBuildDate>
     <atom:link href="/game/categories/" rel="self" type="application/rss+xml"/>
+    
+    <item>
+      <title>レビュー</title>
+      <link>https://comboeng.github.io/game/categories/%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC/</link>
+      <pubDate>Sun, 31 Jan 2021 14:26:03 +0900</pubDate>
+      
+      <guid>https://comboeng.github.io/game/categories/%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC/</guid>
+      <description>
+        <p>...</p>
+        <p><a href="https://comboeng.github.io/game/categories/%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC/">Read More</a></p>
+      </description>
+    </item>
     
     <item>
       <title>プログラム</title>
@@ -29,18 +41,6 @@
       <description>
         <p>...</p>
         <p><a href="https://comboeng.github.io/game/categories/%E3%82%A2%E3%82%BB%E3%83%83%E3%83%88/">Read More</a></p>
-      </description>
-    </item>
-    
-    <item>
-      <title>レビュー</title>
-      <link>https://comboeng.github.io/game/categories/%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC/</link>
-      <pubDate>Thu, 22 Oct 2020 21:27:24 +0900</pubDate>
-      
-      <guid>https://comboeng.github.io/game/categories/%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC/</guid>
-      <description>
-        <p>...</p>
-        <p><a href="https://comboeng.github.io/game/categories/%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC/">Read More</a></p>
       </description>
     </item>
     

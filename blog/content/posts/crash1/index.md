@@ -1,5 +1,5 @@
 ---
-title: "クラッシュ ロワイヤル"
+title: "クラッシュ ロワイヤル 今一番ハマっています"
 date: 2020-10-22T21:27:24+09:00
 draft: false
 thumbnail: "images/thumbnail_kurarowa.png"

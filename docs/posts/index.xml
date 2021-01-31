@@ -5,8 +5,20 @@
     <description>Recent content in Posts on ゲームを作ろうじゃないか</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 06 Jan 2021 22:34:49 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 31 Jan 2021 14:26:03 +0900</lastBuildDate>
     <atom:link href="/game/posts/" rel="self" type="application/rss+xml"/>
+    
+    <item>
+      <title>クラッシュ ロワイヤル やらなくなった</title>
+      <link>https://comboeng.github.io/game/posts/crash2/</link>
+      <pubDate>Sun, 31 Jan 2021 14:26:03 +0900</pubDate>
+      
+      <guid>https://comboeng.github.io/game/posts/crash2/</guid>
+      <description>
+        <p>クラッシュ ロワイヤル 今一番ハマっています という記事をあげましたが。 やらなくなりました。 やらなくなった考察を。 2020年10月ですごい面白いと...</p>
+        <p><a href="https://comboeng.github.io/game/posts/crash2/">Read More</a></p>
+      </description>
+    </item>
     
     <item>
       <title>WebGLでゲームを出力するとUnityWebRequestでエラーになる</title>
@@ -233,18 +245,6 @@
       <description>
         <p>2020年10月現在で気になるUnityアセット 画像クリックでstoreに飛べます。 2020年10月現在で気になるUnityアセット 画像クリ...</p>
         <p><a href="https://comboeng.github.io/game/posts/asset1/">Read More</a></p>
-      </description>
-    </item>
-    
-    <item>
-      <title>遅延して処理する方法</title>
-      <link>https://comboeng.github.io/game/posts/howto1/</link>
-      <pubDate>Sat, 24 Oct 2020 21:47:06 +0900</pubDate>
-      
-      <guid>https://comboeng.github.io/game/posts/howto1/</guid>
-      <description>
-        <p>ここの神サイトを見てください。 (:3[kanのメモ帳]引数を渡して遅延処理【Unity】【拡張メソッド】 上記サイトの MonoBehavior...</p>
-        <p><a href="https://comboeng.github.io/game/posts/howto1/">Read More</a></p>
       </description>
     </item>
     
