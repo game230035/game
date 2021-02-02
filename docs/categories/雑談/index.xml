@@ -1,0 +1,24 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>雑談 on ゲームを作ろうじゃないか</title>
+    <link>https://comboeng.github.io/game/categories/%E9%9B%91%E8%AB%87/</link>
+    <description>Recent content in 雑談 on ゲームを作ろうじゃないか</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 02 Feb 2021 11:12:59 +0900</lastBuildDate>
+    <atom:link href="/game/categories/%E9%9B%91%E8%AB%87/" rel="self" type="application/rss+xml"/>
+    
+    <item>
+      <title>Stadiaは終了というわけではないよ</title>
+      <link>https://comboeng.github.io/game/posts/talk1/</link>
+      <pubDate>Tue, 02 Feb 2021 11:12:59 +0900</pubDate>
+      
+      <guid>https://comboeng.github.io/game/posts/talk1/</guid>
+      <description>
+        <p>Stadiaゲーム開発スタジオを閉鎖 Focusing on Stadia’s future as a platform, and winding down SG&amp;E Googleが発表していたゲーミングサービス「Stadia」について...</p>
+        <p><a href="https://comboeng.github.io/game/posts/talk1/">Read More</a></p>
+      </description>
+    </item>
+    
+  </channel>
+</rss>
