@@ -5,8 +5,20 @@
     <description>Recent content in Posts on ゲームを作ろうじゃないか</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 02 Feb 2021 11:12:59 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 12 Feb 2021 19:51:16 +0900</lastBuildDate>
     <atom:link href="/game/posts/" rel="self" type="application/rss+xml"/>
+    
+    <item>
+      <title>[アンリアルエンジン]MetaHuman Creatorというアプリがすごい</title>
+      <link>https://comboeng.github.io/game/posts/asset6/</link>
+      <pubDate>Fri, 12 Feb 2021 19:51:16 +0900</pubDate>
+      
+      <guid>https://comboeng.github.io/game/posts/asset6/</guid>
+      <description>
+        <p>この記事について アンリアルエンジン（UE）を開発している、Epic Gamesが開発したMetaHuman Creatorというアプリがすごいで...</p>
+        <p><a href="https://comboeng.github.io/game/posts/asset6/">Read More</a></p>
+      </description>
+    </item>
     
     <item>
       <title>Stadiaは終了というわけではないよ</title>
@@ -233,18 +245,6 @@
       <description>
         <p>独身の日セールとは 独身の日とは 中国では「独身」を連想する 1が 4つ並ぶ11月11日を「光棍節」と呼んで祝う、 日本や欧米における「Black Fr...</p>
         <p><a href="https://comboeng.github.io/game/posts/asset2/">Read More</a></p>
-      </description>
-    </item>
-    
-    <item>
-      <title>Unityですぐに理解できない単語</title>
-      <link>https://comboeng.github.io/game/posts/howto3/</link>
-      <pubDate>Fri, 30 Oct 2020 11:02:29 +0900</pubDate>
-      
-      <guid>https://comboeng.github.io/game/posts/howto3/</guid>
-      <description>
-        <p>このページについては、個人的見解も多く含んでいます。 見解ミス部分の参照による第三者の責任負担は出来ませんので、了承ください。参照程度としてく...</p>
-        <p><a href="https://comboeng.github.io/game/posts/howto3/">Read More</a></p>
       </description>
     </item>
     
