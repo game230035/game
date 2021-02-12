@@ -4,3 +4,7 @@ title = "ゲームを作ろうじゃないか"
 theme = "hugo_theme_robust"
 hasCJKLanguage = true
 googleAnalytics = "G-BF00B4RKZV"
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

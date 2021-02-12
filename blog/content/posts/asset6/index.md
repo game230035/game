@@ -8,7 +8,7 @@ tags: ["MetaHuman Creator"]
 toc: true
 ---
 ## この記事について
-アンリアルエンジン（UE）を開発している、Epic Gamesが開発した*MetaHuman Creator*というアプリがすごいです。  
+アンリアルエンジン（UE）を開発している、Epic Gamesが開発した*MetaHuman Creator*というアプリがすごいです!  
 
   
 <blockquote class="twitter-tweet" data-theme="dark"><p lang="ja" dir="ltr">MetaHuman Creator プロジェクトに関する最新の開発情報をいち早くお知りになりたいですか？<br><br>こちらにご登録いただいた方には、デジタル ヒューマンと MetaHuman Creator プロジェクトに関する記事やイベント、お知らせをお送りします<a href="https://t.co/tHzs8GWpwl">https://t.co/tHzs8GWpwl</a> <a href="https://t.co/QSSouzRtDy">pic.twitter.com/QSSouzRtDy</a></p>&mdash; アンリアルエンジン (@UnrealEngineJP) <a href="https://twitter.com/UnrealEngineJP/status/1359523420136906756?ref_src=twsrc%5Etfw">February 10, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
