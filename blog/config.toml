@@ -8,3 +8,12 @@ googleAnalytics = "G-BF00B4RKZV"
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+
+
+[params.author]
+name = "ozi"
+thumbnail = true
+
+[outputs]
+home = [ "HTML", "RSS", "JSON"]
+page = [ "HTML", "AMP"]
