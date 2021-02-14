@@ -8,10 +8,10 @@ tags: ["Agora Video SDK"]
 toc: true
 ---
 ## 注目アセット
-面白そうなアセットだったのでメモ
+面白そうなアセットだったのでメモ  
 [Agora Video SDK for Unity](https://assetstore.unity.com/packages/tools/video/agora-video-sdk-for-unity-134502)  
   
-https://youtu.be/tlzu2FvPZQI  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tlzu2FvPZQI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   
 プレイヤー同士で、低遅延でビデオやオーディオ通信を実現する。  
   
