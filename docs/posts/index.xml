@@ -5,8 +5,20 @@
     <description>Recent content in Posts on ゲームを作ろうじゃないか</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 13 Feb 2021 13:47:37 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 14 Feb 2021 20:03:16 +0900</lastBuildDate>
     <atom:link href="/game/posts/" rel="self" type="application/rss+xml"/>
+    
+    <item>
+      <title>[Unity]注目アセット「Agora Video SDK for Unity」</title>
+      <link>https://comboeng.github.io/game/posts/asset7/</link>
+      <pubDate>Sun, 14 Feb 2021 20:03:16 +0900</pubDate>
+      
+      <guid>https://comboeng.github.io/game/posts/asset7/</guid>
+      <description>
+        <p>注目アセット 面白そうなアセットだったのでメモ Agora Video SDK for Unity https://youtu.be/tlzu2FvPZQI プレイヤー同士で、低遅延でビデオやオーディオ通信を実現する。 最近、Clubhouse...</p>
+        <p><a href="https://comboeng.github.io/game/posts/asset7/">Read More</a></p>
+      </description>
+    </item>
     
     <item>
       <title>STEAM、旧正月セールやってるよ</title>
@@ -233,18 +245,6 @@
       <description>
         <p>この記事について PUN2の入門ドキュメント webサイトのまとめです。 公式サイトの大項目をまとめているだけです。 PUN2で始めるオンラインゲー...</p>
         <p><a href="https://comboeng.github.io/game/posts/pun2/">Read More</a></p>
-      </description>
-    </item>
-    
-    <item>
-      <title>「Energy Bar Toolkit」アセットがエラーになりますね</title>
-      <link>https://comboeng.github.io/game/posts/asset3/</link>
-      <pubDate>Sat, 14 Nov 2020 18:05:23 +0900</pubDate>
-      
-      <guid>https://comboeng.github.io/game/posts/asset3/</guid>
-      <description>
-        <p>エラーについて 体力ゲージとかで使うアセット「Energy Bar Toolkit」 ですが、WebGL向けなどにビルドしようとすると、エラーになります...</p>
-        <p><a href="https://comboeng.github.io/game/posts/asset3/">Read More</a></p>
       </description>
     </item>
     

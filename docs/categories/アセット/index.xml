@@ -5,8 +5,20 @@
     <description>Recent content in アセット on ゲームを作ろうじゃないか</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 18 Dec 2020 21:22:14 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 14 Feb 2021 20:03:16 +0900</lastBuildDate>
     <atom:link href="/game/categories/%E3%82%A2%E3%82%BB%E3%83%83%E3%83%88/" rel="self" type="application/rss+xml"/>
+    
+    <item>
+      <title>[Unity]注目アセット「Agora Video SDK for Unity」</title>
+      <link>https://comboeng.github.io/game/posts/asset7/</link>
+      <pubDate>Sun, 14 Feb 2021 20:03:16 +0900</pubDate>
+      
+      <guid>https://comboeng.github.io/game/posts/asset7/</guid>
+      <description>
+        <p>注目アセット 面白そうなアセットだったのでメモ Agora Video SDK for Unity https://youtu.be/tlzu2FvPZQI プレイヤー同士で、低遅延でビデオやオーディオ通信を実現する。 最近、Clubhouse...</p>
+        <p><a href="https://comboeng.github.io/game/posts/asset7/">Read More</a></p>
+      </description>
+    </item>
     
     <item>
       <title>年末年始セールやってるよ</title>
