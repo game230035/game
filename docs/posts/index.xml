@@ -5,8 +5,20 @@
     <description>Recent content in Posts on ゲームを作ろうじゃないか</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 14 Feb 2021 20:03:16 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 14 Feb 2021 22:12:49 +0900</lastBuildDate>
     <atom:link href="/game/posts/" rel="self" type="application/rss+xml"/>
+    
+    <item>
+      <title>鬼滅の刃2期ということで、モンスト・パズドラまだまだ安泰かな</title>
+      <link>https://comboeng.github.io/game/posts/talk2/</link>
+      <pubDate>Sun, 14 Feb 2021 22:12:49 +0900</pubDate>
+      
+      <guid>https://comboeng.github.io/game/posts/talk2/</guid>
+      <description>
+        <p>鬼滅の刃2期が2021年に 鬼滅の刃2期の放送が決定しました。 ということで、過去にコラボして売上が倍増した モンスト・パズドラともに今年も安定か...</p>
+        <p><a href="https://comboeng.github.io/game/posts/talk2/">Read More</a></p>
+      </description>
+    </item>
     
     <item>
       <title>[Unity]注目アセット「Agora Video SDK for Unity」</title>
@@ -233,18 +245,6 @@
       <description>
         <p>AnimationControllerの整理 以下のYouTube動画ですが、 AnimationControllerの整理だけでなく、アニメー...</p>
         <p><a href="https://comboeng.github.io/game/posts/howto4/">Read More</a></p>
-      </description>
-    </item>
-    
-    <item>
-      <title>PUN2 入門ドキュメント</title>
-      <link>https://comboeng.github.io/game/posts/pun2/</link>
-      <pubDate>Sun, 15 Nov 2020 15:37:33 +0900</pubDate>
-      
-      <guid>https://comboeng.github.io/game/posts/pun2/</guid>
-      <description>
-        <p>この記事について PUN2の入門ドキュメント webサイトのまとめです。 公式サイトの大項目をまとめているだけです。 PUN2で始めるオンラインゲー...</p>
-        <p><a href="https://comboeng.github.io/game/posts/pun2/">Read More</a></p>
       </description>
     </item>
     
