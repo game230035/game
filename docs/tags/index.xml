@@ -5,8 +5,20 @@
     <description>Recent content in Tags on ゲームを作ろうじゃないか</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 14 Feb 2021 22:12:49 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 02 Mar 2021 00:28:37 +0900</lastBuildDate>
     <atom:link href="/game/tags/" rel="self" type="application/rss+xml"/>
+    
+    <item>
+      <title>ランキング</title>
+      <link>https://comboeng.github.io/game/tags/%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0/</link>
+      <pubDate>Tue, 02 Mar 2021 00:28:37 +0900</pubDate>
+      
+      <guid>https://comboeng.github.io/game/tags/%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0/</guid>
+      <description>
+        <p>...</p>
+        <p><a href="https://comboeng.github.io/game/tags/%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0/">Read More</a></p>
+      </description>
+    </item>
     
     <item>
       <title>コラボ</title>
@@ -233,18 +245,6 @@
       <description>
         <p>...</p>
         <p><a href="https://comboeng.github.io/game/tags/%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%9A%E3%83%BC%E3%83%B3/">Read More</a></p>
-      </description>
-    </item>
-    
-    <item>
-      <title>Energy Bar Toolkit</title>
-      <link>https://comboeng.github.io/game/tags/energy-bar-toolkit/</link>
-      <pubDate>Sat, 14 Nov 2020 18:05:23 +0900</pubDate>
-      
-      <guid>https://comboeng.github.io/game/tags/energy-bar-toolkit/</guid>
-      <description>
-        <p>...</p>
-        <p><a href="https://comboeng.github.io/game/tags/energy-bar-toolkit/">Read More</a></p>
       </description>
     </item>
     
