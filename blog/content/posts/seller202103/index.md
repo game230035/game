@@ -2,7 +2,7 @@
 title: "2021年3月初めのPCゲーム/スマホアプリの売上ランキング"
 date: 2021-03-02T00:28:37+09:00
 draft: false
-thumbnail: "images/thumbnail_.png"
+thumbnail: "images/thumbnail_seller.png"
 categories: ["ランキング"]
 tags: ["ランキング"]
 toc: true
