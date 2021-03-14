@@ -9,6 +9,18 @@
     <atom:link href="/game/" rel="self" type="application/rss+xml"/>
     
     <item>
+      <title>視聴アニメ　履歴</title>
+      <link>https://comboeng.github.io/game/anime/</link>
+      <pubDate>Thu, 11 Mar 2021 16:15:38 +0900</pubDate>
+      
+      <guid>https://comboeng.github.io/game/anime/</guid>
+      <description>
+        <p>今までに視聴したアニメ 映画も含める あいうえお順、英字は読み方で置き換える アニメ書きたいという表現はおかしいのですが、アニメ書きたいですねぇ。...</p>
+        <p><a href="https://comboeng.github.io/game/anime/">Read More</a></p>
+      </description>
+    </item>
+    
+    <item>
       <title>Posts</title>
       <link>https://comboeng.github.io/game/posts/</link>
       <pubDate>Tue, 02 Mar 2021 00:28:37 +0900</pubDate>
