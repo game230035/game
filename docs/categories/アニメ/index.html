@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>MacOS BigSurだとブラウザ上でWebGLの実行ができない件 - ゲームを作ろうじゃないか</title>
+    <title>アニメ - ゲームを作ろうじゃないか</title>
     <meta name="pinterest" content="nopin">
 <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
 <meta name="theme-color" content="#263238">
@@ -10,10 +10,10 @@
 
 <meta name="generator" content="Hugo 0.76.5" />
 <link rel="apple-touch-icon" href="https://comboeng.github.io/game/favicon.png">
-<link rel="amphtml" type="text/html" href="https://comboeng.github.io/game/amp/posts/howto8/" title="ゲームを作ろうじゃないか">
+<link rel="alternate" type="application/rss+xml" href="https://comboeng.github.io/game/categories/%E3%82%A2%E3%83%8B%E3%83%A1/index.xml" title="ゲームを作ろうじゃないか">
 
 
-    <link rel="canonical" href="https://comboeng.github.io/game/posts/howto8/">
+    <link rel="canonical" href="https://comboeng.github.io/game/categories/%E3%82%A2%E3%83%8B%E3%83%A1/">
     
     <link href="https://fonts.googleapis.com/css?family=Roboto+Slab:400,700" rel="stylesheet">
     
@@ -1398,132 +1398,79 @@ section.sidebar > header {
 
       <div class="l-container">
       
-      
         
 <div class="mrow">
   <div class="mcol c8">
 
-    <article class="sn">
-
-  <div class="thumb thumb-9bcf251fa3ca1fcb354fbfaa80a64daf"></div>
-
-  <header class="article-header">
-    <h1 class="title">MacOS BigSurだとブラウザ上でWebGLの実行ができない件</h1>
-
-    <ul class="facts">
-      <li>
-        <i class="fas fa-calendar" aria-hidden="true"></i>
-          <time datetime="2020-11-26T09:05:44JST">
-            Nov 26, 2020
-          </time>
-      </li>
-      
-      
-    </ul>
-
-    <aside class="share">
-  <a href="https://twitter.com/intent/tweet?url=https%3a%2f%2fcomboeng.github.io%2fgame%2fposts%2fhowto8%2f&text=MacOS%20BigSur%e3%81%a0%e3%81%a8%e3%83%96%e3%83%a9%e3%82%a6%e3%82%b6%e4%b8%8a%e3%81%a7WebGL%e3%81%ae%e5%ae%9f%e8%a1%8c%e3%81%8c%e3%81%a7%e3%81%8d%e3%81%aa%e3%81%84%e4%bb%b6&tw_p=tweetbutton" title="Twitterでシェア" class="tw" target="_blank" rel="nofollow"><i class="fab fa-twitter" aria-hidden="true"></i></a>
-  <a href="https://getpocket.com/edit?url=https%3a%2f%2fcomboeng.github.io%2fgame%2fposts%2fhowto8%2f&title=MacOS%20BigSur%e3%81%a0%e3%81%a8%e3%83%96%e3%83%a9%e3%82%a6%e3%82%b6%e4%b8%8a%e3%81%a7WebGL%e3%81%ae%e5%ae%9f%e8%a1%8c%e3%81%8c%e3%81%a7%e3%81%8d%e3%81%aa%e3%81%84%e4%bb%b6" title="Pocketに保存" class="pk" target="_blank" rel="nofollow"><i class="fab fa-get-pocket" aria-hidden="true"></i></a>
-</aside>
-
-  </header>
-
-  
-  <div class="toc">
-    <nav id="TableOfContents">
-  <ul>
-    <li><a href="#この記事について">この記事について</a></li>
-    <li><a href="#対応メモ">対応メモ</a></li>
-  </ul>
-</nav>
-  </div>
-  
-  <div class="article-body"><h2 id="この記事について">この記事について</h2>
-<p>MacOSをBigSurにアップデートしたところ、<br>
-ブラウザ上でのWebGLが表示されなくなった。<br>
-自分のアプリだけでなく、他のサイト（例えばUnityRommなどのゲーム）でも同様に表示されなくなった。
-<img src="2020-11-26-09-07-57.png" alt=""><br>
-コンソールを見るとUnityLoader.jsでエラーになっている。
-なので、その対応メモ。</p>
-<h2 id="対応メモ">対応メモ</h2>
-<p>以下ページに対応策が書いてあった。<br>
-ページ中盤にはる、WebglPostBuild.csプログラムを<br>
-<code>Assets/Scripts/Editor</code>配下に配置すると、ブラウザ上でWebGLが実行されるようになった。
-<a href="https://forum.unity.com/threads/bug-generated-unityloader-js-fails-in-ios-14-public-beta.942484/">Bug? Generated UnityLoader.js fails in iOS 14 public beta</a></p>
-<p>以上。</p>
-</div>
-
-  <footer class="article-footer">
-
-    <aside class="share">
-  <a href="https://twitter.com/intent/tweet?url=https%3a%2f%2fcomboeng.github.io%2fgame%2fposts%2fhowto8%2f&text=MacOS%20BigSur%e3%81%a0%e3%81%a8%e3%83%96%e3%83%a9%e3%82%a6%e3%82%b6%e4%b8%8a%e3%81%a7WebGL%e3%81%ae%e5%ae%9f%e8%a1%8c%e3%81%8c%e3%81%a7%e3%81%8d%e3%81%aa%e3%81%84%e4%bb%b6&tw_p=tweetbutton" title="Twitterでシェア" class="tw" target="_blank" rel="nofollow"><i class="fab fa-twitter" aria-hidden="true"></i></a>
-  <a href="https://getpocket.com/edit?url=https%3a%2f%2fcomboeng.github.io%2fgame%2fposts%2fhowto8%2f&title=MacOS%20BigSur%e3%81%a0%e3%81%a8%e3%83%96%e3%83%a9%e3%82%a6%e3%82%b6%e4%b8%8a%e3%81%a7WebGL%e3%81%ae%e5%ae%9f%e8%a1%8c%e3%81%8c%e3%81%a7%e3%81%8d%e3%81%aa%e3%81%84%e4%bb%b6" title="Pocketに保存" class="pk" target="_blank" rel="nofollow"><i class="fab fa-get-pocket" aria-hidden="true"></i></a>
-</aside>
-
-
-    <section class="footer">
-      <div>
-        <nav class="crumb">
-          <ol>
-            <li><a href="https://comboeng.github.io/game/"><i class="fas fa-home" aria-hidden="true"></i>TOP</a></li>
-            
-            <li itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="https://comboeng.github.io/game/posts/" itemprop="url"><span itemprop="title">POSTS</span></a></li>
-            
-            <li class="active">MacOS BigSurだとブラウザ上でWebGLの実行ができない件</li>
-          </ol>
-        </nav>
-      </div>
-    </section>
-
     
+    <header class="page-title">
+      <h1 class="title">アニメ</h1>
+    </header>
     
+
+    <div class="articles">
+      <div class="mrow">
+        
+        
+        
+        
+        
+        <div class="mcol c6"><article class="li">
+  <a href="https://comboeng.github.io/game/anime/">
+    <div class="thumb thumb-73ae019d947788e7a07e0a57cdf5501d"></div>
+
+    <div class="inner">
+      <h2 class="title">視聴アニメ　履歴</h2>
+
+      <ul class="facts">
+        
+          <li>
+            <i class="fas fa-calendar" aria-hidden="true"></i>
+            <time datetime="2021-03-11T16:15:38JST">Mar 11, 2021</time>
+          </li>
+        
+      </ul>
+
+
       
-        <div class="taxonomiesFrame-cat">
       
-      
-      <section class="footer">
-        <header>
-          <a href="https://comboeng.github.io/game/categories/">CATEGORIES</a>
-        </header>
-        <div>
-          <ul class="terms">
+      <ul class="facts">
+        
+          <li>
+            <i class="fas fa-list-alt"></i>
             
-            <li><a href="https://comboeng.github.io/game/categories/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0/">プログラム</a></li>
+              <a href="/categories/%E3%82%A2%E3%83%8B%E3%83%A1/">アニメ</a>
             
-          </ul>
-        </div>
-      </section>
-      
-      </div>
-    
-      
-        <div class="taxonomiesFrame-tag">
-      
-      
-      <section class="footer">
-        <header>
-          <a href="https://comboeng.github.io/game/tags/">TAGS</a>
-        </header>
-        <div>
-          <ul class="terms">
+          </li>
+          <br>
+          <li>
+            <i class="fas fa-tag"></i>
             
-            <li><a href="https://comboeng.github.io/game/tags/webgl/">WebGL</a></li>
+            <a href="/tags//"></a>　
             
-          </ul>
-        </div>
-      </section>
-      
-      </div>
-    
-    
-  </footer>
+
+          </li>
+        
+
+
+        
+      </ul>
+
+      <div class="summary">アニメにハマっています 2020年に2016年に公開された「君の名は。」を見て、結構面白いなと思った。 そこからアニメにハマった。 公開当時かなり</div>
+    </div>
+  </a>
 </article>
+</div>
+        
+      </div>
+    </div>
 
+      <nav class="paging" >
+  
+  
 
-    
-   
-
-    
+  
+</nav>
   </div>
   <div class="mcol c4">
     <aside class="l-sidebar">
@@ -1619,7 +1566,7 @@ section.sidebar > header {
 <section class="sidebar">
   <header>SEARCH</header>
   <div >
-    <form class="custome_form" action="https://comboeng.github.io/game/posts/howto8/" onkeyup="search()">
+    <form class="custome_form" action="https://comboeng.github.io/game/categories/%E3%82%A2%E3%83%8B%E3%83%A1/" onkeyup="search()">
       <input id="search-query" placeholder="記事の検索" name="query" autocomplete="off" search />
     </form>
 
