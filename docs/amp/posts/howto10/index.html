@@ -1,0 +1,1635 @@
+<!DOCTYPE html>
+<html ⚡>
+  <head>
+    <meta charset="utf-8">
+    <script async src="https://cdn.ampproject.org/v0.js"></script>
+    <title>空の設定 - ゲームを作ろうじゃないか</title>
+    <meta name="pinterest" content="nopin">
+<meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
+<meta name="theme-color" content="#263238">
+<meta name="yggdore-confirmation" content="rSzdm9GWJOT1nSex1sdJ0O4RbhRtMu75" />
+
+<meta name="generator" content="Hugo 0.76.5" />
+<link rel="apple-touch-icon" href="https://comboeng.github.io/game/favicon.png">
+<link rel="canonical" type="text/html" href="https://comboeng.github.io/game/posts/howto10/" title="ゲームを作ろうじゃないか">
+
+    
+<meta name="description" content="空の設定方法 Window -&gt; Rendering -&gt; Light Settings Skybox Materialを修正 これだけなのに忘れる。 というか、Light Settingの表示がUnityのバージョンごとに">
+
+<meta property="og:title" content="空の設定 - ゲームを作ろうじゃないか">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://comboeng.github.io/game/amp/posts/howto10/">
+<meta property="og:image" content="https://comboeng.github.io/game/images/thumbnail_program.png">
+<meta property="og:site_name" content="ゲームを作ろうじゃないか">
+<meta property="og:description" content="空の設定方法 Window -&gt; Rendering -&gt; Light Settings Skybox Materialを修正 これだけなのに忘れる。 というか、Light Settingの表示がUnityのバージョンごとに">
+<meta property="og:locale" content="ja_JP">
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="ゲームを作ろうじゃないか">
+<meta name="twitter:url" content="https://comboeng.github.io/game/amp/posts/howto10/">
+<meta name="twitter:title" content="空の設定 - ゲームを作ろうじゃないか">
+<meta name="twitter:description" content="空の設定方法 Window -&gt; Rendering -&gt; Light Settings Skybox Materialを修正 これだけなのに忘れる。 というか、Light Settingの表示がUnityのバージョンごとに">
+<meta name="twitter:image" content="https://comboeng.github.io/game/images/thumbnail_program.png">
+
+
+<script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "NewsArticle",
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id":"https:\/\/comboeng.github.io\/game\/"
+    },
+    "headline": "空の設定 - ゲームを作ろうじゃないか",
+    "image": {
+      "@type": "ImageObject",
+      "url": "https:\/\/comboeng.github.io\/game\/images\/thumbnail_program.png",
+      "height": 800,
+      "width": 800
+    },
+    "datePublished": "2020-12-18T21:50:51JST",
+    "dateModified": "2020-12-18T21:50:51JST",
+    "author": {
+      "@type": "Person",
+      "name": "ゲームを作ろうじゃないか"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "ゲームを作ろうじゃないか",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https:\/\/comboeng.github.io\/game\/images/logo.png",
+        "width": 600,
+        "height": 60
+      }
+    },
+    "description": "空の設定方法 Window -\u0026gt; Rendering -\u0026gt; Light Settings Skybox Materialを修正 これだけなのに忘れる。 というか、Light Settingの表示がUnityのバージョンごとに"
+  }
+</script>
+
+
+
+    
+    <script async custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script>
+    <meta name="amp-google-client-id-api" content="googleanalytics">
+    
+
+    
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Slab:400,700" rel="stylesheet">
+    
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
+    <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
+    <style amp-custom>
+html {
+  font-size: 18px;
+  background-color: rgba(236,239,241,.5);
+}
+
+@media (max-width: 768px) {
+  html {
+    font-size: 15px;
+  }
+}
+
+body {
+  color: #333;
+  font-family: 'Roboto Slab','ヒラギノ角ゴ Pro W3','Hiragino Kaku Gothic Pro',メイリオ,Meiryo,sans-serif;
+  font-feature-settings : "palt";
+  font-size: inherit;
+  line-height: 1rem;
+  margin: 0;
+  padding: 0;
+}
+
+h1, h2, h3, h4, h5 ,h6 {
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1rem;
+  margin: 0;
+}
+
+hr {
+  border: 0;
+  border-top: 1px dashed #cfd8dc;
+  margin: 1rem 0;
+}
+
+p {
+  margin: 0;
+  line-height: 1rem;
+}
+
+a {
+  color: #2196f3;
+  text-decoration: none;
+  transition-duration: .3s;
+}
+
+ul, ol {
+  margin: 0;
+  padding: 0;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+th, td {
+  font-size: .8rem;
+  padding: .5rem;
+}
+
+tr {
+  border-bottom: 1px dashed #ddd;
+}
+
+/* Layouts */
+main,
+aside {
+  display: block;
+}
+
+main { padding: 1rem 0 3rem 0; }
+aside.h { padding: 3rem 0; }
+
+main.f,
+aside.f {
+  background-color: #333;
+  border-top: 2px dashed #fff;
+  border-bottom: 2px dashed #fff;
+}
+
+.l-container {
+  position: relative;
+  max-width: 68rem;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+.l-container.thin {
+  max-width: 44rem;
+}
+
+.l-header {
+  background-color: rgb(8, 193, 250);
+  box-shadow: 0 0 0 1px rgba(63,63,68,.05), 0 1px 3px rgba(63,63,68,.1), 0 1px 2px rgba(0,0,0,.05);
+  padding: 1rem 0;
+  text-align: center;
+}
+
+.l-header .description {
+  margin-top: .5rem;
+  font-size: .8rem;
+}
+
+.l-footer {
+  background-color: rgb(8, 193, 250);;
+  box-shadow: 0 0 0 1px rgba(63,63,68,.05), 0 1px 3px rgba(63,63,68,.1), 0 1px 2px rgba(0,0,0,.05);
+  font-size: .6rem;
+  font-weight: 700;
+  padding: 1rem 0;
+}
+
+@media (max-width: 768px) {
+  .l-sidebar {
+    margin-top: 4rem;
+  }
+}
+
+.mrow {
+  margin: 0 -1rem;
+  overflow: hidden;
+}
+
+.mcol {
+  box-sizing: border-box;
+  float: left;
+  padding: 0 1rem;
+}
+
+.c6 { width: 50%; }
+.c4 { width: 33.26323833%; }
+.c8 { width: 66.66666%; }
+
+@media (max-width: 768px) {
+  .mcol {
+    width: 100%;
+    float: none;
+  }
+}
+
+.logo a {
+  font-size: 1.4rem;
+  line-height: 1.5rem;
+  font-weight: 700;
+  color: #333;
+}
+
+.articles {
+  margin: -1rem 0;
+  margin-bottom: 1rem;
+}
+
+.articles.sm {
+  margin: -.5rem 0;
+  margin-bottom: 0;
+}
+
+article {
+  border-radius: 4px;
+  overflow: hidden;
+}
+
+article.li {
+  background-color: #fff;
+  box-shadow: 0 0 0 1px rgba(63,63,68,.05), 0 1px 3px rgba(63,63,68,.1), 0 1px 2px rgba(0,0,0,.05);
+  height: 20rem;
+  overflow: hidden;
+  margin: 1rem 0;
+}
+
+article.li > a {
+  display: block;
+  color: #333;
+}
+
+article.li .inner {
+  padding: 1rem;
+}
+
+article.li .thumb {
+  width: 8rem;
+  height: 8rem;
+  margin: auto;
+}
+
+article.li .title {
+  color: #333;
+  font-size: 1.2rem;
+  line-height: 1.5rem;
+  margin-bottom: .5rem;
+}
+
+article.li .summary {
+  font-size: .8rem;
+  height: 6rem;
+  overflow: hidden;
+  margin-top: 1rem;
+}
+
+article.li .summary::after {
+  content: '...';
+}
+
+article.lism {
+  background-color: #fff;
+  box-shadow: 0 0 0 1px rgba(63,63,68,.05), 0 1px 3px rgba(63,63,68,.1), 0 1px 2px rgba(0,0,0,.05);
+  margin: .5rem 0;
+}
+
+article.lism::after {
+  content: '';
+  display: block;
+  clear: both;
+}
+
+article.lism > a {
+  display: block;
+  color: #333;
+}
+
+article.lism .inner {
+  display: table-cell;
+  vertical-align: middle;
+  height: 5rem;
+  padding: 0 .75rem;
+}
+
+article.lism .thumb {
+  width: 5rem;
+  height: 5rem;
+  float: left;
+}
+
+article.lism .title {
+  font-weight: 700;
+  font-size: .8rem;
+  margin-bottom: .25rem;
+}
+
+article.sn {
+  background-color: #fff;
+  box-shadow: 0 0 0 1px rgba(63,63,68,.05), 0 1px 3px rgba(63,63,68,.1), 0 1px 2px rgba(0,0,0,.05);
+  margin-bottom: 1rem;
+}
+
+article.sn .thumb {
+  height: 10rem;
+  width: 10rem;
+  margin: auto;
+}
+
+@media (max-width: 768px) {
+  article.sn .thumb {
+    height: 10rem;
+  }
+}
+
+article.sn > .article-header,
+article.sn > .article-body,
+article.sn .article-footer {
+  padding: 2rem;
+}
+
+article.sn > .article-body {
+  padding: 0 2rem;
+}
+
+@media (max-width: 768px) {
+  article.sn > .article-header,
+  article.sn > .article-body,
+  article.sn .article-footer {
+    padding: 1rem;
+  }
+
+  article.sn > .article-body {
+    padding: 0 1rem;
+  }
+}
+
+article.sn > .article-header .title {
+  font-size: 1.8rem;
+  line-height: 2rem;
+  margin-bottom: .5rem;
+}
+
+@media (max-width: 768px) {
+  article.sn > .article-header .title {
+    font-size: 1.4rem;
+    line-height: 1.5rem;
+  }
+}
+
+article.sn > .article-header .facts {
+  margin-bottom: 1rem;
+}
+
+article.sn > .article-body {
+  margin-bottom: 1.5rem;
+}
+
+article.sn > .article-body h2 {
+  border-bottom: .25rem solid #333;
+  font-size: 1.2rem;
+  line-height: 1.5rem;
+  margin: 1.5rem 0;
+  padding: .5rem 0;
+}
+
+article.sn > .article-body h3 {
+  border-left: .5rem solid #333;
+  line-height: 1.5rem;
+  margin: 1.5rem 0;
+  padding: .125rem .5rem;
+}
+
+article.sn > .article-body ul,
+article.sn > .article-body ol {
+  margin: 1.5rem 0;
+  padding-left: 1.5rem;
+}
+
+article.sn > .article-body li {
+  padding-bottom: .5rem;
+  line-height: 1.5rem;
+}
+
+article.sn > .article-body li:last-child {
+  padding-bottom: 0;
+}
+article.sn > .article-body p {
+  margin: 1rem 0;
+  line-height: 1.5rem;
+}
+
+article.sn > .article-body strong,
+article.sn > .article-body em {
+  font-style: normal;
+  font-weight: 700;
+}
+
+article.sn > .article-body strong {
+  box-shadow: 0 -.5rem 0 0 #ffc107 inset;
+}
+
+article.sn > .article-body em {
+  color: #8bc34a;
+}
+
+article.sn > .article-body code,
+article.sn > .article-body pre {
+  font-family: Menlo, Consolas, monospace;
+  font-size: .7rem;
+}
+
+article.sn > .article-body pre {
+  background-color: #333;
+  color: #fff;
+  line-height: 1rem;
+  margin: 1.5rem 1rem;
+  overflow: auto;
+}
+
+@media (max-width: 768px) {
+  article.sn > .article-body pre {
+    margin: 1.5rem 1rem;
+  }
+}
+
+article.sn > .article-body pre > code {
+  display: block;
+  padding: 1rem 2rem;
+}
+
+@media (max-width: 768px) {
+  article.sn > .article-body pre > code {
+    padding: 1rem;
+  }
+}
+
+article.sn > .article-body p code {
+  background-color: #eceff1;
+  color: #333;
+  border-radius: 4px;
+  margin: 0 .25rem;
+  padding: .375rem;
+  white-space: nowrap;
+}
+
+article.sn > .article-body blockquote {
+  position: relative;
+  border-left: .25rem solid #333;
+  font-size: .8rem;
+  padding: .125rem 1rem;
+  margin: 1.5rem 0;
+}
+
+@media (max-width: 768px) {
+  article.sn > .article-body blockquote {
+    font-size: 1rem;
+  }
+}
+
+article.sn > .article-body blockquote p {
+  margin: .5rem 0;
+  line-height: 1rem;
+}
+
+article.sn > .article-body figure {
+  margin: 1.5rem 0;
+}
+
+article.sn > .article-body img,
+article.sn > .article-body figure img {
+  box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+  max-width: 100%;
+}
+
+article.sn > .article-body figure amp-img {
+  box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+  width: auto;
+  height: auto;
+}
+
+article.sn > .article-body figcaption {
+  color: #cfd8dc;
+  font-size: .8rem;
+  font-weight: 700;
+  margin-top: .5rem;
+}
+
+.facts li {
+  display: inline;
+  font-size: .8rem;
+  margin-right: 1rem;
+}
+
+.facts i {
+  color: #cfd8dc;
+  margin-right: .5em;
+}
+
+.facts.sm li {
+  font-size: .7rem;
+}
+
+.sections.sidebar {
+  margin: -1rem 0;
+}
+
+.sections.footer {
+  margin: -1rem 0;
+}
+
+section.sidebar {
+  margin: 2rem 0;
+}
+
+section.sidebar > header {
+  font-size: .8rem;
+  font-weight: 700;
+  letter-spacing: 4px;
+  text-align: center;
+  margin: 1.5rem 0;
+}
+
+section.footer {
+  margin: 1rem 0;
+}
+
+section.footer > header {
+  font-size: .8rem;
+  margin: .5rem 0;
+}
+
+section.footer > header::before {
+  content: "- ";
+}
+
+section.footer > header a {
+  font-weight: 700;
+  color: #333;
+  text-decoration: underline;
+}
+
+.terms {
+  margin: -.25rem;
+}
+
+.terms li {
+  display: inline-block;
+}
+
+.terms a {
+  display: block;
+  float: left;
+  background-color: #333;
+  border-radius: 4px;
+  color: #fff;
+  font-size: .7rem;
+  margin: .25rem;
+  padding: 0 .75rem;
+  line-height: 1.75rem;
+}
+
+.paging {
+  text-align: center;
+  padding: 1rem 0;
+}
+
+.paging a {
+  display: inline-block;
+  background-color: #fff;
+  box-shadow: 0 0 0 1px rgba(63,63,68,.05), 0 1px 3px rgba(63,63,68,.1), 0 1px 2px rgba(0,0,0,.05);
+  border-radius: 4px;
+  color: #333;
+  padding: 0 1rem;
+  line-height: 3rem;
+}
+
+.page-title {
+  text-align: center;
+  margin: 1rem 0;
+}
+
+.page-title::after {
+  content: '';
+  display: block;
+  border-bottom: .25rem solid #333;
+  width: 3rem;
+  margin: 1.5rem auto;
+}
+
+.page-title > .title {
+  font-size: 1.2rem;
+  line-height: 1.5rem;
+}
+
+/* Parts:breadcrumb */
+.crumb ol {
+  text-overflow: ellipsis;
+  color: #cfd8dc;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+.crumb li {
+  display: inline;
+  font-size: .8rem;
+}
+
+.crumb li::after {
+  content: '›';
+  margin: 0 .25rem 0 .5rem;
+}
+
+.crumb li:last-child::after {
+  content: '';
+}
+
+.crumb a {
+  color: #cfd8dc;
+}
+
+.crumb i {
+  margin-right: .5em;
+}
+
+.share {
+  padding: 0;
+}
+
+.share a {
+  display: inline-block;
+  box-shadow: 0 0 0 1px rgba(63,63,68,.05), 0 1px 3px rgba(63,63,68,.1), 0 1px 2px rgba(0,0,0,.05);
+  min-width: 1rem;
+  height: 2rem;
+  border-radius: 4px;
+  color: #333;
+  font-size: .8rem;
+  font-weight: 700;
+  line-height: 2rem;
+  text-align: center;
+  padding: 0 .5rem;
+}
+
+.adj article.lism {
+  margin-bottom: 1rem;
+}
+
+.adj header {
+  font-weight: 700;
+  font-size: .8rem;
+}
+
+.toc {
+  padding: 0 2rem;
+}
+
+@media (max-width: 768px) {
+  .toc {
+    padding: 0 1rem;
+  }
+}
+
+.toc {
+  margin: 1rem 0;
+}
+
+.toc nav>ul {
+  background-color: #eceff1;
+  border-radius: 4px;
+  display: inline-block;
+  font-size: .8rem;
+  padding: .5rem 1rem;
+  word-break: break-all;
+  list-style: none;
+}
+
+.toc ul {
+  padding: 0;
+}
+
+.toc ul ul {
+  padding-left: 1rem;
+}
+
+.toc ul ul ul {
+  padding-left: 1rem;
+}
+
+.toc li {
+  color: #90a4ae;
+}
+
+.toc ul ul>li {
+  font-weight: 700;
+  margin: .5rem 0;
+  list-style-type: decimal;
+}
+
+.toc ul ul ul>li {
+  list-style-type: disc;
+  font-weight: 500;
+}
+
+.author {
+  background-color: #fff;
+  box-shadow: 0 0 0 1px rgba(63,63,68,.05), 0 1px 3px rgba(63,63,68,.1), 0 1px 2px rgba(0,0,0,.05);
+  padding: 1rem;
+  border-radius: 4px;
+  text-align: center;
+}
+
+.author .author-thumb {
+  margin: 0 auto 1rem;
+  width: 6rem;
+  height: 6rem;
+  border-radius: 50%;
+  background-color: #eceff1;
+  background-size: cover;
+  background-position: center;
+}
+
+.author .author-name {
+  margin-bottom: .5rem;
+  font-weight: 700;
+}
+
+.author .author-facts {
+  margin-bottom: 1rem;
+}
+
+.author .author-facts li {
+  display: inline;
+}
+
+.author .author-facts li a {
+  display: inline-block;
+  background-color: #eceff1;
+  width: 1.75rem;
+  height: 1.75rem;
+  line-height: 1.75rem;
+  text-align: center;
+  color: #333;
+  font-size: .8rem;
+  border-radius: 2px;
+}
+
+.author .author-facts li a:hover {
+  color: #fff;
+  background-color: #333;
+}
+
+.author .author-description {
+  text-align: left;
+  font-size: .8rem;
+}
+
+.author .author-description p {
+  margin: .5rem 0;
+}
+
+.thumb {
+  background-image: url(https://comboeng.github.io/game/images/default.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+
+
+.thumb-73ae019d947788e7a07e0a57cdf5501d {
+  background-image: url(https://comboeng.github.io/game/images/thumbnail_anime.png);
+}
+
+
+
+.thumb-265b092bd1363a00c869fffc4d60a323 {
+  background-image: url(https://comboeng.github.io/game/images/thumbnail_seller.png);
+}
+
+
+
+.thumb-3a8a2449ec99d146ef3070ec02abe8c4 {
+  background-image: url(https://comboeng.github.io/game/images/thumbnail_talk.png);
+}
+
+
+
+.thumb-8a74f4dd8f31a1c463fb9b9b6788b4d6 {
+  background-image: url(https://comboeng.github.io/game/images/thumbnail_asset.png);
+}
+
+
+
+.thumb-71643eb412edb5b2df0d9893c6d62086 {
+  background-image: url(https://comboeng.github.io/game/images/thumbnail_steamsale.png);
+}
+
+
+
+.thumb-097c65e750112fd3c46849847aaa4cc0 {
+  background-image: url(https://comboeng.github.io/game/images/thumbnail_asset.png);
+}
+
+
+
+.thumb-171a3ab9cffdaebffcd57a9630955550 {
+  background-image: url(https://comboeng.github.io/game/images/thumbnail_talk.png);
+}
+
+
+
+.thumb-499140dd164aee63ba283a49ee1c3c25 {
+  background-image: url(https://comboeng.github.io/game/images/thumbnail_seller.png);
+}
+
+
+
+.thumb-b2998b60a3af43e1c8b44c3fbd884804 {
+  background-image: url(https://comboeng.github.io/game/images/thumbnail_kurarowa.png);
+}
+
+
+
+.thumb-c77c700370a737e20e150db65e7eb95e {
+  background-image: url(https://comboeng.github.io/game/images/thumbnail_program.png);
+}
+
+
+
+.thumb-cbac39a71c9c722f1b15ec0c8b4a1c7a {
+  background-image: url(https://comboeng.github.io/game/images/thumbnail_program.png);
+}
+
+
+
+.thumb-c23ba933b7469bf40fdefea58229160d {
+  background-image: url(https://comboeng.github.io/game/images/thumbnail_program.png);
+}
+
+
+
+.thumb-1a5a6e7795376065841d326c90f80964 {
+  background-image: url(https://comboeng.github.io/game/images/thumbnail_program.png);
+}
+
+
+
+.thumb-727daed46456de7be4fb73d6ff501b74 {
+  background-image: url(https://comboeng.github.io/game/images/thumbnail_asset4.png);
+}
+
+
+
+.thumb-b58c27deb6e891834437ac56540bf022 {
+  background-image: url(https://comboeng.github.io/game/images/thumbnail_program.png);
+}
+
+
+
+.thumb-9bcf251fa3ca1fcb354fbfaa80a64daf {
+  background-image: url(https://comboeng.github.io/game/images/thumbnail_program.png);
+}
+
+
+
+.thumb-fd4d72abcb7c1084554e00a7d739006e {
+  background-image: url(https://comboeng.github.io/game/images/thumbnail_program.png);
+}
+
+
+
+.thumb-0e5d58d91f46e946066048554bc902ac {
+  background-image: url(https://comboeng.github.io/game/images/thumbnail_program.png);
+}
+
+
+
+.thumb-b793a9d6d6b41f7a5d938c11a3d99af9 {
+  background-image: url(https://comboeng.github.io/game/images/thumbnail_asset.png);
+}
+
+
+
+.thumb-09a1a2379335b5ae04ef75dbc4969208 {
+  background-image: url(https://comboeng.github.io/game/images/thumbnail_program.png);
+}
+
+
+
+.thumb-ff616675413962e05cfb2d55379a1659 {
+  background-image: url(https://comboeng.github.io/game/images/thumbnail_asset3.png);
+}
+
+
+
+.thumb-faaec60c1af0dcf0c1df1d55cfef516a {
+  background-image: url(https://comboeng.github.io/game/images/thumbnail_program.png);
+}
+
+
+
+.thumb-5c330b90a484d5f76042d5f6b5ecc407 {
+  background-image: url(https://comboeng.github.io/game/images/thumbnail_program.png);
+}
+
+
+
+.thumb-5830c20c00840e17144fdc57bc619b3e {
+  background-image: url(https://comboeng.github.io/game/images/thumbnail_asset.png);
+}
+
+
+
+.thumb-f847530521858ff74d7123023ca1e8b7 {
+  background-image: url(https://comboeng.github.io/game/images/thumbnail_asset2.png);
+}
+
+
+
+.thumb-8d0ce599c43137ae1681e4da2bd35a94 {
+  background-image: url(https://comboeng.github.io/game/images/thumbnail_program.png);
+}
+
+
+
+.thumb-527a8c036d9379ca5dc12438e4c99dd7 {
+  background-image: url(https://comboeng.github.io/game/images/thumbnail_program.png);
+}
+
+
+
+.thumb-6f7f5d8a867d8e44aabc2f2f79c1c7c5 {
+  background-image: url(https://comboeng.github.io/game/images/thumbnail_asset.png);
+}
+
+
+
+.thumb-d74537f529ed2acc3ef87e414ac95bfc {
+  background-image: url(https://comboeng.github.io/game/images/thumbnail_program.png);
+}
+
+
+
+.thumb-966a7750ea71bea6537025f828e43042 {
+  background-image: url(https://comboeng.github.io/game/images/thumbnail_kurarowa.png);
+}
+
+
+
+
+.custome_form {
+    position: relative;
+    width: 100%;
+    text-align: center;
+}
+.custome_form input {
+    width: 80%;
+    height: 30px;
+    padding-left: 20px;
+}
+.custome_form input[type='text'] {
+	font: 24px/24px sans-serif;
+	box-sizing: border-box;
+	width: 80%;
+    padding: 0.3em;
+    
+	transition: 0.3s;
+	letter-spacing: 1px;
+	color: #aaaaaa;
+	border: 1px solid #1b2538;
+	border-radius: 4px;
+}
+
+.amazon-shortcode-box {
+    display: grid;
+    grid-template-columns: 
+        1fr 2fr;
+    border: 4px solid rgb(26, 43, 75);
+	padding: 2%;
+	width: 93%;
+}
+.amazon-shortcode-image {
+	grid-column: 1;
+	margin: 1em 1em 1.8em;
+	text-align: center;
+}
+.amazon-shortcode-info {
+    grid-column: 2;
+    display: flex;
+    flex-direction: column;
+    padding: 2%;
+}
+.amazon-shortcode-title {
+	font-weight: bold;
+	font-size: 1.0em;
+}
+.amazon-shortcode-title a {
+    color: #000000;
+	font-weight: bold;
+	text-decoration: none;
+}
+.amazon-shortcode-button {
+	display: inline-block;
+	padding: 0.5em 1em;
+	text-decoration: none;
+	color: #67c5ff;
+	border: dashed 1px #67c5ff;
+	background: #f2fcff;
+	border-radius: 3px;
+	transition: .4s;
+	text-align: center;
+}
+  
+.amazon-shortcode-button:hover {
+	background: #cbedff;
+	color: #FFF;
+}
+
+
+article.related {
+	background-color: #fff;
+	box-shadow: 0 0 0 1px rgba(63,63,68,.05), 0 1px 3px rgba(63,63,68,.1), 0 1px 2px rgba(0,0,0,.05);
+	margin: .3rem;
+	width: 96%;
+	height:auto;
+	box-sizing: border-box;
+    float: left;
+}
+  
+.related {
+	overflow: auto;
+}
+
+article.related .box {
+}
+
+article.lirelated::after {
+	content: '';
+	display: block;
+	clear: both;
+}
+  
+article.related > a {
+	display: block;
+	color: #333;
+}
+  
+article.related .inner {
+	display: flex;
+	align-items: center;
+	height: 4rem;
+	padding: 0 .5rem;
+}
+  
+article.related .thumb {
+	width: 4rem;
+    height: 4rem;
+    float: left;
+}
+  
+article.related .title {
+	font-weight: 700;
+	font-size: .8rem;
+	
+}
+
+.xCodeBlock_title {
+	display: inline-block;
+	font-size: smaller;
+	border-radius: 0.5em 0.5em 0 0;
+	padding: 0.5em 0.5em;
+	background: gray;
+	color: white;
+}
+
+.xCodeBlock_code {
+	margin-top: -1.5em;
+	margin-left: -1.0em;
+	margin-right: -1.0em;
+	/* overflow-x: scroll; */
+}
+  
+.xCodeBlock_code_frame {
+	/* display: inline-block; */	
+	margin-bottom: 5em;
+}
+
+article.sn > .article-body pre > code {
+	display: block;
+	padding: 1rem 1rem;
+}
+.paypay_frame {
+	background-color: #ffffff;
+	padding-bottom: 1rem;
+}
+
+.paypay {
+	margin: auto;
+	width: auto;
+	height: auto;
+	background-size: cover;
+	background-position: center;
+	text-align: center;
+}
+
+.paypay_desc {
+	margin: .5em;
+	width: auto;
+	height: auto;
+	text-align: left;
+	font-size: .8rem;
+}
+
+article.sn > .article-body {
+	margin-bottom: 0;
+}
+
+article.sn .article-footer {
+	padding: 2rem;
+	padding-top: 0;
+}
+
+.taxonomiesFrame-cat {
+	display: inline-block;
+}
+
+.taxonomiesFrame-tag {
+	display: inline-block;
+	margin-left: 2em;
+}
+
+a.is-current {
+	background: skyblue
+}
+
+.related_title {
+	font-size: large;
+	color: #ffffff;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-left: 10px;
+	margin-bottom: 8px;
+	background: rgb(0, 94, 255);
+}
+
+.gallery {
+	height: auto;
+	background: rgb(0, 94, 255);
+	margin-right: 1em;
+	margin-left: 1em;
+	margin-bottom: 20px;
+
+	padding: 0.5em 1em;
+    font-weight: bold;
+    color: #6091d3;/*文字色*/
+    background: #FFF;
+    border: solid 10px #6091d3;/*線*/
+    border-radius: 10px;/*角の丸み*/
+}
+
+ul.gallery_ul {
+	height: auto;
+	display: table; /*擬似table要素にする*/
+	table-layout: fixed;/*liタグ幅が均一になる*/
+	text-align: center;/*センタリング*/
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+.gallery_ul li {
+	height: auto;
+	display: table-cell; /*liタグをセルに指定*/
+	vertical-align: middle; /*縦方向の中央寄せ*/
+	margin: 10px;
+}
+
+article.gallery_ul_artle .thumb {
+	width: 7rem;
+	height: 5rem;
+	float: left;
+	margin: 10px;
+}
+article.sn .thumb {
+	height: 7rem;
+}
+
+article.sn > .article-body h2 {
+	font-size: 1.2rem;
+	line-height: 1.5rem;
+	margin: 1.5rem 0;
+	padding: .5rem 1.5rem;
+
+
+	color: #242756;
+	border-top: solid 2px #6cb4e4;
+	border-bottom: solid 2px #6cb4e4;
+	background: -webkit-repeating-linear-gradient(-45deg, #f0f8ff, #f0f8ff 3px,#e9f4ff 3px, #e9f4ff 7px);
+	background: repeating-linear-gradient(-45deg, #f0f8ff, #f0f8ff 3px,#e9f4ff 3px, #e9f4ff 7px);
+}
+
+.talk {
+	width: 100%;
+	margin: 1.5em 0;
+	overflow: hidden;
+  }
+  
+.talk .faceicon {
+	float: left;
+	margin-right: -90px;
+	width: 5rem;
+	height: 5rem;
+	background-size: cover;
+	border-radius: 50%;
+}
+  
+.talk .faceicon img{
+	width: 100%;
+	height: auto;
+	border: solid 3px #d7ebfe;
+	border-radius: 50%;
+}
+  
+.talk .chatting {
+	width: 100%;
+}
+  
+.talk_serif {
+	display: inline-block;
+	position: relative; 
+	margin: 15px 0 0 110px;
+	padding: 0px 13px;
+	border-radius: 12px;
+	background: #d7ebfe;
+}
+.talk_serif-amp {
+	display: inline-block;
+	position: relative; 
+	margin: 0px 0 0 95px;
+	padding: 0px 13px;
+	border-radius: 12px;
+	background: #d7ebfe;
+}
+  
+.talk_serif:after {
+	content: "";
+	display: inline-block;
+	position: absolute;
+	top: 18px; 
+	left: -24px;
+	border: 12px solid transparent;
+	border-right: 12px solid #d7ebfe;
+}
+.talk_serif-amp:after {
+	content: "";
+	display: inline-block;
+	position: absolute;
+	top: 18px; 
+	left: -24px;
+	border: 12px solid transparent;
+	border-right: 12px solid #d7ebfe;
+}
+  
+.talk_serif p {
+	margin: 0;
+	padding: 0;
+}
+
+.mysite_link {
+	position: relative;
+	border-top: solid 2px #487fdf;
+	border-bottom: solid 2px #487fdf;
+	background: #f4f4f4;
+	line-height: 1.4;
+	padding: 0.4em 0.5em;
+	margin: 2em 0 0.5em;
+
+}
+
+.mysite_link:after {
+	/*タブ*/
+	position: absolute;
+	content: '合わせて読む';
+	background: #697bce;
+	color: #fff;
+	left: 0px;
+	bottom: 100%;
+	padding: 5px 7px 3px;
+	font-size: 0.7em;
+	line-height: 1;
+	letter-spacing: 0.05em;
+}
+
+article.sn .mysite_thumb {
+	height: 8rem;
+	width: 11rem;
+	margin: auto;
+	background-size: cover;
+	grid-column: 1;
+	vertical-align: baseline;
+}
+
+article.li .thumb {
+	width: 11rem;
+	height: 8rem;
+	margin: auto;
+}
+
+.mysite_title {
+	padding:0.5rem;
+	width: 50%;
+}
+
+.mysite_content {
+
+	display: flex;
+}
+
+.amp-img {
+	max-width: 100%;
+	height: auto;
+}
+
+article.lism .thumb {
+	width: 7rem;
+    height: 5rem;
+    float: left;
+}
+
+article.sn > .article-body h3 {
+    border-left: .3rem solid rgb(21, 23, 168);
+    line-height: 1.5rem;
+    margin: 1.5rem 0;
+	padding: .125rem .5rem;
+
+	position: relative;
+	padding: 0.1em 0.5em;
+	background: -webkit-linear-gradient(to right, rgb(171, 214, 255), transparent);
+	background: linear-gradient(to right, rgb(162, 213, 255), transparent);
+	color: #545454;
+}
+
+.a8side {
+	text-align: center;
+}
+
+article.sn > .article-header .facts {
+	margin-bottom: 0rem;
+}
+
+.toc {
+	display: block;
+	margin: 0 0 1rem 0;
+}
+
+article.sn > .article-body h2 {
+	font-size: 1.2rem;
+	line-height: 1.5rem;
+	margin: 1.5rem 0;
+	margin-top: 4rem;
+	padding: .5rem 1rem;
+}
+
+article.sn > .article-body h3 {
+	border-left: .5rem solid #333;
+	line-height: 1.5rem;
+	margin: 1.5rem 0;
+	margin-top: 4.5rem;
+	padding: .125rem .5rem;
+}
+
+section.sidebar > header {
+	color: white;
+	font-size: .8rem;
+	font-weight: 700;
+	letter-spacing: 4px;
+	text-align: center;
+	margin: 1.5rem 0;
+	padding: 10px;
+	background-color: rgb(0, 94, 255);
+}
+
+.rakuten {
+	margin: 0 auto;
+    display: table;
+}
+
+.amazon {
+	width: 100vw;
+}
+
+.toc nav>ul {
+    background-color: #eceff1;
+    border-radius: 4px;
+    display: inline-block;
+    font-size: .8rem;
+    padding: .5rem 2rem;
+    word-break: break-all;
+    list-style: square; 
+}
+
+.toc ul ul>li {
+	font-weight: normal;
+	margin: .5rem 0;
+  }
+
+
+
+.l-container { max-width: 40rem; margin: 0 auto; }
+    </style>
+  </head>
+
+  <body>
+    
+    <amp-analytics type="googleanalytics" id="analytics1">
+      <script type="application/json"> { "vars": { "account": "G-BF00B4RKZV"}, "triggers": { "trackPageview": { "on": "visible", "request": "pageview" } } }
+      </script>
+    </amp-analytics>
+    
+
+    <header class="l-header">
+      <div class="l-container">
+        <div class="logo">
+          <a href="https://comboeng.github.io/game/">ゲームを作ろうじゃないか</a>
+        </div>
+      </div>
+    </header>
+
+    <main>
+      <div class="l-container">
+        
+<article class="sn">
+
+  <div class="thumb thumb-1a5a6e7795376065841d326c90f80964"></div>
+
+  <header class="article-header">
+    <h1 class="title">空の設定</h1>
+
+    <ul class="facts">
+      <li>
+        <i class="fas fa-calendar" aria-hidden="true"></i>
+          <time datetime="2020-12-18T21:50:51JST">
+            Dec 18, 2020
+          </time>
+      </li>
+      
+      
+    </ul>
+
+    <aside class="share">
+  <a href="https://twitter.com/intent/tweet?url=https%3a%2f%2fcomboeng.github.io%2fgame%2famp%2fposts%2fhowto10%2f&text=%e7%a9%ba%e3%81%ae%e8%a8%ad%e5%ae%9a&tw_p=tweetbutton" title="Twitterでシェア" class="tw" target="_blank" rel="nofollow"><i class="fab fa-twitter" aria-hidden="true"></i></a>
+  <a href="https://getpocket.com/edit?url=https%3a%2f%2fcomboeng.github.io%2fgame%2famp%2fposts%2fhowto10%2f&title=%e7%a9%ba%e3%81%ae%e8%a8%ad%e5%ae%9a" title="Pocketに保存" class="pk" target="_blank" rel="nofollow"><i class="fab fa-get-pocket" aria-hidden="true"></i></a>
+</aside>
+
+  </header>
+
+  
+  <div class="toc">
+    <nav id="TableOfContents">
+  <ul>
+    <li><a href="#空の設定方法">空の設定方法</a></li>
+  </ul>
+</nav>
+  </div>
+  
+  <div class="article-body"><h2 id="空の設定方法">空の設定方法</h2>
+<p>Window -&gt; Rendering -&gt; Light Settings</p>
+<p>Skybox Materialを修正</p>
+<p>これだけなのに忘れる。</p>
+<p>というか、Light Settingの表示がUnityのバージョンごとに変更している（気がする。。。）</p>
+</div>
+
+  <footer class="article-footer">
+
+    <aside class="share">
+  <a href="https://twitter.com/intent/tweet?url=https%3a%2f%2fcomboeng.github.io%2fgame%2famp%2fposts%2fhowto10%2f&text=%e7%a9%ba%e3%81%ae%e8%a8%ad%e5%ae%9a&tw_p=tweetbutton" title="Twitterでシェア" class="tw" target="_blank" rel="nofollow"><i class="fab fa-twitter" aria-hidden="true"></i></a>
+  <a href="https://getpocket.com/edit?url=https%3a%2f%2fcomboeng.github.io%2fgame%2famp%2fposts%2fhowto10%2f&title=%e7%a9%ba%e3%81%ae%e8%a8%ad%e5%ae%9a" title="Pocketに保存" class="pk" target="_blank" rel="nofollow"><i class="fab fa-get-pocket" aria-hidden="true"></i></a>
+</aside>
+
+
+    <section class="footer">
+      <div>
+        <nav class="crumb">
+          <ol>
+            <li><a href="https://comboeng.github.io/game/"><i class="fas fa-home" aria-hidden="true"></i>TOP</a></li>
+            
+            <li itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="https://comboeng.github.io/game/posts/" itemprop="url"><span itemprop="title">POSTS</span></a></li>
+            
+            <li class="active">空の設定</li>
+          </ol>
+        </nav>
+      </div>
+    </section>
+
+    
+    
+      
+        <div class="taxonomiesFrame-cat">
+      
+      
+      <section class="footer">
+        <header>
+          <a href="https://comboeng.github.io/game/categories/">CATEGORIES</a>
+        </header>
+        <div>
+          <ul class="terms">
+            
+            <li><a href="https://comboeng.github.io/game/categories/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0/">プログラム</a></li>
+            
+          </ul>
+        </div>
+      </section>
+      
+      </div>
+    
+      
+        <div class="taxonomiesFrame-tag">
+      
+      
+      <section class="footer">
+        <header>
+          <a href="https://comboeng.github.io/game/tags/">TAGS</a>
+        </header>
+        <div>
+          <ul class="terms">
+            
+            <li><a href="https://comboeng.github.io/game/tags/%E7%A9%BA/">空</a></li>
+            
+          </ul>
+        </div>
+      </section>
+      
+      </div>
+    
+    
+  </footer>
+</article>
+
+
+<div class="adj">
+  <div class="mrow">
+    
+    <div class="mcol c6">
+      <header>Previous Article</header>
+      <article class="lism">
+  <a href="https://comboeng.github.io/game/amp/posts/asset5/">
+    <div class="thumb thumb-727daed46456de7be4fb73d6ff501b74"></div>
+
+    <div class="inner">
+      <div class="title">年末年始セールやってるよ</div>
+
+      <ul class="facts sm">
+        
+        
+          <li>
+            <i class="fas fa-calendar" aria-hidden="true"></i>
+            <time datetime="18007-12-18T21:22:14JST">Dec 18, 2020</time>
+          </li>
+        
+        
+      </ul>
+
+    </div>
+  </a>
+</article>
+
+    </div>
+    
+    
+    <div class="mcol c6">
+      <header>Next Article</header>
+      <article class="lism">
+  <a href="https://comboeng.github.io/game/amp/posts/howto11/">
+    <div class="thumb thumb-c23ba933b7469bf40fdefea58229160d"></div>
+
+    <div class="inner">
+      <div class="title">NavMeshについて</div>
+
+      <ul class="facts sm">
+        
+        
+          <li>
+            <i class="fas fa-calendar" aria-hidden="true"></i>
+            <time datetime="20007-12-20T21:36:24JST">Dec 20, 2020</time>
+          </li>
+        
+        
+      </ul>
+
+    </div>
+  </a>
+</article>
+
+    </div>
+    
+  </div>
+</div>
+
+
+      </div>
+    </main>
+
+    <footer class="l-footer">
+      <div class="l-container">
+        <p><span class="h-logo">&copy; ゲームを作ろうじゃないか</span></p>
+        <aside>
+          <p>Powered by <a href="https://gohugo.io/">Hugo</a>.</p>
+          <p><a href="https://github.com/dim0627/hugo_theme_robust">Robust</a> designed by <a href="http://yet.unresolved.xyz/">Daisuke Tsuji</a>.</p>
+        </aside>
+      </div>
+    </footer>
+
+  </body>
+</html>
+

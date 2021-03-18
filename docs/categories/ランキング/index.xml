@@ -1,0 +1,36 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ランキング on ゲームを作ろうじゃないか</title>
+    <link>https://comboeng.github.io/game/categories/%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0/</link>
+    <description>Recent content in ランキング on ゲームを作ろうじゃないか</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 02 Mar 2021 00:28:37 +0900</lastBuildDate>
+    <atom:link href="/game/categories/%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0/" rel="self" type="application/rss+xml"/>
+    
+    <item>
+      <title>2021年3月初めのPCゲーム/スマホアプリの売上ランキング</title>
+      <link>https://comboeng.github.io/game/posts/seller202103/</link>
+      <pubDate>Tue, 02 Mar 2021 00:28:37 +0900</pubDate>
+      
+      <guid>https://comboeng.github.io/game/posts/seller202103/</guid>
+      <description>
+        <p>2021年3月初め（つまり2月末日時点）のPCゲーム/スマホアプリの売上 スマホアプリについては、 http://game-i.daa.jp/ から PCゲームは、 https://store.steampowered.com/ から抜粋 結局、仁王２は...</p>
+        <p><a href="https://comboeng.github.io/game/posts/seller202103/">Read More</a></p>
+      </description>
+    </item>
+    
+    <item>
+      <title>2021年2月初めのPCゲーム/スマホアプリの売上ランキング</title>
+      <link>https://comboeng.github.io/game/posts/seller202102/</link>
+      <pubDate>Mon, 01 Feb 2021 09:56:43 +0900</pubDate>
+      
+      <guid>https://comboeng.github.io/game/posts/seller202102/</guid>
+      <description>
+        <p>2021年2月のPCゲーム/スマホアプリの売上 スマホアプリについては、 http://game-i.daa.jp/ から PCゲームは、 https://store.steampowered.com/ から抜粋 PCゲームでは、仁王２やってみたい。 スマ...</p>
+        <p><a href="https://comboeng.github.io/game/posts/seller202102/">Read More</a></p>
+      </description>
+    </item>
+    
+  </channel>
+</rss>
