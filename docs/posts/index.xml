@@ -5,8 +5,20 @@
     <description>Recent content in Posts on ゲームを作ろうじゃないか</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 21 Mar 2021 16:35:03 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 21 Mar 2021 21:25:21 +0900</lastBuildDate>
     <atom:link href="/game/posts/" rel="self" type="application/rss+xml"/>
+    
+    <item>
+      <title>WebGLでページ表示時にuncaught syntaxerror unexpected identifierエラーが表示される</title>
+      <link>https://comboeng.github.io/game/posts/howto14/</link>
+      <pubDate>Sun, 21 Mar 2021 21:25:21 +0900</pubDate>
+      
+      <guid>https://comboeng.github.io/game/posts/howto14/</guid>
+      <description>
+        <p>エラー詳細 WebGLのページを表示しようとしたとき uncaught syntaxerror unexpected identifier と表示され、ゲームのロードがストップし、ゲームをプレイすることができない現象があり...</p>
+        <p><a href="https://comboeng.github.io/game/posts/howto14/">Read More</a></p>
+      </description>
+    </item>
     
     <item>
       <title>[アクションゲーム制作]参考にするゲームについて</title>
@@ -233,18 +245,6 @@
       <description>
         <p>目的 PUN 2(photon unity network 2)というネットワークで多人数と同期ゲームができる アセットの導入部分のメモ 参照サイト この記事内のことは、以下の公式サイトでやって...</p>
         <p><a href="https://comboeng.github.io/game/posts/pun2_2/">Read More</a></p>
-      </description>
-    </item>
-    
-    <item>
-      <title>キャラクターにアニメーションを設定して、キー操作で動かす。</title>
-      <link>https://comboeng.github.io/game/posts/howto5/</link>
-      <pubDate>Mon, 23 Nov 2020 22:46:21 +0900</pubDate>
-      
-      <guid>https://comboeng.github.io/game/posts/howto5/</guid>
-      <description>
-        <p>目的 キャラクターに既存のアニメーションを追加設定して、「SPACE」キーをタップした時そのアニメーションを実行するようにする時の手順メモ ※ア...</p>
-        <p><a href="https://comboeng.github.io/game/posts/howto5/">Read More</a></p>
       </description>
     </item>
     
