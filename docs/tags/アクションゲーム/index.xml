@@ -1,0 +1,24 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>アクションゲーム on ゲームを作ろうじゃないか</title>
+    <link>https://comboeng.github.io/game/tags/%E3%82%A2%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%B2%E3%83%BC%E3%83%A0/</link>
+    <description>Recent content in アクションゲーム on ゲームを作ろうじゃないか</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 21 Mar 2021 16:35:03 +0900</lastBuildDate>
+    <atom:link href="/game/tags/%E3%82%A2%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%B2%E3%83%BC%E3%83%A0/" rel="self" type="application/rss+xml"/>
+    
+    <item>
+      <title>[アクションゲーム制作]参考にするゲームについて</title>
+      <link>https://comboeng.github.io/game/posts/game1/</link>
+      <pubDate>Sun, 21 Mar 2021 16:35:03 +0900</pubDate>
+      
+      <guid>https://comboeng.github.io/game/posts/game1/</guid>
+      <description>
+        <p>ゲーム制作開始 このブログのタイトルは今の所ゲームを作ろうじゃないかとなってますが。 お前、何もゲーム作っていないじゃないか と、そろそろ言われそ...</p>
+        <p><a href="https://comboeng.github.io/game/posts/game1/">Read More</a></p>
+      </description>
+    </item>
+    
+  </channel>
+</rss>
