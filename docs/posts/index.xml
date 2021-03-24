@@ -5,8 +5,20 @@
     <description>Recent content in Posts on ゲームを作ろうじゃないか</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 21 Mar 2021 21:25:21 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 25 Mar 2021 00:46:19 +0900</lastBuildDate>
     <atom:link href="/game/posts/" rel="self" type="application/rss+xml"/>
+    
+    <item>
+      <title>[アクションゲーム制作]経過報告No1</title>
+      <link>https://comboeng.github.io/game/posts/game2/</link>
+      <pubDate>Thu, 25 Mar 2021 00:46:19 +0900</pubDate>
+      
+      <guid>https://comboeng.github.io/game/posts/game2/</guid>
+      <description>
+        <p>制作ゲームの現状 現在はDARKSOULSのバトルの部分を参考にしながら制作しています。 今回はそのゲームの見た目について考察していきます。 内容...</p>
+        <p><a href="https://comboeng.github.io/game/posts/game2/">Read More</a></p>
+      </description>
+    </item>
     
     <item>
       <title>WebGLでページ表示時にuncaught syntaxerror unexpected identifierエラーが表示される</title>
@@ -233,18 +245,6 @@
       <description>
         <p>目的 ボタンを押した時に処理をしたい場合の手順メモ Unityのバージョン version 2019.4.10f1 ボタンの作成 UnityのHierarchyより右クリックメニューで...</p>
         <p><a href="https://comboeng.github.io/game/posts/howto6/">Read More</a></p>
-      </description>
-    </item>
-    
-    <item>
-      <title>PUN 2を導入してみる</title>
-      <link>https://comboeng.github.io/game/posts/pun2_2/</link>
-      <pubDate>Tue, 24 Nov 2020 09:37:26 +0900</pubDate>
-      
-      <guid>https://comboeng.github.io/game/posts/pun2_2/</guid>
-      <description>
-        <p>目的 PUN 2(photon unity network 2)というネットワークで多人数と同期ゲームができる アセットの導入部分のメモ 参照サイト この記事内のことは、以下の公式サイトでやって...</p>
-        <p><a href="https://comboeng.github.io/game/posts/pun2_2/">Read More</a></p>
       </description>
     </item>
     

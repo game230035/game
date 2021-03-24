@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>NavMeshについて - ゲームを作ろうじゃないか</title>
+    <title>[アクションゲーム制作]経過報告No1 - ゲームを作ろうじゃないか</title>
     <meta name="pinterest" content="nopin">
 <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
 <meta name="theme-color" content="#263238">
@@ -10,10 +10,10 @@
 
 <meta name="generator" content="Hugo 0.76.5" />
 <link rel="apple-touch-icon" href="https://comboeng.github.io/game/favicon.png">
-<link rel="amphtml" type="text/html" href="https://comboeng.github.io/game/amp/posts/howto11/" title="ゲームを作ろうじゃないか">
+<link rel="amphtml" type="text/html" href="https://comboeng.github.io/game/amp/posts/game2/" title="ゲームを作ろうじゃないか">
 
 
-    <link rel="canonical" href="https://comboeng.github.io/game/posts/howto11/">
+    <link rel="canonical" href="https://comboeng.github.io/game/posts/game2/">
     
     <link href="https://fonts.googleapis.com/css?family=Roboto+Slab:400,700" rel="stylesheet">
     
@@ -1423,16 +1423,16 @@ section.sidebar > header {
 
     <article class="sn">
 
-  <div class="thumb thumb-c23ba933b7469bf40fdefea58229160d"></div>
+  <div class="thumb thumb-832e68b92b80c5ffd4ead4765965f417"></div>
 
   <header class="article-header">
-    <h1 class="title">NavMeshについて</h1>
+    <h1 class="title">[アクションゲーム制作]経過報告No1</h1>
 
     <ul class="facts">
       <li>
         <i class="fas fa-calendar" aria-hidden="true"></i>
-          <time datetime="2020-12-20T21:36:24JST">
-            Dec 20, 2020
+          <time datetime="2021-03-25T00:46:19JST">
+            Mar 25, 2021
           </time>
       </li>
       
@@ -1440,8 +1440,8 @@ section.sidebar > header {
     </ul>
 
     <aside class="share">
-  <a href="https://twitter.com/intent/tweet?url=https%3a%2f%2fcomboeng.github.io%2fgame%2fposts%2fhowto11%2f&text=NavMesh%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6&tw_p=tweetbutton" title="Twitterでシェア" class="tw" target="_blank" rel="nofollow"><i class="fab fa-twitter" aria-hidden="true"></i></a>
-  <a href="https://getpocket.com/edit?url=https%3a%2f%2fcomboeng.github.io%2fgame%2fposts%2fhowto11%2f&title=NavMesh%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6" title="Pocketに保存" class="pk" target="_blank" rel="nofollow"><i class="fab fa-get-pocket" aria-hidden="true"></i></a>
+  <a href="https://twitter.com/intent/tweet?url=https%3a%2f%2fcomboeng.github.io%2fgame%2fposts%2fgame2%2f&text=%5b%e3%82%a2%e3%82%af%e3%82%b7%e3%83%a7%e3%83%b3%e3%82%b2%e3%83%bc%e3%83%a0%e5%88%b6%e4%bd%9c%5d%e7%b5%8c%e9%81%8e%e5%a0%b1%e5%91%8aNo1&tw_p=tweetbutton" title="Twitterでシェア" class="tw" target="_blank" rel="nofollow"><i class="fab fa-twitter" aria-hidden="true"></i></a>
+  <a href="https://getpocket.com/edit?url=https%3a%2f%2fcomboeng.github.io%2fgame%2fposts%2fgame2%2f&title=%5b%e3%82%a2%e3%82%af%e3%82%b7%e3%83%a7%e3%83%b3%e3%82%b2%e3%83%bc%e3%83%a0%e5%88%b6%e4%bd%9c%5d%e7%b5%8c%e9%81%8e%e5%a0%b1%e5%91%8aNo1" title="Pocketに保存" class="pk" target="_blank" rel="nofollow"><i class="fab fa-get-pocket" aria-hidden="true"></i></a>
 </aside>
 
   </header>
@@ -1450,50 +1450,30 @@ section.sidebar > header {
   <div class="toc">
     <nav id="TableOfContents">
   <ul>
-    <li><a href="#navmeshについて設定手順とか">NavMeshについて　設定手順とか</a></li>
+    <li><a href="#制作ゲームの現状">制作ゲームの現状</a></li>
+    <li><a href="#次回までの目標">次回までの目標</a></li>
   </ul>
 </nav>
   </div>
   
-  <div class="article-body"><h2 id="navmeshについて設定手順とか">NavMeshについて　設定手順とか</h2>
+  <div class="article-body"><h2 id="制作ゲームの現状">制作ゲームの現状</h2>
+<p>現在はDARKSOULSのバトルの部分を参考にしながら制作しています。<br>
+今回はそのゲームの見た目について考察していきます。</p>
+<p>内容は以下の動画にて</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grTL_6S3-5g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<h2 id="次回までの目標">次回までの目標</h2>
 <ul>
-<li>
-<p>歩く部分をNavigation Staticにする。
-Navigation StaticはInspectorInspectorのStaticにて</p>
-</li>
-<li>
-<p>Navigation画面を開く
-NavigationはUnityツールバーのWindow &gt; AI &gt; Navigation<br>
-versionによって変わるイメージ（やめてくれ）</p>
-</li>
-<li>
-<p>Navigation設定を行う
-歩かせたくない場所はNot walkable<br>
-歩かせたい場所はWalkable<br>
-とかにする。</p>
-</li>
-<li>
-<p>設定
-Bakeタブを開いて、Bakeボタンをタップ。<br>
-歩ける場所は色が水色となる。<br>
-<img src="2020-12-20-22-00-29.png" alt=""></p>
-</li>
-<li>
-<p>NPC設定
-NPCのGameObectにNav Mesh Agentをアタッチする。</p>
-</li>
-<li>
-<p>Nav Mesh Agentのプロパティについて
-<a href="https://docs.unity3d.com/ja/current/Manual/class-NavMeshAgent.html">Unity ナビメッシュエージェント</a></p>
-</li>
+<li>ロックオンマークが消える不具合を治す</li>
+<li>地面見た目を良くする
+の2点を対応したいと思います。</li>
 </ul>
 </div>
 
   <footer class="article-footer">
 
     <aside class="share">
-  <a href="https://twitter.com/intent/tweet?url=https%3a%2f%2fcomboeng.github.io%2fgame%2fposts%2fhowto11%2f&text=NavMesh%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6&tw_p=tweetbutton" title="Twitterでシェア" class="tw" target="_blank" rel="nofollow"><i class="fab fa-twitter" aria-hidden="true"></i></a>
-  <a href="https://getpocket.com/edit?url=https%3a%2f%2fcomboeng.github.io%2fgame%2fposts%2fhowto11%2f&title=NavMesh%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6" title="Pocketに保存" class="pk" target="_blank" rel="nofollow"><i class="fab fa-get-pocket" aria-hidden="true"></i></a>
+  <a href="https://twitter.com/intent/tweet?url=https%3a%2f%2fcomboeng.github.io%2fgame%2fposts%2fgame2%2f&text=%5b%e3%82%a2%e3%82%af%e3%82%b7%e3%83%a7%e3%83%b3%e3%82%b2%e3%83%bc%e3%83%a0%e5%88%b6%e4%bd%9c%5d%e7%b5%8c%e9%81%8e%e5%a0%b1%e5%91%8aNo1&tw_p=tweetbutton" title="Twitterでシェア" class="tw" target="_blank" rel="nofollow"><i class="fab fa-twitter" aria-hidden="true"></i></a>
+  <a href="https://getpocket.com/edit?url=https%3a%2f%2fcomboeng.github.io%2fgame%2fposts%2fgame2%2f&title=%5b%e3%82%a2%e3%82%af%e3%82%b7%e3%83%a7%e3%83%b3%e3%82%b2%e3%83%bc%e3%83%a0%e5%88%b6%e4%bd%9c%5d%e7%b5%8c%e9%81%8e%e5%a0%b1%e5%91%8aNo1" title="Pocketに保存" class="pk" target="_blank" rel="nofollow"><i class="fab fa-get-pocket" aria-hidden="true"></i></a>
 </aside>
 
 
@@ -1505,7 +1485,7 @@ NPCのGameObectにNav Mesh Agentをアタッチする。</p>
             
             <li itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="https://comboeng.github.io/game/posts/" itemprop="url"><span itemprop="title">POSTS</span></a></li>
             
-            <li class="active">NavMeshについて</li>
+            <li class="active">[アクションゲーム制作]経過報告No1</li>
           </ol>
         </nav>
       </div>
@@ -1524,7 +1504,7 @@ NPCのGameObectにNav Mesh Agentをアタッチする。</p>
         <div>
           <ul class="terms">
             
-            <li><a href="https://comboeng.github.io/game/categories/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0/">プログラム</a></li>
+            <li><a href="https://comboeng.github.io/game/categories/%E3%82%B2%E3%83%BC%E3%83%A0%E5%88%B6%E4%BD%9C/">ゲーム制作</a></li>
             
           </ul>
         </div>
@@ -1543,7 +1523,7 @@ NPCのGameObectにNav Mesh Agentをアタッチする。</p>
         <div>
           <ul class="terms">
             
-            <li><a href="https://comboeng.github.io/game/tags/navmesh/">NavMesh</a></li>
+            <li><a href="https://comboeng.github.io/game/tags/%E3%82%A2%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%B2%E3%83%BC%E3%83%A0/">アクションゲーム</a></li>
             
           </ul>
         </div>
@@ -1557,6 +1537,25 @@ NPCのGameObectにNav Mesh Agentをアタッチする。</p>
 
 
     
+
+     <div class="related" >
+          <div class="related_title">
+               <h3>関連記事</h3>
+          </div>
+          
+          <article class="related">
+               <a href="/game/posts/game1/">
+                    <div class="box">
+                         <div class="thumb thumb-71643eb412edb5b2df0d9893c6d62086"></div>
+
+                         <div class="inner">
+                              <div class="title">[アクションゲーム制作]参考にするゲームについて</div>
+                         </div>
+                    </div>
+               </a>
+          </article>
+          
+    </div>
    
 
     
