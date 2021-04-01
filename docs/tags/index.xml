@@ -5,8 +5,20 @@
     <description>Recent content in Tags on ゲームを作ろうじゃないか</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Mar 2021 00:46:19 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 01 Apr 2021 14:09:51 +0900</lastBuildDate>
     <atom:link href="/game/tags/" rel="self" type="application/rss+xml"/>
+    
+    <item>
+      <title>ランキング</title>
+      <link>https://comboeng.github.io/game/tags/%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0/</link>
+      <pubDate>Thu, 01 Apr 2021 14:09:51 +0900</pubDate>
+      
+      <guid>https://comboeng.github.io/game/tags/%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0/</guid>
+      <description>
+        <p>...</p>
+        <p><a href="https://comboeng.github.io/game/tags/%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0/">Read More</a></p>
+      </description>
+    </item>
     
     <item>
       <title>アクションゲーム</title>
@@ -29,18 +41,6 @@
       <description>
         <p>...</p>
         <p><a href="https://comboeng.github.io/game/tags/weggl/">Read More</a></p>
-      </description>
-    </item>
-    
-    <item>
-      <title>ランキング</title>
-      <link>https://comboeng.github.io/game/tags/%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0/</link>
-      <pubDate>Tue, 02 Mar 2021 00:28:37 +0900</pubDate>
-      
-      <guid>https://comboeng.github.io/game/tags/%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0/</guid>
-      <description>
-        <p>...</p>
-        <p><a href="https://comboeng.github.io/game/tags/%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0/">Read More</a></p>
       </description>
     </item>
     
