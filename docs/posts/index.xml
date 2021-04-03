@@ -33,6 +33,18 @@
     </item>
     
     <item>
+      <title>[アクションゲーム制作]経過報告No2</title>
+      <link>https://comboeng.github.io/game/posts/game3/</link>
+      <pubDate>Thu, 25 Mar 2021 00:46:19 +0900</pubDate>
+      
+      <guid>https://comboeng.github.io/game/posts/game3/</guid>
+      <description>
+        <p>制作ゲームの現状 現在はDARKSOULSのバトルの部分を参考にしながら制作しています。 今回は、前回のゲームの見た目についての反映結果と、 自キ...</p>
+        <p><a href="https://comboeng.github.io/game/posts/game3/">Read More</a></p>
+      </description>
+    </item>
+    
+    <item>
       <title>WebGLでページ表示時にuncaught syntaxerror unexpected identifierエラーが表示される</title>
       <link>https://comboeng.github.io/game/posts/howto14/</link>
       <pubDate>Sun, 21 Mar 2021 21:25:21 +0900</pubDate>
@@ -233,18 +245,6 @@
       <description>
         <p>この記事について MacOSをBigSurにアップデートしたところ、 ブラウザ上でのWebGLが表示されなくなった。 自分のアプリだけでなく、他の...</p>
         <p><a href="https://comboeng.github.io/game/posts/howto8/">Read More</a></p>
-      </description>
-    </item>
-    
-    <item>
-      <title>アプリに FirebaseRealtime Database を追加する手順</title>
-      <link>https://comboeng.github.io/game/posts/howto7/</link>
-      <pubDate>Tue, 24 Nov 2020 11:04:11 +0900</pubDate>
-      
-      <guid>https://comboeng.github.io/game/posts/howto7/</guid>
-      <description>
-        <p>はじめに FirebaseRealtimeにて設定したデータベースを、UnityのC#プログラムで取得する方法です。 公式ドキュメント Googl...</p>
-        <p><a href="https://comboeng.github.io/game/posts/howto7/">Read More</a></p>
       </description>
     </item>
     
