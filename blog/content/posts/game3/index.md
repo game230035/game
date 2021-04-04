@@ -1,6 +1,6 @@
 ---
 title: "[アクションゲーム制作]経過報告No2"
-date: 2021-03-25T00:46:19+09:00
+date: 2021-04-03T00:46:19+09:00
 draft: false
 thumbnail: "images/thumbnail_actiongame.png"
 categories: ["ゲーム制作"]
