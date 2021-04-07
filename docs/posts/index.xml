@@ -5,8 +5,20 @@
     <description>Recent content in Posts on ゲームを作ろうじゃないか</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 03 Apr 2021 00:46:19 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 08 Apr 2021 08:41:59 +0900</lastBuildDate>
     <atom:link href="/game/posts/" rel="self" type="application/rss+xml"/>
+    
+    <item>
+      <title>[アクションゲーム制作]経過報告No3</title>
+      <link>https://comboeng.github.io/game/posts/game4/</link>
+      <pubDate>Thu, 08 Apr 2021 08:41:59 +0900</pubDate>
+      
+      <guid>https://comboeng.github.io/game/posts/game4/</guid>
+      <description>
+        <p>制作ゲームの現状 現在はDARKSOULSのバトルの部分を参考にしながら制作しています。 今回は、前回の自キャラ、敵キャラのアクションの考察反映...</p>
+        <p><a href="https://comboeng.github.io/game/posts/game4/">Read More</a></p>
+      </description>
+    </item>
     
     <item>
       <title>[アクションゲーム制作]経過報告No2</title>
@@ -233,18 +245,6 @@
       <description>
         <p>この記事について AnimationControllerを使ったコンボ攻撃の実装方法をUnity Japanの方が動画にしてくださったのでそのリ...</p>
         <p><a href="https://comboeng.github.io/game/posts/howto9/">Read More</a></p>
-      </description>
-    </item>
-    
-    <item>
-      <title>MacOS BigSurだとブラウザ上でWebGLの実行ができない件</title>
-      <link>https://comboeng.github.io/game/posts/howto8/</link>
-      <pubDate>Thu, 26 Nov 2020 09:05:44 +0900</pubDate>
-      
-      <guid>https://comboeng.github.io/game/posts/howto8/</guid>
-      <description>
-        <p>この記事について MacOSをBigSurにアップデートしたところ、 ブラウザ上でのWebGLが表示されなくなった。 自分のアプリだけでなく、他の...</p>
-        <p><a href="https://comboeng.github.io/game/posts/howto8/">Read More</a></p>
       </description>
     </item>
     
