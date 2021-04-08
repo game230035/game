@@ -5,8 +5,20 @@
     <description>Recent content in Posts on ゲームを作ろうじゃないか</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 08 Apr 2021 08:41:59 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 08 Apr 2021 09:11:22 +0900</lastBuildDate>
     <atom:link href="/game/posts/" rel="self" type="application/rss+xml"/>
+    
+    <item>
+      <title>Unity アセット　SPRINGセールやるみたいですよ！</title>
+      <link>https://comboeng.github.io/game/posts/asset8/</link>
+      <pubDate>Thu, 08 Apr 2021 09:11:22 +0900</pubDate>
+      
+      <guid>https://comboeng.github.io/game/posts/asset8/</guid>
+      <description>
+        <p>SPRINGセールやるみたいです SPRINGセールが以下の機関で実施されるようです。 4月12日 16:00 - 5月1日 16:59までですよ。 日替わりで1...</p>
+        <p><a href="https://comboeng.github.io/game/posts/asset8/">Read More</a></p>
+      </description>
+    </item>
     
     <item>
       <title>[アクションゲーム制作]経過報告No3</title>
@@ -233,18 +245,6 @@
       <description>
         <p>年末年始セールやってます 12月15日 17:00 - 1月8日 16:59までですよ。 オススメはなんだろう。。。 Easy Save Final IK DOTween Pro とかでしょうか。...</p>
         <p><a href="https://comboeng.github.io/game/posts/asset5/">Read More</a></p>
-      </description>
-    </item>
-    
-    <item>
-      <title>AnimationControllerを使ったコンボ攻撃理[リンク]</title>
-      <link>https://comboeng.github.io/game/posts/howto9/</link>
-      <pubDate>Mon, 30 Nov 2020 23:06:24 +0900</pubDate>
-      
-      <guid>https://comboeng.github.io/game/posts/howto9/</guid>
-      <description>
-        <p>この記事について AnimationControllerを使ったコンボ攻撃の実装方法をUnity Japanの方が動画にしてくださったのでそのリ...</p>
-        <p><a href="https://comboeng.github.io/game/posts/howto9/">Read More</a></p>
       </description>
     </item>
     
