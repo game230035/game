@@ -14,7 +14,8 @@ toc: true
 今後について話しています。
   
 内容は以下の動画にて  
-<iframe width="560" height="315" src="https://youtu.be/eFs-Gy9E8P4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eFs-Gy9E8P4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+
 
 いつも動画のクオリティ低くてスミマセン。  
   

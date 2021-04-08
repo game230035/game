@@ -14,7 +14,8 @@ toc: true
 自キャラ、敵キャラのアクションの考察をしてみました。  
   
 内容は以下の動画にて  
-<iframe width="560" height="315" src="https://youtu.be/7P7v85yqS9w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7P7v85yqS9w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+
 
 動画のクオリティ低くてスミマセン。  
 いやぁ、モチベーション保ててないです。  
