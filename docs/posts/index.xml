@@ -5,8 +5,20 @@
     <description>Recent content in Posts on ゲームを作ろうじゃないか</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 08 Apr 2021 09:11:22 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 12 Apr 2021 22:52:28 +0900</lastBuildDate>
     <atom:link href="/game/posts/" rel="self" type="application/rss+xml"/>
+    
+    <item>
+      <title>[アクションゲーム制作]経過報告No4</title>
+      <link>https://comboeng.github.io/game/posts/game5/</link>
+      <pubDate>Mon, 12 Apr 2021 22:52:28 +0900</pubDate>
+      
+      <guid>https://comboeng.github.io/game/posts/game5/</guid>
+      <description>
+        <p>制作ゲームの現状 アクションゲームを制作しています。 今回は、 チュートリアルのシーンを変更する。 村とかの拠点にする。そこでチュートリアルとか、ボ...</p>
+        <p><a href="https://comboeng.github.io/game/posts/game5/">Read More</a></p>
+      </description>
+    </item>
     
     <item>
       <title>Unity アセット　SPRINGセールやるみたいですよ！</title>
@@ -233,18 +245,6 @@
       <description>
         <p>空の設定方法 Window -&gt; Rendering -&gt; Light Settings Skybox Materialを修正 これだけなのに忘れる。 というか、Light Settingの表示がUnityのバージョンごとに...</p>
         <p><a href="https://comboeng.github.io/game/posts/howto10/">Read More</a></p>
-      </description>
-    </item>
-    
-    <item>
-      <title>年末年始セールやってるよ</title>
-      <link>https://comboeng.github.io/game/posts/asset5/</link>
-      <pubDate>Fri, 18 Dec 2020 21:22:14 +0900</pubDate>
-      
-      <guid>https://comboeng.github.io/game/posts/asset5/</guid>
-      <description>
-        <p>年末年始セールやってます 12月15日 17:00 - 1月8日 16:59までですよ。 オススメはなんだろう。。。 Easy Save Final IK DOTween Pro とかでしょうか。...</p>
-        <p><a href="https://comboeng.github.io/game/posts/asset5/">Read More</a></p>
       </description>
     </item>
     

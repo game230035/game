@@ -5,8 +5,20 @@
     <description>Recent content in アクションゲーム on ゲームを作ろうじゃないか</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 08 Apr 2021 08:41:59 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 12 Apr 2021 22:52:28 +0900</lastBuildDate>
     <atom:link href="/game/tags/%E3%82%A2%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%B2%E3%83%BC%E3%83%A0/" rel="self" type="application/rss+xml"/>
+    
+    <item>
+      <title>[アクションゲーム制作]経過報告No4</title>
+      <link>https://comboeng.github.io/game/posts/game5/</link>
+      <pubDate>Mon, 12 Apr 2021 22:52:28 +0900</pubDate>
+      
+      <guid>https://comboeng.github.io/game/posts/game5/</guid>
+      <description>
+        <p>制作ゲームの現状 アクションゲームを制作しています。 今回は、 チュートリアルのシーンを変更する。 村とかの拠点にする。そこでチュートリアルとか、ボ...</p>
+        <p><a href="https://comboeng.github.io/game/posts/game5/">Read More</a></p>
+      </description>
+    </item>
     
     <item>
       <title>[アクションゲーム制作]経過報告No3</title>
