@@ -5,8 +5,20 @@
     <description>Recent content in ゲーム制作 on ゲームを作ろうじゃないか</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 Apr 2021 17:17:54 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 22 Apr 2021 23:46:33 +0900</lastBuildDate>
     <atom:link href="/game/categories/%E3%82%B2%E3%83%BC%E3%83%A0%E5%88%B6%E4%BD%9C/" rel="self" type="application/rss+xml"/>
+    
+    <item>
+      <title>[アクションゲーム制作]経過報告No7</title>
+      <link>https://comboeng.github.io/game/posts/game8/</link>
+      <pubDate>Thu, 22 Apr 2021 23:46:33 +0900</pubDate>
+      
+      <guid>https://comboeng.github.io/game/posts/game8/</guid>
+      <description>
+        <p>制作ゲームの現状 アクションゲームを制作しています。 今回は、 草を交換した数を保存してキャラクターランキング化したい の対応と、 今後について話して...</p>
+        <p><a href="https://comboeng.github.io/game/posts/game8/">Read More</a></p>
+      </description>
+    </item>
     
     <item>
       <title>[アクションゲーム制作]経過報告No6</title>
