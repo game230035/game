@@ -5,8 +5,20 @@
     <description>Recent content in Posts on ゲームを作ろうじゃないか</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Apr 2021 23:46:33 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 24 Apr 2021 14:55:47 +0900</lastBuildDate>
     <atom:link href="/game/posts/" rel="self" type="application/rss+xml"/>
+    
+    <item>
+      <title>[Unity]Build and Run時にのみエラーとなる現象の対応</title>
+      <link>https://comboeng.github.io/game/posts/howto15/</link>
+      <pubDate>Sat, 24 Apr 2021 14:55:47 +0900</pubDate>
+      
+      <guid>https://comboeng.github.io/game/posts/howto15/</guid>
+      <description>
+        <p>## 目的 UnityでBuild and Run時にのみエラーとなる現象の対応メモ 対応策 エラーとなるファイルについて、 using UnityEditor;を利用し...</p>
+        <p><a href="https://comboeng.github.io/game/posts/howto15/">Read More</a></p>
+      </description>
+    </item>
     
     <item>
       <title>[アクションゲーム制作]経過報告No7</title>
@@ -233,18 +245,6 @@
       <description>
         <p>クラッシュ ロワイヤル 今一番ハマっています という記事をあげましたが。 やらなくなりました。 やらなくなった考察を。 2020年10月ですごい面白いと...</p>
         <p><a href="https://comboeng.github.io/game/posts/crash2/">Read More</a></p>
-      </description>
-    </item>
-    
-    <item>
-      <title>WebGLでゲームを出力するとUnityWebRequestでエラーになる</title>
-      <link>https://comboeng.github.io/game/posts/howto13/</link>
-      <pubDate>Wed, 06 Jan 2021 22:34:49 +0900</pubDate>
-      
-      <guid>https://comboeng.github.io/game/posts/howto13/</guid>
-      <description>
-        <p>エラー詳細 WebGLで出力したゲームについて、ゲーム中にUnityWebRequestなどで自サーバにアクセスすると、 UNKNOWNエラーに...</p>
-        <p><a href="https://comboeng.github.io/game/posts/howto13/">Read More</a></p>
       </description>
     </item>
     
