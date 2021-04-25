@@ -8,5 +8,6 @@ else
 	hugo new posts/$1/index.md
 	echo OK
 	open /Users/comboengineering/work/blog/game/blog/content/posts/$1/index.md
+	hugo server
 fi
 

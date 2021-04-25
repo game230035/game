@@ -5,8 +5,20 @@
     <description>Recent content in Posts on ゲームを作ろうじゃないか</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 24 Apr 2021 14:55:47 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 25 Apr 2021 17:07:34 +0900</lastBuildDate>
     <atom:link href="/game/posts/" rel="self" type="application/rss+xml"/>
+    
+    <item>
+      <title>アセット買いました</title>
+      <link>https://comboeng.github.io/game/posts/asset9/</link>
+      <pubDate>Sun, 25 Apr 2021 17:07:34 +0900</pubDate>
+      
+      <guid>https://comboeng.github.io/game/posts/asset9/</guid>
+      <description>
+        <p>アセット買いました Mega Animation Pack というアニメーションアセットを購入しました。 本来は$99でしたが、セールで$29.7でしたので購入！ かなりの数のアニ...</p>
+        <p><a href="https://comboeng.github.io/game/posts/asset9/">Read More</a></p>
+      </description>
+    </item>
     
     <item>
       <title>[Unity]Build and Run時にのみエラーとなる現象の対応</title>
@@ -233,18 +245,6 @@
       <description>
         <p>2021年2月のPCゲーム/スマホアプリの売上 スマホアプリについては、 http://game-i.daa.jp/ から PCゲームは、 https://store.steampowered.com/ から抜粋 PCゲームでは、仁王２やってみたい。 スマ...</p>
         <p><a href="https://comboeng.github.io/game/posts/seller202102/">Read More</a></p>
-      </description>
-    </item>
-    
-    <item>
-      <title>クラッシュ ロワイヤル やらなくなった</title>
-      <link>https://comboeng.github.io/game/posts/crash2/</link>
-      <pubDate>Sun, 31 Jan 2021 14:26:03 +0900</pubDate>
-      
-      <guid>https://comboeng.github.io/game/posts/crash2/</guid>
-      <description>
-        <p>クラッシュ ロワイヤル 今一番ハマっています という記事をあげましたが。 やらなくなりました。 やらなくなった考察を。 2020年10月ですごい面白いと...</p>
-        <p><a href="https://comboeng.github.io/game/posts/crash2/">Read More</a></p>
       </description>
     </item>
     

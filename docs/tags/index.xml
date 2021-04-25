@@ -5,8 +5,20 @@
     <description>Recent content in Tags on ゲームを作ろうじゃないか</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Apr 2021 23:46:33 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 25 Apr 2021 17:07:34 +0900</lastBuildDate>
     <atom:link href="/game/tags/" rel="self" type="application/rss+xml"/>
+    
+    <item>
+      <title>Mega Animation Pack</title>
+      <link>https://comboeng.github.io/game/tags/mega-animation-pack/</link>
+      <pubDate>Sun, 25 Apr 2021 17:07:34 +0900</pubDate>
+      
+      <guid>https://comboeng.github.io/game/tags/mega-animation-pack/</guid>
+      <description>
+        <p>...</p>
+        <p><a href="https://comboeng.github.io/game/tags/mega-animation-pack/">Read More</a></p>
+      </description>
+    </item>
     
     <item>
       <title>アクションゲーム</title>
@@ -233,18 +245,6 @@
       <description>
         <p>...</p>
         <p><a href="https://comboeng.github.io/game/tags/firebaserealtime/">Read More</a></p>
-      </description>
-    </item>
-    
-    <item>
-      <title>button</title>
-      <link>https://comboeng.github.io/game/tags/button/</link>
-      <pubDate>Tue, 24 Nov 2020 10:27:56 +0900</pubDate>
-      
-      <guid>https://comboeng.github.io/game/tags/button/</guid>
-      <description>
-        <p>...</p>
-        <p><a href="https://comboeng.github.io/game/tags/button/">Read More</a></p>
       </description>
     </item>
     
