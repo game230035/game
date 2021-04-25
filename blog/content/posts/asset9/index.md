@@ -9,7 +9,7 @@ toc: true
 ---
 
 ## アセット買いました
-*Mega Animation Pack*  
+[Mega Animation Pack](https://assetstore.unity.com/packages/3d/animations/mega-animations-pack-162341)  
 というアニメーションアセットを購入しました。  
   
 本来は$99でしたが、セールで$29.7でしたので購入！  
