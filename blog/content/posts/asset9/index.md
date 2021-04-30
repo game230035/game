@@ -1,5 +1,5 @@
 ---
-title: "アセット買いました"
+title: "[Unity アセット購入]Mega Animation Pack"
 date: 2021-04-25T17:07:34+09:00
 draft: false
 thumbnail: "images/thumbnail_asset.png"
@@ -9,7 +9,10 @@ toc: true
 ---
 
 ## アセット買いました
-[Mega Animation Pack](https://assetstore.unity.com/packages/3d/animations/mega-animations-pack-162341)  
+[Mega Animation Pack](https://assetstore.unity.com/packages/3d/animations/mega-animations-pack-162341?aid=1100liUFe)  
+<iframe src="https://assetstore.unity.com/linkmaker/embed/package/162341/widget-wide-light?aid=1100liUFe" style="width:600px; height:130px; border:0px;"></iframe>  
+
+
 というアニメーションアセットを購入しました。  
   
 本来は$99でしたが、セールで$29.7でしたので購入！  
