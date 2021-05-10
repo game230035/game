@@ -5,8 +5,20 @@
     <description>Recent content in アクションゲーム on ゲームを作ろうじゃないか</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Apr 2021 23:46:33 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 10 May 2021 20:07:46 +0900</lastBuildDate>
     <atom:link href="" rel="self" type="application/rss+xml"/>
+    
+    <item>
+      <title>[アクションゲーム制作]経過報告No8</title>
+      <link>https://comboeng.github.io/game/posts/game9/</link>
+      <pubDate>Mon, 10 May 2021 20:07:46 +0900</pubDate>
+      
+      <guid>https://comboeng.github.io/game/posts/game9/</guid>
+      <description>
+        <p>制作ゲームの現状 アクションゲームを制作しています。 今回は、 WebGLでユーザ情報が保存できるのか確認 そもそもWebGLで読み込みが重い ゲーム...</p>
+        <p><a href="https://comboeng.github.io/game/posts/game9/">Read More</a></p>
+      </description>
+    </item>
     
     <item>
       <title>[アクションゲーム制作]経過報告No7</title>
