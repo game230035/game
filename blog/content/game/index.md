@@ -8,6 +8,7 @@ tags: [""]
 toc: true
 ---
 
-
+まだテスト版です！！
+<a href="https://combo.tokyo/game_mac">Mac版ゲームダウンロード</a>  
 <a href="https://combo.tokyo/game_mac">Mac版ゲームダウンロード</a>  
   
