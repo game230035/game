@@ -1,0 +1,24 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>モンスト on ゲームを作ろうじゃないか</title>
+    <link>https://comboeng.github.io/game/tags/%E3%83%A2%E3%83%B3%E3%82%B9%E3%83%88/</link>
+    <description>Recent content in モンスト on ゲームを作ろうじゃないか</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 17 May 2021 16:05:21 +0900</lastBuildDate>
+    <atom:link href="" rel="self" type="application/rss+xml"/>
+    
+    <item>
+      <title>[モンスト]新機能R.T.ワールドを遊んでみた</title>
+      <link>https://comboeng.github.io/game/posts/review5/</link>
+      <pubDate>Mon, 17 May 2021 16:05:21 +0900</pubDate>
+      
+      <guid>https://comboeng.github.io/game/posts/review5/</guid>
+      <description>
+        <p>この記事について モンストで実装された新機能 R.T.ワールドについて、遊んでみたのでレビューします。 なんでこんな事を書くかと言うと、 おこがまし...</p>
+        <p><a href="https://comboeng.github.io/game/posts/review5/">Read More</a></p>
+      </description>
+    </item>
+    
+  </channel>
+</rss>
