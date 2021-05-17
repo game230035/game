@@ -57,6 +57,30 @@
     </item>
     
     <item>
+      <title>PUN 2を導入してみる</title>
+      <link>https://comboeng.github.io/game/posts/howto17/</link>
+      <pubDate>Sat, 24 Apr 2021 16:55:47 +0900</pubDate>
+      
+      <guid>https://comboeng.github.io/game/posts/howto17/</guid>
+      <description>
+        <p>目的 PUN 2(photon unity network 2)というネットワークで多人数と同期ゲームができる アセットの導入部分のメモ 参照サイト この記事内のことは、以下の公式サイトでやって...</p>
+        <p><a href="https://comboeng.github.io/game/posts/howto17/">Read More</a></p>
+      </description>
+    </item>
+    
+    <item>
+      <title>PUN2 入門ドキュメント</title>
+      <link>https://comboeng.github.io/game/posts/howto16/</link>
+      <pubDate>Sat, 24 Apr 2021 15:55:47 +0900</pubDate>
+      
+      <guid>https://comboeng.github.io/game/posts/howto16/</guid>
+      <description>
+        <p>この記事について PUN2の入門ドキュメント webサイトのまとめです。 公式サイトの大項目をまとめているだけです。 PUN2で始めるオンラインゲー...</p>
+        <p><a href="https://comboeng.github.io/game/posts/howto16/">Read More</a></p>
+      </description>
+    </item>
+    
+    <item>
       <title>[Unity]Build and Run時にのみエラーとなる現象の対応</title>
       <link>https://comboeng.github.io/game/posts/howto15/</link>
       <pubDate>Sat, 24 Apr 2021 14:55:47 +0900</pubDate>
@@ -214,37 +238,13 @@
     
     <item>
       <title>鬼滅の刃2期ということで、モンスト・パズドラまだまだ安泰かな</title>
-      <link>https://comboeng.github.io/game/posts/talk2/</link>
+      <link>https://comboeng.github.io/game/posts/review4/</link>
       <pubDate>Sun, 14 Feb 2021 22:12:49 +0900</pubDate>
       
-      <guid>https://comboeng.github.io/game/posts/talk2/</guid>
+      <guid>https://comboeng.github.io/game/posts/review4/</guid>
       <description>
         <p>鬼滅の刃2期が2021年に 鬼滅の刃2期の放送が決定しました。 【『鬼滅の刃』遊郭編 2021年 テレビアニメ化決定！】 次なる舞台は鬼の棲む“遊郭”...</p>
-        <p><a href="https://comboeng.github.io/game/posts/talk2/">Read More</a></p>
-      </description>
-    </item>
-    
-    <item>
-      <title>[Unity]注目アセット「Agora Video SDK for Unity」</title>
-      <link>https://comboeng.github.io/game/posts/asset7/</link>
-      <pubDate>Sun, 14 Feb 2021 20:03:16 +0900</pubDate>
-      
-      <guid>https://comboeng.github.io/game/posts/asset7/</guid>
-      <description>
-        <p>注目アセット 面白そうなアセットだったのでメモ Agora Video SDK for Unity プレイヤー同士で、低遅延でビデオやオーディオ通信を実現する。 最近、Clubhouse(...</p>
-        <p><a href="https://comboeng.github.io/game/posts/asset7/">Read More</a></p>
-      </description>
-    </item>
-    
-    <item>
-      <title>STEAM、旧正月セールやってるよ</title>
-      <link>https://comboeng.github.io/game/posts/steam1/</link>
-      <pubDate>Sat, 13 Feb 2021 13:47:37 +0900</pubDate>
-      
-      <guid>https://comboeng.github.io/game/posts/steam1/</guid>
-      <description>
-        <p>STEAMでセール中です STEAMで旧正月セール中です。 2021年2月15日10時（アメリカ太平洋時間）までとなってます。 STEAM 旧正月セール 狙っ...</p>
-        <p><a href="https://comboeng.github.io/game/posts/steam1/">Read More</a></p>
+        <p><a href="https://comboeng.github.io/game/posts/review4/">Read More</a></p>
       </description>
     </item>
     
