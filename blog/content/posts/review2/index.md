@@ -8,8 +8,8 @@ tags: ["クラロワ"]
 toc: true
 ---
 
-{{< img src="../crash1/1.png" width="50%" >}}  
-[クラッシュ ロワイヤル 今一番ハマっています]({{< ref "/posts/crash1/index.md" >}}) 
+{{< img src="../review1/1.png" width="50%" >}}  
+[クラッシュ ロワイヤル 今一番ハマっています]({{< ref "/posts/review1/index.md" >}}) 
 という記事をあげましたが。  
 やらなくなりました。  
   
