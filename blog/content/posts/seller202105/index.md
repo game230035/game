@@ -4,7 +4,7 @@ date: 2021-05-01T00:20:41+09:00
 draft: false
 thumbnail: "images/thumbnail_seller.png"
 categories: ["ランキング"]
-tags: ["ランキング"]
+tags: ["202105"]
 toc: true
 ---
 ## この記事について
@@ -24,7 +24,6 @@ https://store.steampowered.com/
 ゲームのプレイ状況は  
 スマホゲームの**モンスト**と**パズドラ**を引き続きと、ウマ娘を少しプレイするようになった。  
 PCゲームは**7 Days to Die**にかなりハマった。  
-感想については後述。  
   
 
 ## PCゲーム
