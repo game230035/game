@@ -5,8 +5,20 @@
     <description>Recent content in ゲーム制作 on ゲームを作ろうじゃないか</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 May 2021 20:07:46 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 06 Jun 2021 22:32:39 +0900</lastBuildDate>
     <atom:link href="" rel="self" type="application/rss+xml"/>
+    
+    <item>
+      <title>[アクションゲーム制作]経過報告No9</title>
+      <link>https://comboeng.github.io/game/posts/game11/</link>
+      <pubDate>Sun, 06 Jun 2021 22:32:39 +0900</pubDate>
+      
+      <guid>https://comboeng.github.io/game/posts/game11/</guid>
+      <description>
+        <p>制作ゲームの現状 アクションゲームを制作しています。 今回は、 ステージ2の制作 です。 内容は以下の動画にて ときどき、自キャラが動けない不具合がある...</p>
+        <p><a href="https://comboeng.github.io/game/posts/game11/">Read More</a></p>
+      </description>
+    </item>
     
     <item>
       <title>[アクションゲーム制作]経過報告No8</title>
