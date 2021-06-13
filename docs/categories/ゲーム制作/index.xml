@@ -5,8 +5,20 @@
     <description>Recent content in ゲーム制作 on ゲームを作ろうじゃないか</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 06 Jun 2021 22:32:39 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 13 Jun 2021 11:29:19 +0900</lastBuildDate>
     <atom:link href="" rel="self" type="application/rss+xml"/>
+    
+    <item>
+      <title>[アクションゲーム制作]経過報告No10</title>
+      <link>https://comboeng.github.io/game/posts/game12/</link>
+      <pubDate>Sun, 13 Jun 2021 11:29:19 +0900</pubDate>
+      
+      <guid>https://comboeng.github.io/game/posts/game12/</guid>
+      <description>
+        <p>制作ゲームの現状 アクションゲームを制作しています。 今回は、 カメラワークの修正 ハンドガンの武器の制作 です。 内容は以下の動画にて 前回でボスの出現...</p>
+        <p><a href="https://comboeng.github.io/game/posts/game12/">Read More</a></p>
+      </description>
+    </item>
     
     <item>
       <title>[アクションゲーム制作]経過報告No9</title>
