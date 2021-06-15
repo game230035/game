@@ -7,7 +7,7 @@ else
 	cd /Users/comboengineering/work/blog/game/blog
 	hugo new posts/$1/index.md
 	echo OK
-	open /Users/comboengineering/work/blog/game/blog/content/posts/$1/index.md
+	open /Users/comboengineering/work/vscode_shortcut/gameblog.code-workspace
 	hugo server
 fi
 

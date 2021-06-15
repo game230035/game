@@ -5,8 +5,20 @@
     <description>Recent content in Posts on ゲームを作ろうじゃないか</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 13 Jun 2021 11:29:19 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 15 Jun 2021 08:15:06 +0900</lastBuildDate>
     <atom:link href="" rel="self" type="application/rss+xml"/>
+    
+    <item>
+      <title>[Xbox]ゲームパスについて</title>
+      <link>https://comboeng.github.io/game/posts/review7/</link>
+      <pubDate>Tue, 15 Jun 2021 08:15:06 +0900</pubDate>
+      
+      <guid>https://comboeng.github.io/game/posts/review7/</guid>
+      <description>
+        <p>この記事について 2021年6月15日現在 海外でE3という最大規模なゲームカンファレンスが行われている。 そこでXboxのゲームパスが盛り上がっ...</p>
+        <p><a href="https://comboeng.github.io/game/posts/review7/">Read More</a></p>
+      </description>
+    </item>
     
     <item>
       <title>[アクションゲーム制作]経過報告No10</title>
@@ -233,18 +245,6 @@
       <description>
         <p>制作ゲームの現状 現在はDARKSOULSのバトルの部分を参考にしながら制作しています。 今回は、前回の自キャラ、敵キャラのアクションの考察反映...</p>
         <p><a href="https://comboeng.github.io/game/posts/game4/">Read More</a></p>
-      </description>
-    </item>
-    
-    <item>
-      <title>[アクションゲーム制作]経過報告No2</title>
-      <link>https://comboeng.github.io/game/posts/game3/</link>
-      <pubDate>Sat, 03 Apr 2021 00:46:19 +0900</pubDate>
-      
-      <guid>https://comboeng.github.io/game/posts/game3/</guid>
-      <description>
-        <p>制作ゲームの現状 現在はDARKSOULSのバトルの部分を参考にしながら制作しています。 今回は、前回のゲームの見た目についての反映結果と、 自キ...</p>
-        <p><a href="https://comboeng.github.io/game/posts/game3/">Read More</a></p>
       </description>
     </item>
     

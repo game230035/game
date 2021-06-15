@@ -5,8 +5,20 @@
     <description>Recent content in Tags on ゲームを作ろうじゃないか</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 13 Jun 2021 11:29:19 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 15 Jun 2021 08:15:06 +0900</lastBuildDate>
     <atom:link href="" rel="self" type="application/rss+xml"/>
+    
+    <item>
+      <title>Xbox</title>
+      <link>https://comboeng.github.io/game/tags/xbox/</link>
+      <pubDate>Tue, 15 Jun 2021 08:15:06 +0900</pubDate>
+      
+      <guid>https://comboeng.github.io/game/tags/xbox/</guid>
+      <description>
+        <p>...</p>
+        <p><a href="https://comboeng.github.io/game/tags/xbox/">Read More</a></p>
+      </description>
+    </item>
     
     <item>
       <title>アクションゲーム</title>
@@ -233,18 +245,6 @@
       <description>
         <p>...</p>
         <p><a href="https://comboeng.github.io/game/tags/ignore%E8%A8%AD%E5%AE%9A/">Read More</a></p>
-      </description>
-    </item>
-    
-    <item>
-      <title>NavMesh</title>
-      <link>https://comboeng.github.io/game/tags/navmesh/</link>
-      <pubDate>Sun, 20 Dec 2020 21:36:24 +0900</pubDate>
-      
-      <guid>https://comboeng.github.io/game/tags/navmesh/</guid>
-      <description>
-        <p>...</p>
-        <p><a href="https://comboeng.github.io/game/tags/navmesh/">Read More</a></p>
       </description>
     </item>
     
