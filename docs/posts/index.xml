@@ -5,8 +5,20 @@
     <description>Recent content in Posts on ゲームを作ろうじゃないか</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 20 Jun 2021 12:33:23 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 26 Jun 2021 16:25:43 +0900</lastBuildDate>
     <atom:link href="" rel="self" type="application/rss+xml"/>
+    
+    <item>
+      <title>[原神]人気ということで序盤を遊んでみた</title>
+      <link>https://comboeng.github.io/game/posts/review8/</link>
+      <pubDate>Sat, 26 Jun 2021 16:25:43 +0900</pubDate>
+      
+      <guid>https://comboeng.github.io/game/posts/review8/</guid>
+      <description>
+        <p>この記事について リリース以降人気がある「原神」というPC/スマホゲームのPC版をプレイしてみましたので そのレビューとなります。 原神について 公...</p>
+        <p><a href="https://comboeng.github.io/game/posts/review8/">Read More</a></p>
+      </description>
+    </item>
     
     <item>
       <title>[アクションゲーム制作]経過報告No11</title>
@@ -233,18 +245,6 @@
       <description>
         <p>制作ゲームの現状 アクションゲームを制作しています。 今回は、 チュートリアルのシーンを変更する。 村とかの拠点にする。そこでチュートリアルとか、ボ...</p>
         <p><a href="https://comboeng.github.io/game/posts/game5/">Read More</a></p>
-      </description>
-    </item>
-    
-    <item>
-      <title>Unity アセット　SPRINGセールやるみたいですよ！</title>
-      <link>https://comboeng.github.io/game/posts/asset8/</link>
-      <pubDate>Thu, 08 Apr 2021 09:11:22 +0900</pubDate>
-      
-      <guid>https://comboeng.github.io/game/posts/asset8/</guid>
-      <description>
-        <p>SPRINGセールやるみたいです SPRINGセール が以下の機関で実施されるようです。 4月12日 16:00 - 5月1日 16:59までですよ。 日替わりで1...</p>
-        <p><a href="https://comboeng.github.io/game/posts/asset8/">Read More</a></p>
       </description>
     </item>
     
