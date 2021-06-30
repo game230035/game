@@ -35,7 +35,7 @@
     <header class="l-header">
       <div class="l-container">
         <div class="logo">
-          <a href="{{ .Site.BaseURL }}"><img src="images/title.png" alt="title"></a>
+          <a href="{{ .Site.BaseURL }}"><img src="{{ $.Site.BaseURL }}images/title.png" alt="title"></a>
         </div>
         {{ partial "description.html" . }}
       </div>
