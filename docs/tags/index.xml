@@ -5,8 +5,20 @@
     <description>Recent content in Tags on ゲームを作ろうじゃないか</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 27 Jun 2021 14:55:43 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 30 Jun 2021 10:38:07 +0900</lastBuildDate>
     <atom:link href="" rel="self" type="application/rss+xml"/>
+    
+    <item>
+      <title>セール</title>
+      <link>https://comboeng.github.io/game/tags/%E3%82%BB%E3%83%BC%E3%83%AB/</link>
+      <pubDate>Wed, 30 Jun 2021 10:38:07 +0900</pubDate>
+      
+      <guid>https://comboeng.github.io/game/tags/%E3%82%BB%E3%83%BC%E3%83%AB/</guid>
+      <description>
+        <p>...</p>
+        <p><a href="https://comboeng.github.io/game/tags/%E3%82%BB%E3%83%BC%E3%83%AB/">Read More</a></p>
+      </description>
+    </item>
     
     <item>
       <title>アクションゲーム</title>
@@ -185,18 +197,6 @@
       <description>
         <p>...</p>
         <p><a href="https://comboeng.github.io/game/tags/agora-video-sdk/">Read More</a></p>
-      </description>
-    </item>
-    
-    <item>
-      <title>セール</title>
-      <link>https://comboeng.github.io/game/tags/%E3%82%BB%E3%83%BC%E3%83%AB/</link>
-      <pubDate>Sat, 13 Feb 2021 13:47:37 +0900</pubDate>
-      
-      <guid>https://comboeng.github.io/game/tags/%E3%82%BB%E3%83%BC%E3%83%AB/</guid>
-      <description>
-        <p>...</p>
-        <p><a href="https://comboeng.github.io/game/tags/%E3%82%BB%E3%83%BC%E3%83%AB/">Read More</a></p>
       </description>
     </item>
     

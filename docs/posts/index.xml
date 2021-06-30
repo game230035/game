@@ -5,8 +5,20 @@
     <description>Recent content in Posts on ゲームを作ろうじゃないか</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 27 Jun 2021 14:55:43 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 30 Jun 2021 10:38:07 +0900</lastBuildDate>
     <atom:link href="" rel="self" type="application/rss+xml"/>
+    
+    <item>
+      <title>STEAM 2021サマーセールやってるよ！</title>
+      <link>https://comboeng.github.io/game/posts/steam2/</link>
+      <pubDate>Wed, 30 Jun 2021 10:38:07 +0900</pubDate>
+      
+      <guid>https://comboeng.github.io/game/posts/steam2/</guid>
+      <description>
+        <p>STEAMでセール中です サマーセールやってます。 2021年7月9日2時までですかね。。 STEAM サマーセール これ買っちゃいました Titanfall®...</p>
+        <p><a href="https://comboeng.github.io/game/posts/steam2/">Read More</a></p>
+      </description>
+    </item>
     
     <item>
       <title>[アクションゲーム制作]経過報告No12</title>
@@ -233,18 +245,6 @@
       <description>
         <p>制作ゲームの現状 アクションゲームを制作しています。 今回は、 ステージ選択時はキャラが動かないようにする 新ステージを追加する の対応と、 今後につい...</p>
         <p><a href="https://comboeng.github.io/game/posts/game7/">Read More</a></p>
-      </description>
-    </item>
-    
-    <item>
-      <title>[アクションゲーム制作]経過報告No5</title>
-      <link>https://comboeng.github.io/game/posts/game6/</link>
-      <pubDate>Mon, 19 Apr 2021 01:34:05 +0900</pubDate>
-      
-      <guid>https://comboeng.github.io/game/posts/game6/</guid>
-      <description>
-        <p>制作ゲームの現状 アクションゲームを制作しています。 今回は、 村人追加、会話もできるようにする の対応と、 今後について話しています。 内容は以下の動...</p>
-        <p><a href="https://comboeng.github.io/game/posts/game6/">Read More</a></p>
       </description>
     </item>
     

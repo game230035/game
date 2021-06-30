@@ -5,8 +5,20 @@
     <description>Recent content in Categories on ゲームを作ろうじゃないか</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 27 Jun 2021 14:55:43 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 30 Jun 2021 10:38:07 +0900</lastBuildDate>
     <atom:link href="" rel="self" type="application/rss+xml"/>
+    
+    <item>
+      <title>STEAM</title>
+      <link>https://comboeng.github.io/game/categories/steam/</link>
+      <pubDate>Wed, 30 Jun 2021 10:38:07 +0900</pubDate>
+      
+      <guid>https://comboeng.github.io/game/categories/steam/</guid>
+      <description>
+        <p>...</p>
+        <p><a href="https://comboeng.github.io/game/categories/steam/">Read More</a></p>
+      </description>
+    </item>
     
     <item>
       <title>ゲーム制作</title>
@@ -89,18 +101,6 @@
       <description>
         <p>...</p>
         <p><a href="https://comboeng.github.io/game/categories/%E8%87%AA%E4%BD%9C%E3%82%B2%E3%83%BC%E3%83%A0/">Read More</a></p>
-      </description>
-    </item>
-    
-    <item>
-      <title>STEAM</title>
-      <link>https://comboeng.github.io/game/categories/steam/</link>
-      <pubDate>Sat, 13 Feb 2021 13:47:37 +0900</pubDate>
-      
-      <guid>https://comboeng.github.io/game/categories/steam/</guid>
-      <description>
-        <p>...</p>
-        <p><a href="https://comboeng.github.io/game/categories/steam/">Read More</a></p>
       </description>
     </item>
     
