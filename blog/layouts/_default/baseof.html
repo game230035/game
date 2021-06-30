@@ -35,32 +35,13 @@
     <header class="l-header">
       <div class="l-container">
         <div class="logo">
-          <a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>
+          <a href="{{ .Site.BaseURL }}"><img src="images/title.png" alt="title"></a>
         </div>
         {{ partial "description.html" . }}
       </div>
     </header>
 
     <main>
-
-
-    <!-- gallery
-    <div class="gallery">
-        <ul class="gallery_ul">
-          {{ range first 3 (where $.Site.Pages.Reverse ".Params.pickup" "true" ) }}
-          <li>
-            <article class="gallery_ul_artle">
-              <a href="{{ .Permalink }}">
-                <div class=" thumb thumb-{{ with .File }}{{ .UniqueID }}{{ end }}"></div>
-              </a>
-            </article>
-          </li>
-          {{ end }}
-        </ul>
-    </div>
-    /gallery -->
-
-
       <div class="l-container">
       {{ with .OutputFormats.Get "AMP" }}
       {{ end }}

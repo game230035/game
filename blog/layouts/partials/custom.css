@@ -452,3 +452,8 @@ section.sidebar > header {
 	font-weight: normal;
 	margin: .5rem 0;
   }
+
+
+.logo img {
+	margin : 0 auto
+}

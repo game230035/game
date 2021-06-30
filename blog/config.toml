@@ -1,6 +1,6 @@
 baseURL = "https://comboeng.github.io/game/"
 languageCode = "en-us"
-title = "ゲームを作ろうじゃないか"
+title = "Game Zyan"
 theme = "hugo_theme_robust"
 hasCJKLanguage = true
 googleAnalytics = "G-BF00B4RKZV"
