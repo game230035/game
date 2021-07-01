@@ -2,9 +2,9 @@
 title: "大人なモンスト"
 date: 2021-06-30T16:15:38+09:00
 draft: false
-thumbnail: "images/thumbnail_anime.png"
+thumbnail: "images/thumbnail_monst.png"
 categories: ["モンスト"]
-tags: [""]
+tags: ["大人なモンスト"]
 toc: true
 ---
 
