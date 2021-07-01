@@ -5,8 +5,20 @@
     <description>Recent content in Posts on Game View</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Jul 2021 08:37:34 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 01 Jul 2021 10:28:57 +0900</lastBuildDate>
     <atom:link href="" rel="self" type="application/rss+xml"/>
+    
+    <item>
+      <title>[モンスト]積立ガチャを回してみた</title>
+      <link>https://comboeng.github.io/game/posts/review9/</link>
+      <pubDate>Thu, 01 Jul 2021 10:28:57 +0900</pubDate>
+      
+      <guid>https://comboeng.github.io/game/posts/review9/</guid>
+      <description>
+        <p>積立ガチャを回してみた 1日1回クエストをクリアするとガチャを1回積み立てられるというもの。 モンスト日にクリアすると10回分が積み立てられる。...</p>
+        <p><a href="https://comboeng.github.io/game/posts/review9/">Read More</a></p>
+      </description>
+    </item>
     
     <item>
       <title>[ランキング]2021年7月初日 PCゲーム/スマホアプリの売上ランキング</title>
@@ -233,18 +245,6 @@
       <description>
         <p>## 目的 UnityでBuild and Run時にのみエラーとなる現象の対応メモ 対応策 エラーとなるファイルについて、 using UnityEditor;を利用し...</p>
         <p><a href="https://comboeng.github.io/game/posts/howto15/">Read More</a></p>
-      </description>
-    </item>
-    
-    <item>
-      <title>[アクションゲーム制作]経過報告No7</title>
-      <link>https://comboeng.github.io/game/posts/game8/</link>
-      <pubDate>Thu, 22 Apr 2021 23:46:33 +0900</pubDate>
-      
-      <guid>https://comboeng.github.io/game/posts/game8/</guid>
-      <description>
-        <p>制作ゲームの現状 アクションゲームを制作しています。 今回は、 草を交換した数を保存してキャラクターランキング化したい の対応と、 今後について話して...</p>
-        <p><a href="https://comboeng.github.io/game/posts/game8/">Read More</a></p>
       </description>
     </item>
     
