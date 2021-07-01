@@ -1,7 +1,7 @@
 #!/bin/sh
  
-if [ $# != 1 ]; then
-	echo タイトルを引数にしてください: 
+if [ $# != 2 ]; then
+	echo 引数2つ設定してください: 
 	exit 1
 else
 	cd /Users/comboengineering/work/blog/game/blog

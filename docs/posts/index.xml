@@ -5,8 +5,20 @@
     <description>Recent content in Posts on Game View</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 30 Jun 2021 10:38:07 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 01 Jul 2021 08:37:34 +0900</lastBuildDate>
     <atom:link href="" rel="self" type="application/rss+xml"/>
+    
+    <item>
+      <title>[ランキング]2021年7月初日 PCゲーム/スマホアプリの売上ランキング</title>
+      <link>https://comboeng.github.io/game/posts/seller202107/</link>
+      <pubDate>Thu, 01 Jul 2021 08:37:34 +0900</pubDate>
+      
+      <guid>https://comboeng.github.io/game/posts/seller202107/</guid>
+      <description>
+        <p>この記事について 2021年7月初め（6月末日時点）のPCゲーム/スマホアプリの売上調査と 自分のスマホ・PCゲームプレイ事情のメモ この記事につ...</p>
+        <p><a href="https://comboeng.github.io/game/posts/seller202107/">Read More</a></p>
+      </description>
+    </item>
     
     <item>
       <title>STEAM 2021サマーセールやってるよ！</title>
@@ -233,18 +245,6 @@
       <description>
         <p>制作ゲームの現状 アクションゲームを制作しています。 今回は、 草を交換した数を保存してキャラクターランキング化したい の対応と、 今後について話して...</p>
         <p><a href="https://comboeng.github.io/game/posts/game8/">Read More</a></p>
-      </description>
-    </item>
-    
-    <item>
-      <title>[アクションゲーム制作]経過報告No6</title>
-      <link>https://comboeng.github.io/game/posts/game7/</link>
-      <pubDate>Wed, 21 Apr 2021 17:17:54 +0900</pubDate>
-      
-      <guid>https://comboeng.github.io/game/posts/game7/</guid>
-      <description>
-        <p>制作ゲームの現状 アクションゲームを制作しています。 今回は、 ステージ選択時はキャラが動かないようにする 新ステージを追加する の対応と、 今後につい...</p>
-        <p><a href="https://comboeng.github.io/game/posts/game7/">Read More</a></p>
       </description>
     </item>
     
