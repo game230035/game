@@ -1,0 +1,9 @@
+<figure style="text-align: center">
+    {{ if .Get "href" }}
+    <a href="{{ .Get "href" }}" target="_blank">
+      <img src="{{ .Get "src" }}" width="{{ .Get "width" }}" height="{{ .Get "width" }}" >
+    </a>
+    {{ else }}
+    <img src="{{ .Get "src" }}" width="{{ .Get "width" }}" height="{{ .Get "width" }}" >
+    {{ end }}
+</figure>

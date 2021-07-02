@@ -1,0 +1,9 @@
+<figure style="text-align: center">
+    <img src="{{ .Get "src" }}" width="{{ .Get "width" }}" height="{{ .Get "width" }}" >
+    {{ if .Get "src2" }}
+      <img src="{{ .Get "src2" }}" width="{{ .Get "width" }}" height="{{ .Get "width" }}" >
+    {{ end }}
+    {{ if .Get "src3" }}
+      <img src="{{ .Get "src3" }}" width="{{ .Get "width" }}" height="{{ .Get "width" }}" >
+    {{ end }}
+</figure>
