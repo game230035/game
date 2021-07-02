@@ -1,0 +1,24 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>WebGL on Game View</title>
+    <link>https://comboeng.github.io/game/tags/webgl/</link>
+    <description>Recent content in WebGL on Game View</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 26 Nov 2020 09:05:44 +0900</lastBuildDate>
+    <atom:link href="" rel="self" type="application/rss+xml"/>
+    
+    <item>
+      <title>MacOS BigSurだとブラウザ上でWebGLの実行ができない件</title>
+      <link>https://comboeng.github.io/game/posts/howto8/</link>
+      <pubDate>Thu, 26 Nov 2020 09:05:44 +0900</pubDate>
+      
+      <guid>https://comboeng.github.io/game/posts/howto8/</guid>
+      <description>
+        <p>この記事について MacOSをBigSurにアップデートしたところ、 ブラウザ上でのWebGLが表示されなくなった。 自分のアプリだけでなく、他の...</p>
+        <p><a href="https://comboeng.github.io/game/posts/howto8/">Read More</a></p>
+      </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FirebaseRealtime on Game View</title>
+    <link>https://comboeng.github.io/game/tags/firebaserealtime/</link>
+    <description>Recent content in FirebaseRealtime on Game View</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 24 Nov 2020 11:04:11 +0900</lastBuildDate>
+    <atom:link href="" rel="self" type="application/rss+xml"/>
+    
+    <item>
+      <title>アプリに FirebaseRealtime Database を追加する手順</title>
+      <link>https://comboeng.github.io/game/posts/howto7/</link>
+      <pubDate>Tue, 24 Nov 2020 11:04:11 +0900</pubDate>
+      
+      <guid>https://comboeng.github.io/game/posts/howto7/</guid>
+      <description>
+        <p>はじめに FirebaseRealtimeにて設定したデータベースを、UnityのC#プログラムで取得する方法です。 公式ドキュメント Googl...</p>
+        <p><a href="https://comboeng.github.io/game/posts/howto7/">Read More</a></p>
+      </description>
+    </item>
+    
+  </channel>
+</rss>

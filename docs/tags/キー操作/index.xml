@@ -1,0 +1,24 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>キー操作 on Game View</title>
+    <link>https://comboeng.github.io/game/tags/%E3%82%AD%E3%83%BC%E6%93%8D%E4%BD%9C/</link>
+    <description>Recent content in キー操作 on Game View</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 23 Nov 2020 22:46:21 +0900</lastBuildDate>
+    <atom:link href="" rel="self" type="application/rss+xml"/>
+    
+    <item>
+      <title>キャラクターにアニメーションを設定して、キー操作で動かす。</title>
+      <link>https://comboeng.github.io/game/posts/howto5/</link>
+      <pubDate>Mon, 23 Nov 2020 22:46:21 +0900</pubDate>
+      
+      <guid>https://comboeng.github.io/game/posts/howto5/</guid>
+      <description>
+        <p>目的 キャラクターに既存のアニメーションを追加設定して、「SPACE」キーをタップした時そのアニメーションを実行するようにする時の手順メモ ※ア...</p>
+        <p><a href="https://comboeng.github.io/game/posts/howto5/">Read More</a></p>
+      </description>
+    </item>
+    
+  </channel>
+</rss>

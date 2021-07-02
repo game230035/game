@@ -1,0 +1,36 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PUN2 on Game View</title>
+    <link>https://comboeng.github.io/game/tags/pun2/</link>
+    <description>Recent content in PUN2 on Game View</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 24 Apr 2021 16:55:47 +0900</lastBuildDate>
+    <atom:link href="" rel="self" type="application/rss+xml"/>
+    
+    <item>
+      <title>PUN 2を導入してみる</title>
+      <link>https://comboeng.github.io/game/posts/howto17/</link>
+      <pubDate>Sat, 24 Apr 2021 16:55:47 +0900</pubDate>
+      
+      <guid>https://comboeng.github.io/game/posts/howto17/</guid>
+      <description>
+        <p>目的 PUN 2(photon unity network 2)というネットワークで多人数と同期ゲームができる アセットの導入部分のメモ 参照サイト この記事内のことは、以下の公式サイトでやって...</p>
+        <p><a href="https://comboeng.github.io/game/posts/howto17/">Read More</a></p>
+      </description>
+    </item>
+    
+    <item>
+      <title>PUN2 入門ドキュメント</title>
+      <link>https://comboeng.github.io/game/posts/howto16/</link>
+      <pubDate>Sat, 24 Apr 2021 15:55:47 +0900</pubDate>
+      
+      <guid>https://comboeng.github.io/game/posts/howto16/</guid>
+      <description>
+        <p>この記事について PUN2の入門ドキュメント webサイトのまとめです。 公式サイトの大項目をまとめているだけです。 PUN2で始めるオンラインゲー...</p>
+        <p><a href="https://comboeng.github.io/game/posts/howto16/">Read More</a></p>
+      </description>
+    </item>
+    
+  </channel>
+</rss>

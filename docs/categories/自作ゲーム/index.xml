@@ -1,0 +1,24 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>自作ゲーム on Game View</title>
+    <link>https://comboeng.github.io/game/categories/%E8%87%AA%E4%BD%9C%E3%82%B2%E3%83%BC%E3%83%A0/</link>
+    <description>Recent content in 自作ゲーム on Game View</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 11 Mar 2021 16:15:38 +0900</lastBuildDate>
+    <atom:link href="" rel="self" type="application/rss+xml"/>
+    
+    <item>
+      <title>Revengers</title>
+      <link>https://comboeng.github.io/game/game/</link>
+      <pubDate>Thu, 11 Mar 2021 16:15:38 +0900</pubDate>
+      
+      <guid>https://comboeng.github.io/game/game/</guid>
+      <description>
+        <p>この世界では速さがカギ！ 一番はやく討伐するのは俺だ！ スピーディングハンティングアクションゲーム「Revengers」 β版リリース中 以下リンク...</p>
+        <p><a href="https://comboeng.github.io/game/game/">Read More</a></p>
+      </description>
+    </item>
+    
+  </channel>
+</rss>
