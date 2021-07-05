@@ -5,8 +5,20 @@
     <description>Recent content in Posts on Game View</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 04 Jul 2021 16:59:47 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 05 Jul 2021 21:18:54 +0900</lastBuildDate>
     <atom:link href="" rel="self" type="application/rss+xml"/>
+    
+    <item>
+      <title>[モンスト]モンストグランプ2021の優勝チームを</title>
+      <link>https://comboeng.github.io/game/posts/monst4/</link>
+      <pubDate>Mon, 05 Jul 2021 21:18:54 +0900</pubDate>
+      
+      <guid>https://comboeng.github.io/game/posts/monst4/</guid>
+      <description>
+        <p>この記事の目的 モンストグランプ2021の優勝チームを10分で検証・予想します。 まぁ、ぶっちゃけるとモンストは結構運が絡んでくると思います。 イ...</p>
+        <p><a href="https://comboeng.github.io/game/posts/monst4/">Read More</a></p>
+      </description>
+    </item>
     
     <item>
       <title>[アクションゲーム制作]経過報告No</title>
@@ -233,18 +245,6 @@
       <description>
         <p>制作ゲームの現状 アクションゲームを制作しています。 今回は、 WebGLでユーザ情報が保存できるのか確認 そもそもWebGLで読み込みが重い ゲーム...</p>
         <p><a href="https://comboeng.github.io/game/posts/game9/">Read More</a></p>
-      </description>
-    </item>
-    
-    <item>
-      <title>2021年5月初日のPCゲーム/スマホアプリの売上ランキング</title>
-      <link>https://comboeng.github.io/game/posts/seller202105/</link>
-      <pubDate>Sat, 01 May 2021 00:20:41 +0900</pubDate>
-      
-      <guid>https://comboeng.github.io/game/posts/seller202105/</guid>
-      <description>
-        <p>この記事について 2021年5月初め（4月末日時点）のPCゲーム/スマホアプリの売上調査と 自分のスマホ・PCゲームプレイ事情のメモ この記事につ...</p>
-        <p><a href="https://comboeng.github.io/game/posts/seller202105/">Read More</a></p>
       </description>
     </item>
     
