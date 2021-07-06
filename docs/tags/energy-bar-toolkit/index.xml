@@ -1,7 +1,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Energy Bar Toolkit on Game View</title>
-    <link>https://comboeng.github.io/game/tags/energy-bar-toolkit/</link>
+    <link>https://game230035.github.io/game/tags/energy-bar-toolkit/</link>
     <description>Recent content in Energy Bar Toolkit on Game View</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -10,13 +10,13 @@
     
     <item>
       <title>「Energy Bar Toolkit」アセットがエラーになりますね</title>
-      <link>https://comboeng.github.io/game/posts/asset3/</link>
+      <link>https://game230035.github.io/game/posts/asset3/</link>
       <pubDate>Sat, 14 Nov 2020 18:05:23 +0900</pubDate>
       
-      <guid>https://comboeng.github.io/game/posts/asset3/</guid>
+      <guid>https://game230035.github.io/game/posts/asset3/</guid>
       <description>
         <p>エラーについて 体力ゲージとかで使うアセット「Energy Bar Toolkit」 ですが、WebGL向けなどにビルドしようとすると、エラーになります...</p>
-        <p><a href="https://comboeng.github.io/game/posts/asset3/">Read More</a></p>
+        <p><a href="https://game230035.github.io/game/posts/asset3/">Read More</a></p>
       </description>
     </item>
     

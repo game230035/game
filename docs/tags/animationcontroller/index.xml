@@ -1,7 +1,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AnimationController on Game View</title>
-    <link>https://comboeng.github.io/game/tags/animationcontroller/</link>
+    <link>https://game230035.github.io/game/tags/animationcontroller/</link>
     <description>Recent content in AnimationController on Game View</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -10,25 +10,25 @@
     
     <item>
       <title>AnimationControllerを使ったコンボ攻撃理[リンク]</title>
-      <link>https://comboeng.github.io/game/posts/howto9/</link>
+      <link>https://game230035.github.io/game/posts/howto9/</link>
       <pubDate>Mon, 30 Nov 2020 23:06:24 +0900</pubDate>
       
-      <guid>https://comboeng.github.io/game/posts/howto9/</guid>
+      <guid>https://game230035.github.io/game/posts/howto9/</guid>
       <description>
         <p>この記事について AnimationControllerを使ったコンボ攻撃の実装方法をUnity Japanの方が動画にしてくださったのでそのリ...</p>
-        <p><a href="https://comboeng.github.io/game/posts/howto9/">Read More</a></p>
+        <p><a href="https://game230035.github.io/game/posts/howto9/">Read More</a></p>
       </description>
     </item>
     
     <item>
       <title>AnimationController整理[リンク]</title>
-      <link>https://comboeng.github.io/game/posts/howto4/</link>
+      <link>https://game230035.github.io/game/posts/howto4/</link>
       <pubDate>Tue, 17 Nov 2020 09:05:28 +0900</pubDate>
       
-      <guid>https://comboeng.github.io/game/posts/howto4/</guid>
+      <guid>https://game230035.github.io/game/posts/howto4/</guid>
       <description>
         <p>AnimationControllerの整理 以下のYouTube動画ですが、 AnimationControllerの整理だけでなく、アニメー...</p>
-        <p><a href="https://comboeng.github.io/game/posts/howto4/">Read More</a></p>
+        <p><a href="https://game230035.github.io/game/posts/howto4/">Read More</a></p>
       </description>
     </item>
     

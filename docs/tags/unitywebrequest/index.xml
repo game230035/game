@@ -1,7 +1,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>UnityWebRequest on Game View</title>
-    <link>https://comboeng.github.io/game/tags/unitywebrequest/</link>
+    <link>https://game230035.github.io/game/tags/unitywebrequest/</link>
     <description>Recent content in UnityWebRequest on Game View</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -10,13 +10,13 @@
     
     <item>
       <title>WebGLでゲームを出力するとUnityWebRequestでエラーになる</title>
-      <link>https://comboeng.github.io/game/posts/howto13/</link>
+      <link>https://game230035.github.io/game/posts/howto13/</link>
       <pubDate>Wed, 06 Jan 2021 22:34:49 +0900</pubDate>
       
-      <guid>https://comboeng.github.io/game/posts/howto13/</guid>
+      <guid>https://game230035.github.io/game/posts/howto13/</guid>
       <description>
         <p>エラー詳細 WebGLで出力したゲームについて、ゲーム中にUnityWebRequestなどで自サーバにアクセスすると、 UNKNOWNエラーに...</p>
-        <p><a href="https://comboeng.github.io/game/posts/howto13/">Read More</a></p>
+        <p><a href="https://game230035.github.io/game/posts/howto13/">Read More</a></p>
       </description>
     </item>
     

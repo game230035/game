@@ -1,7 +1,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>WegGL on Game View</title>
-    <link>https://comboeng.github.io/game/tags/weggl/</link>
+    <link>https://game230035.github.io/game/tags/weggl/</link>
     <description>Recent content in WegGL on Game View</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -10,13 +10,13 @@
     
     <item>
       <title>WebGLでページ表示時にuncaught syntaxerror unexpected identifierエラーが表示される</title>
-      <link>https://comboeng.github.io/game/posts/howto14/</link>
+      <link>https://game230035.github.io/game/posts/howto14/</link>
       <pubDate>Sun, 21 Mar 2021 21:25:21 +0900</pubDate>
       
-      <guid>https://comboeng.github.io/game/posts/howto14/</guid>
+      <guid>https://game230035.github.io/game/posts/howto14/</guid>
       <description>
         <p>エラー詳細 WebGLのページを表示しようとしたとき uncaught syntaxerror unexpected identifier と表示され、ゲームのロードがストップし、ゲームをプレイすることができない現象があり...</p>
-        <p><a href="https://comboeng.github.io/game/posts/howto14/">Read More</a></p>
+        <p><a href="https://game230035.github.io/game/posts/howto14/">Read More</a></p>
       </description>
     </item>
     

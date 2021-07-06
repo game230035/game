@@ -1,7 +1,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>NavMesh on Game View</title>
-    <link>https://comboeng.github.io/game/tags/navmesh/</link>
+    <link>https://game230035.github.io/game/tags/navmesh/</link>
     <description>Recent content in NavMesh on Game View</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -10,13 +10,13 @@
     
     <item>
       <title>NavMeshについて</title>
-      <link>https://comboeng.github.io/game/posts/howto11/</link>
+      <link>https://game230035.github.io/game/posts/howto11/</link>
       <pubDate>Sun, 20 Dec 2020 21:36:24 +0900</pubDate>
       
-      <guid>https://comboeng.github.io/game/posts/howto11/</guid>
+      <guid>https://game230035.github.io/game/posts/howto11/</guid>
       <description>
         <p>NavMeshについて 設定手順とか 歩く部分をNavigation Staticにする。 Navigation StaticはInspectorInspectorのS...</p>
-        <p><a href="https://comboeng.github.io/game/posts/howto11/">Read More</a></p>
+        <p><a href="https://game230035.github.io/game/posts/howto11/">Read More</a></p>
       </description>
     </item>
     
