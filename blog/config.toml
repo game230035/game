@@ -1,4 +1,4 @@
-baseURL = "https://comboeng.github.io/game/"
+baseURL = "https://game230035.github.io/game/"
 languageCode = "en-us"
 title = "Game View"
 theme = "hugo_theme_robust"
