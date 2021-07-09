@@ -10,13 +10,13 @@
     
     <item>
       <title>アプリに FirebaseRealtime Database を追加する手順</title>
-      <link>https://game230035.github.io/game/posts/howto7/</link>
+      <link>https://game230035.github.io/game/posts/howto/howto7/</link>
       <pubDate>Tue, 24 Nov 2020 11:04:11 +0900</pubDate>
       
-      <guid>https://game230035.github.io/game/posts/howto7/</guid>
+      <guid>https://game230035.github.io/game/posts/howto/howto7/</guid>
       <description>
         <p>はじめに FirebaseRealtimeにて設定したデータベースを、UnityのC#プログラムで取得する方法です。 公式ドキュメント Googl...</p>
-        <p><a href="https://game230035.github.io/game/posts/howto7/">Read More</a></p>
+        <p><a href="https://game230035.github.io/game/posts/howto/howto7/">Read More</a></p>
       </description>
     </item>
     

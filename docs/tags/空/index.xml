@@ -10,13 +10,13 @@
     
     <item>
       <title>空の設定</title>
-      <link>https://game230035.github.io/game/posts/howto10/</link>
+      <link>https://game230035.github.io/game/posts/howto/howto10/</link>
       <pubDate>Fri, 18 Dec 2020 21:50:51 +0900</pubDate>
       
-      <guid>https://game230035.github.io/game/posts/howto10/</guid>
+      <guid>https://game230035.github.io/game/posts/howto/howto10/</guid>
       <description>
         <p>空の設定方法 Window -&gt; Rendering -&gt; Light Settings Skybox Materialを修正 これだけなのに忘れる。 というか、Light Settingの表示がUnityのバージョンごとに...</p>
-        <p><a href="https://game230035.github.io/game/posts/howto10/">Read More</a></p>
+        <p><a href="https://game230035.github.io/game/posts/howto/howto10/">Read More</a></p>
       </description>
     </item>
     

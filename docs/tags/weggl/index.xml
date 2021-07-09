@@ -10,13 +10,13 @@
     
     <item>
       <title>WebGLでページ表示時にuncaught syntaxerror unexpected identifierエラーが表示される</title>
-      <link>https://game230035.github.io/game/posts/howto14/</link>
+      <link>https://game230035.github.io/game/posts/howto/howto14/</link>
       <pubDate>Sun, 21 Mar 2021 21:25:21 +0900</pubDate>
       
-      <guid>https://game230035.github.io/game/posts/howto14/</guid>
+      <guid>https://game230035.github.io/game/posts/howto/howto14/</guid>
       <description>
         <p>エラー詳細 WebGLのページを表示しようとしたとき uncaught syntaxerror unexpected identifier と表示され、ゲームのロードがストップし、ゲームをプレイすることができない現象があり...</p>
-        <p><a href="https://game230035.github.io/game/posts/howto14/">Read More</a></p>
+        <p><a href="https://game230035.github.io/game/posts/howto/howto14/">Read More</a></p>
       </description>
     </item>
     

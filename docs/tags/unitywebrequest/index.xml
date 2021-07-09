@@ -10,13 +10,13 @@
     
     <item>
       <title>WebGLでゲームを出力するとUnityWebRequestでエラーになる</title>
-      <link>https://game230035.github.io/game/posts/howto13/</link>
+      <link>https://game230035.github.io/game/posts/howto/howto13/</link>
       <pubDate>Wed, 06 Jan 2021 22:34:49 +0900</pubDate>
       
-      <guid>https://game230035.github.io/game/posts/howto13/</guid>
+      <guid>https://game230035.github.io/game/posts/howto/howto13/</guid>
       <description>
         <p>エラー詳細 WebGLで出力したゲームについて、ゲーム中にUnityWebRequestなどで自サーバにアクセスすると、 UNKNOWNエラーに...</p>
-        <p><a href="https://game230035.github.io/game/posts/howto13/">Read More</a></p>
+        <p><a href="https://game230035.github.io/game/posts/howto/howto13/">Read More</a></p>
       </description>
     </item>
     
