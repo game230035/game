@@ -5,8 +5,20 @@
     <description>Recent content in Posts on Game View</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Jul 2021 08:45:34 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 11 Jul 2021 21:34:08 +0900</lastBuildDate>
     <atom:link href="" rel="self" type="application/rss+xml"/>
+    
+    <item>
+      <title>[アクションゲーム制作]経過報告No14</title>
+      <link>https://game230035.github.io/game/posts/game/game16/</link>
+      <pubDate>Sun, 11 Jul 2021 21:34:08 +0900</pubDate>
+      
+      <guid>https://game230035.github.io/game/posts/game/game16/</guid>
+      <description>
+        <p>制作ゲームの現状 アクションゲームを制作しています。 今回は、ほぼイチから作り直ししていました。 動画も作りませんでした。 うーん。面白いってなんで...</p>
+        <p><a href="https://game230035.github.io/game/posts/game/game16/">Read More</a></p>
+      </description>
+    </item>
     
     <item>
       <title>[TITANFALL 2]キャンペーンをクリアした</title>
@@ -57,7 +69,7 @@
     </item>
     
     <item>
-      <title>[アクションゲーム制作]経過報告No</title>
+      <title>[アクションゲーム制作]経過報告No13</title>
       <link>https://game230035.github.io/game/posts/game/game15/</link>
       <pubDate>Sun, 04 Jul 2021 16:59:47 +0900</pubDate>
       
@@ -233,18 +245,6 @@
       <description>
         <p>Unreal Engine 5 Early accessがリリースされた Unreal Engine くー触ってみたい。 ただもう触らないだろうな。。 Unityにコストかけ過ぎちゃって。今までの時間がもっ...</p>
         <p><a href="https://game230035.github.io/game/posts/review/review6/">Read More</a></p>
-      </description>
-    </item>
-    
-    <item>
-      <title>[モンスト]呪術廻戦コラボを自分観点で振り返ってみた</title>
-      <link>https://game230035.github.io/game/posts/game/game10/</link>
-      <pubDate>Tue, 18 May 2021 09:28:33 +0900</pubDate>
-      
-      <guid>https://game230035.github.io/game/posts/game/game10/</guid>
-      <description>
-        <p>この記事について 立て続けのモンスト記事となるが、 モンストにて、5/17で呪術廻戦コラボが終了となった。 自分は呪術廻戦好きなので、内容等を振り...</p>
-        <p><a href="https://game230035.github.io/game/posts/game/game10/">Read More</a></p>
       </description>
     </item>
     

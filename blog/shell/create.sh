@@ -5,11 +5,7 @@ if [ $# != 2 ]; then
 	exit 1
 else
 	cd /Users/comboengineering/work/blog/game/blog
-    if [$2 == 'monst']; then
-        hugo new posts/$2/$1/index.md -k $2
-    else
-        hugo new posts/$1/index.md -k $2
-    fi
+    hugo new posts/$2/$1/index.md -k $2
 	echo OK
     
 	open /Users/comboengineering/work/vscode_shortcut/gameblog.code-workspace

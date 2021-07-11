@@ -1,5 +1,5 @@
 ---
-title: "[アクションゲーム制作]経過報告No"
+title: "[アクションゲーム制作]経過報告No13"
 date: 2021-07-04T16:59:47+09:00
 draft: false
 thumbnail: "images/thumbnail_actiongame.png"
