@@ -31,4 +31,25 @@ Destiny Burst LIVE!!ガチャ(2012/7/10~7/12)を引くかどうか考察
 **自分は引かないかなぁと。**  
   
 スピードアップ持ちなのですぐに廃れたりはしないと思う。  
-  
+
+#### 2021/07/12追記
+引かない！と思ってたのだけど。フラパでカマエルの獣神化が発表されて、かなり強うそうで。  
+カマエル未所持ということで色々狙いで20連引いてみた。  
+コロコロ変わってスミマセン。  
+狙いは
+- カマエル
+- 背徳ピストルズ
+- 終末運命共同隊
+- ハーレーX
+- 数珠丸
+- 鬼丸
+とかなり多い。  
+
+↓引いた動画。  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vnT0FN9mXTU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+で、大敗北。  
+**ふざけるなぁ〜〜〜**
+すげー悔しいけど、追わない。  
+オーブ数291=>191  
+
