@@ -4,7 +4,7 @@ date: 2021-07-09T09:20:54+09:00
 draft: false
 thumbnail: "images/thumbnail_monst.png"
 categories: ["モンスト"]
-tags: ["ガチャ"]
+tags: ["フラパ"]
 toc: true
 ---
 

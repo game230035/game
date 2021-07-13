@@ -1,0 +1,36 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>フラパ on Game View</title>
+    <link>https://game230035.github.io/game/tags/%E3%83%95%E3%83%A9%E3%83%91/</link>
+    <description>Recent content in フラパ on Game View</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 13 Jul 2021 07:15:20 +0900</lastBuildDate>
+    <atom:link href="" rel="self" type="application/rss+xml"/>
+    
+    <item>
+      <title>[モンスト]2021年7月フラパ・振り返り</title>
+      <link>https://game230035.github.io/game/posts/monst/monst7/</link>
+      <pubDate>Tue, 13 Jul 2021 07:15:20 +0900</pubDate>
+      
+      <guid>https://game230035.github.io/game/posts/monst/monst7/</guid>
+      <description>
+        <p>この記事の目的 モンストについて、今年はフラパが7月10日~11日にオンライン上で実施されました。 XFLAG PARK その中で発表されるアプリのアップデート内...</p>
+        <p><a href="https://game230035.github.io/game/posts/monst/monst7/">Read More</a></p>
+      </description>
+    </item>
+    
+    <item>
+      <title>[モンスト]2021年7月フラパ予想</title>
+      <link>https://game230035.github.io/game/posts/monst/monst5/</link>
+      <pubDate>Fri, 09 Jul 2021 09:20:54 +0900</pubDate>
+      
+      <guid>https://game230035.github.io/game/posts/monst/monst5/</guid>
+      <description>
+        <p>この記事の目的 毎年恒例となっているXFLAG PARK（フラパ）が2021年も実施されます。 今年は7月10日~11日にオンライン上で実施。 XFLAG PARK...</p>
+        <p><a href="https://game230035.github.io/game/posts/monst/monst5/">Read More</a></p>
+      </description>
+    </item>
+    
+  </channel>
+</rss>
