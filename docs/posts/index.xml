@@ -5,8 +5,20 @@
     <description>Recent content in Posts on Game View</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 Jul 2021 17:05:30 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 18 Jul 2021 11:32:47 +0900</lastBuildDate>
     <atom:link href="" rel="self" type="application/rss+xml"/>
+    
+    <item>
+      <title>[アクションゲーム制作]経過報告No15</title>
+      <link>https://game230035.github.io/game/posts/game/game17/</link>
+      <pubDate>Sun, 18 Jul 2021 11:32:47 +0900</pubDate>
+      
+      <guid>https://game230035.github.io/game/posts/game/game17/</guid>
+      <description>
+        <p>制作ゲームの現状 アクションゲームを制作しています。 今回も、 面白いってなんだろうと思いつつ、 頭の中にあるものをゲームに落とし込んでました。 そろ...</p>
+        <p><a href="https://game230035.github.io/game/posts/game/game17/">Read More</a></p>
+      </description>
+    </item>
     
     <item>
       <title>[モンスト]「ダイの大冒険」コラボガチャ(2021/7/15~8/2)</title>
@@ -233,18 +245,6 @@
       <description>
         <p>制作ゲームの現状 アクションゲームを制作しています。 今回は、 カメラワークの修正 ハンドガンの武器の制作 です。 内容は以下の動画にて 前回でボスの出現...</p>
         <p><a href="https://game230035.github.io/game/posts/game/game12/">Read More</a></p>
-      </description>
-    </item>
-    
-    <item>
-      <title>[アクションゲーム制作]経過報告No9</title>
-      <link>https://game230035.github.io/game/posts/game/game11/</link>
-      <pubDate>Sun, 06 Jun 2021 22:32:39 +0900</pubDate>
-      
-      <guid>https://game230035.github.io/game/posts/game/game11/</guid>
-      <description>
-        <p>制作ゲームの現状 アクションゲームを制作しています。 今回は、 ステージ2の制作 です。 内容は以下の動画にて ときどき、自キャラが動けない不具合がある...</p>
-        <p><a href="https://game230035.github.io/game/posts/game/game11/">Read More</a></p>
       </description>
     </item>
     

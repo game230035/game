@@ -46,7 +46,7 @@ Destiny Burst LIVE!!ガチャ(2012/7/10~7/12)を引くかどうか考察
 とかなり多い。  
 
 ↓引いた動画。  
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vnT0FN9mXTU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 で、惨敗。
 **ふざけるなぁ〜〜〜**
