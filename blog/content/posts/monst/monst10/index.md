@@ -1,5 +1,5 @@
 ---
-title: "[モンスト]集結、天使の複音ガチャ(2021/7/22~7/26)"
+title: "[モンスト]集結、天使の福音ガチャ(2021/7/22~7/26)"
 date: 2021-07-22T09:33:05+09:00
 draft: false
 thumbnail: "images/thumbnail_monst.png"
@@ -9,7 +9,7 @@ toc: true
 ---
 
 ## この記事の目的
-**集結、天使の複音ガチャ(2021/7/22~7/26)**
+**集結、天使の福音ガチャ(2021/7/22~7/26)**
 を引くかどうか考察  
 {{< imgcenter src="1.webp" width="50%" >}}  
   
@@ -43,4 +43,13 @@ toc: true
 カマエルは最強キャラの一角だけど、意外と艦隊に対策されてしまう性能であるので、オーブ全ブッパの深追いは避けたい。  
   
 
+
+## ガチャ結果
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rjKmK774_5I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+  
+ちくしょーーーーー！！！  
+すげー追いたいけど、我慢。  
+  
+最初無料というのがとにかく怪しい。  
+月末また別のガチャが来るでしょと。。。  
   
