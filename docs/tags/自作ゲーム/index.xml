@@ -1,0 +1,24 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>自作ゲーム on Game View</title>
+    <link>https://game230035.github.io/game/tags/%E8%87%AA%E4%BD%9C%E3%82%B2%E3%83%BC%E3%83%A0/</link>
+    <description>Recent content in 自作ゲーム on Game View</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 25 Jul 2021 22:56:51 +0900</lastBuildDate>
+    <atom:link href="" rel="self" type="application/rss+xml"/>
+    
+    <item>
+      <title>[自作ゲーム制作]経過報告No16</title>
+      <link>https://game230035.github.io/game/posts/game/game19/</link>
+      <pubDate>Sun, 25 Jul 2021 22:56:51 +0900</pubDate>
+      
+      <guid>https://game230035.github.io/game/posts/game/game19/</guid>
+      <description>
+        <p>制作ゲームの現状 タイトルを変更。 アクションゲームでは無くなりました。 今週も ゲームの根本について考えていました。 PCゲームではなく、スマホアプ...</p>
+        <p><a href="https://game230035.github.io/game/posts/game/game19/">Read More</a></p>
+      </description>
+    </item>
+    
+  </channel>
+</rss>

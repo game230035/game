@@ -5,8 +5,20 @@
     <description>Recent content in Posts on Game View</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 Jul 2021 15:23:51 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 25 Jul 2021 22:56:51 +0900</lastBuildDate>
     <atom:link href="" rel="self" type="application/rss+xml"/>
+    
+    <item>
+      <title>[自作ゲーム制作]経過報告No16</title>
+      <link>https://game230035.github.io/game/posts/game/game19/</link>
+      <pubDate>Sun, 25 Jul 2021 22:56:51 +0900</pubDate>
+      
+      <guid>https://game230035.github.io/game/posts/game/game19/</guid>
+      <description>
+        <p>制作ゲームの現状 タイトルを変更。 アクションゲームでは無くなりました。 今週も ゲームの根本について考えていました。 PCゲームではなく、スマホアプ...</p>
+        <p><a href="https://game230035.github.io/game/posts/game/game19/">Read More</a></p>
+      </description>
+    </item>
     
     <item>
       <title>[ゲーム制作]スマホアプリの課金アイテム使いみち</title>
@@ -233,18 +245,6 @@
       <description>
         <p>制作ゲームの現状 アクションゲームを制作しています。 今回は、 自キャラのアニメーション バトルステージからすぐに村に帰還できるように 新規敵キャラの...</p>
         <p><a href="https://game230035.github.io/game/posts/game/game14/">Read More</a></p>
-      </description>
-    </item>
-    
-    <item>
-      <title>[原神]人気ということで序盤を遊んでみた</title>
-      <link>https://game230035.github.io/game/posts/review/review8/</link>
-      <pubDate>Sat, 26 Jun 2021 16:25:43 +0900</pubDate>
-      
-      <guid>https://game230035.github.io/game/posts/review/review8/</guid>
-      <description>
-        <p>この記事について リリース以降人気がある「原神」というPC/スマホゲームのPC版をプレイしてみましたので そのレビューとなります。 原神について 公...</p>
-        <p><a href="https://game230035.github.io/game/posts/review/review8/">Read More</a></p>
       </description>
     </item>
     
