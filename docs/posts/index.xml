@@ -5,8 +5,32 @@
     <description>Recent content in Posts on Game View</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 26 Jul 2021 11:27:15 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 26 Jul 2021 22:07:27 +0900</lastBuildDate>
     <atom:link href="" rel="self" type="application/rss+xml"/>
+    
+    <item>
+      <title>ローカライズについて</title>
+      <link>https://game230035.github.io/game/posts/howto/howto19/</link>
+      <pubDate>Mon, 26 Jul 2021 22:07:27 +0900</pubDate>
+      
+      <guid>https://game230035.github.io/game/posts/howto/howto19/</guid>
+      <description>
+        <p>目的 ローカライズを行いたい時のメモ(が書いてあるリンク) Techbot! UnityのLocalizationPackageを触ってみた...</p>
+        <p><a href="https://game230035.github.io/game/posts/howto/howto19/">Read More</a></p>
+      </description>
+    </item>
+    
+    <item>
+      <title>unity Adsのメモ</title>
+      <link>https://game230035.github.io/game/posts/howto/howto18/</link>
+      <pubDate>Mon, 26 Jul 2021 21:58:59 +0900</pubDate>
+      
+      <guid>https://game230035.github.io/game/posts/howto/howto18/</guid>
+      <description>
+        <p>目的 unity Adsのメモ というより単なるリンク 実装してみて、リンク先だけで実装できなかったらメモとしてここに残します。 unity Ads...</p>
+        <p><a href="https://game230035.github.io/game/posts/howto/howto18/">Read More</a></p>
+      </description>
+    </item>
     
     <item>
       <title>[レビュー]パズドラ「呪術廻戦」コラボ ガチャ</title>
@@ -221,30 +245,6 @@
       <description>
         <p>この記事について 2021年7月初め（6月末日時点）のPCゲーム/スマホアプリの売上調査と 自分のスマホ・PCゲームプレイ事情のメモ この記事につ...</p>
         <p><a href="https://game230035.github.io/game/posts/seller/seller202107/">Read More</a></p>
-      </description>
-    </item>
-    
-    <item>
-      <title>大人なモンスト</title>
-      <link>https://game230035.github.io/game/posts/monst/monst0/</link>
-      <pubDate>Wed, 30 Jun 2021 16:15:38 +0900</pubDate>
-      
-      <guid>https://game230035.github.io/game/posts/monst/monst0/</guid>
-      <description>
-        <p>この記事の目的 なるべく時間をかけず、お金をかけずモンストを楽しむことが目的 モンスト このブログでは何度か書いているが、 2021年7月現在、自分...</p>
-        <p><a href="https://game230035.github.io/game/posts/monst/monst0/">Read More</a></p>
-      </description>
-    </item>
-    
-    <item>
-      <title>STEAM 2021サマーセールやってるよ！</title>
-      <link>https://game230035.github.io/game/posts/steam2/</link>
-      <pubDate>Wed, 30 Jun 2021 10:38:07 +0900</pubDate>
-      
-      <guid>https://game230035.github.io/game/posts/steam2/</guid>
-      <description>
-        <p>STEAMでセール中です サマーセールやってます。 2021年7月9日2時までですかね。。 STEAM サマーセール これ買っちゃいました Titanfall®...</p>
-        <p><a href="https://game230035.github.io/game/posts/steam2/">Read More</a></p>
       </description>
     </item>
     

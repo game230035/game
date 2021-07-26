@@ -2,7 +2,7 @@
 title: "PUN 2を導入してみる"
 date: 2021-04-24T16:55:47+09:00
 draft: false
-thumbnail: "images/thumbnail_asset.png"
+thumbnail: "images/thumbnail_program.png"
 categories: ["プログラム"]
 tags: ["PUN2"]
 toc: true
