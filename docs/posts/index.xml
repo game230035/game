@@ -5,8 +5,20 @@
     <description>Recent content in Posts on Game View</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 Jul 2021 22:56:51 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 26 Jul 2021 11:27:15 +0900</lastBuildDate>
     <atom:link href="" rel="self" type="application/rss+xml"/>
+    
+    <item>
+      <title>[レビュー]パズドラ「呪術廻戦」コラボ ガチャ</title>
+      <link>https://game230035.github.io/game/posts/review/review10/</link>
+      <pubDate>Mon, 26 Jul 2021 11:27:15 +0900</pubDate>
+      
+      <guid>https://game230035.github.io/game/posts/review/review10/</guid>
+      <description>
+        <p>この記事の目的 パズドラで「呪術廻戦」コラボが実施された。 そのガチャ動画ととかについて軽く触れる。 ガチャ 動画は以下 イタドリガチャリドラかわいい...</p>
+        <p><a href="https://game230035.github.io/game/posts/review/review10/">Read More</a></p>
+      </description>
+    </item>
     
     <item>
       <title>[自作ゲーム制作]経過報告No16</title>
@@ -233,18 +245,6 @@
       <description>
         <p>STEAMでセール中です サマーセールやってます。 2021年7月9日2時までですかね。。 STEAM サマーセール これ買っちゃいました Titanfall®...</p>
         <p><a href="https://game230035.github.io/game/posts/steam2/">Read More</a></p>
-      </description>
-    </item>
-    
-    <item>
-      <title>[アクションゲーム制作]経過報告No12</title>
-      <link>https://game230035.github.io/game/posts/game/game14/</link>
-      <pubDate>Sun, 27 Jun 2021 14:55:43 +0900</pubDate>
-      
-      <guid>https://game230035.github.io/game/posts/game/game14/</guid>
-      <description>
-        <p>制作ゲームの現状 アクションゲームを制作しています。 今回は、 自キャラのアニメーション バトルステージからすぐに村に帰還できるように 新規敵キャラの...</p>
-        <p><a href="https://game230035.github.io/game/posts/game/game14/">Read More</a></p>
       </description>
     </item>
     
