@@ -4,7 +4,7 @@ date: 2021-07-20T14:30:05+09:00
 draft: false
 thumbnail: "images/thumbnail_monst.png"
 categories: ["モンスト"]
-tags: ["ガチャ"]
+tags: ["未開の大地"]
 toc: true
 ---
 
