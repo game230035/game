@@ -5,8 +5,20 @@
     <description>Recent content in Posts on Game View</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Aug 2021 13:47:41 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 02 Aug 2021 16:35:33 +0900</lastBuildDate>
     <atom:link href="" rel="self" type="application/rss+xml"/>
+    
+    <item>
+      <title>[アクションゲーム制作]経過報告No17</title>
+      <link>https://game230035.github.io/game/posts/game/game20/</link>
+      <pubDate>Mon, 02 Aug 2021 16:35:33 +0900</pubDate>
+      
+      <guid>https://game230035.github.io/game/posts/game/game20/</guid>
+      <description>
+        <p>制作ゲームの現状 アクションゲームを制作しています。 今回は、 バトル部分の改修 を制作しました。 画像とかはないですね。 制作続いてますという意思表示...</p>
+        <p><a href="https://game230035.github.io/game/posts/game/game20/">Read More</a></p>
+      </description>
+    </item>
     
     <item>
       <title>[ランキング]2021年8月初日 PCゲーム/スマホアプリの売上ランキング</title>
@@ -233,18 +245,6 @@
       <description>
         <p>この記事の目的 祝宴！モンストブライダルガチャ(2021/6/18~7/2)を引くかどうか考察 2021/07/12、風神雷神αについて追記 キャ...</p>
         <p><a href="https://game230035.github.io/game/posts/monst/monst2/">Read More</a></p>
-      </description>
-    </item>
-    
-    <item>
-      <title>[モンスト]積立ガチャを回してみた</title>
-      <link>https://game230035.github.io/game/posts/monst/monst1/</link>
-      <pubDate>Thu, 01 Jul 2021 10:28:57 +0900</pubDate>
-      
-      <guid>https://game230035.github.io/game/posts/monst/monst1/</guid>
-      <description>
-        <p>積立ガチャを回してみた 1日1回クエストをクリアするとガチャを1回積み立てられるというもの。 モンスト日にクリアすると10回分が積み立てられる。...</p>
-        <p><a href="https://game230035.github.io/game/posts/monst/monst1/">Read More</a></p>
       </description>
     </item>
     
