@@ -457,3 +457,7 @@ section.sidebar > header {
 .logo img {
 	margin : 0 auto
 }
+
+body {
+	line-height: 1.5;
+}
