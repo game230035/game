@@ -11,7 +11,7 @@ toc: true
 ## この記事の目的
 **モンスト夏休み2021ガチャ(2021/8/14~9/2)**
 を引くかどうか考察  
-{{< imgcenter src="1.webp" width="70%" >}}
+{{< imgcenter src="1.webp" width="40%" >}}
   
 毎年恒例のイベントガチャ。で今年も開催。  
 今年は過去の年のガチャも復刻するとのこと。  
@@ -69,10 +69,18 @@ toc: true
   
 
 ## このガチャ引くかどうか
-うーん。`アザトースα`は魅力的だけど、27の獄は間に合っているし、最近は周回もするから狙っても良いかな。  
+うーん。`アザトースα`は魅力的だけど、27の獄は間に合っているし、最近は書庫周回もするから狙っても良いかな。  
 ちょっと悩み中。  
 YouTuberの情報次第でもある。    
 射幸心に負けない限りは、20連ぐらいで終わりそう。  
-`十文字雷葉α`がかなり活躍するなら、さらに引くかもしれない。  
-ということで、さらなる情報待ち。  
+
+  
+
+## 引いてみた
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l1iUGSof-Zo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  
+36連後のトク玉で`十文字雷葉α`をゲット。  
+うーん。なかなかの闇ガチャな気がする。  
+これ以上、ガチャを引く気はなく。今回はこれで終了。  
+`アザトースα`は諦めた。  
   
