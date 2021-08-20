@@ -5,8 +5,20 @@
     <description>Recent content in Posts on Game View</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Aug 2021 17:36:33 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 19 Aug 2021 22:37:38 +0900</lastBuildDate>
     <atom:link href="" rel="self" type="application/rss+xml"/>
+    
+    <item>
+      <title>[アクションゲーム制作]クオリティ高すぎるアニメのOP、ED</title>
+      <link>https://game230035.github.io/game/posts/game/game21/</link>
+      <pubDate>Thu, 19 Aug 2021 22:37:38 +0900</pubDate>
+      
+      <guid>https://game230035.github.io/game/posts/game/game21/</guid>
+      <description>
+        <p>この記事について ゲームを制作する上でどうすればかっこよく見せられるかとか 惹きつけるような見せ方とはなんなのかとか考えるのですが。 アニメのOP...</p>
+        <p><a href="https://game230035.github.io/game/posts/game/game21/">Read More</a></p>
+      </description>
+    </item>
     
     <item>
       <title>[モンスト]モンスト夏休み2021ガチャ(2021/8/14~9/2)</title>
@@ -233,18 +245,6 @@
       <description>
         <p>この記事の目的 モンストグランプリ2021の優勝チームを10分で検証・予想します。 まぁ、ぶっちゃけるとモンストは結構運が絡んでくると思います。...</p>
         <p><a href="https://game230035.github.io/game/posts/monst/monst4/">Read More</a></p>
-      </description>
-    </item>
-    
-    <item>
-      <title>[アクションゲーム制作]経過報告No13</title>
-      <link>https://game230035.github.io/game/posts/game/game15/</link>
-      <pubDate>Sun, 04 Jul 2021 16:59:47 +0900</pubDate>
-      
-      <guid>https://game230035.github.io/game/posts/game/game15/</guid>
-      <description>
-        <p>制作ゲームの現状 アクションゲームを制作しています。 今回は、 自キャラと敵キャラのモデルの変更 モデルを変更したので、アニメーションも変更 を制作し...</p>
-        <p><a href="https://game230035.github.io/game/posts/game/game15/">Read More</a></p>
       </description>
     </item>
     
