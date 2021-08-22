@@ -1697,6 +1697,44 @@ section.sidebar > header {
 body {
 	line-height: 1.5;
 }
+
+article.fixedlink {
+	background-color: #fff;
+	box-shadow: 0 0 0 1px rgba(63,63,68,.05), 0 1px 3px rgba(63,63,68,.1), 0 1px 2px rgba(0,0,0,.05);
+	width: 100%;
+	height: auto;
+	box-sizing: border-box;
+
+}
+  
+.fixedlink {
+	overflow: auto;
+}
+
+article.fixedlink > a {
+	display: block;
+	color: #333;
+}
+  
+article.fixedlink .inner {
+	display: flex;
+	align-items: center;
+	height: 4rem;
+
+	padding: 0 .5rem;
+}
+  
+article.fixedlink .thumb {
+	width: 4rem;
+    height: 4rem;
+    float: left;
+}
+  
+article.fixedlink .title {
+	font-weight: 700;
+	font-size: .8rem;
+	
+}
     
     
         </style>
@@ -1971,25 +2009,33 @@ body {
         <a href="https://game230035.github.io/game/game/"><img border="0" src="https://game230035.github.io/game/thumbnail_game3.png" width="100%" height="auto" alt="Revengers"></a><br>
       </div>
       <br>
-      
-
     </section>
     
     <br>
-    
+
     <section class="sidebar">
-      <header>Twitter</header>
+      <header>固定リンク</header>
       <div>
-        <a class="twitter-timeline" data-lang="ja" data-width="400" data-height="400" data-theme="dark" href="https://twitter.com/IT67709618?ref_src=twsrc%5Etfw">Tweets by IT67709618</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+        <article class="fixedlink">
+          <a href="/posts/monst/monst9/">
+               <div class="box">
+                    <div class="thumb thumb-d3f6093f63c79192d4dd3b210e12921d"></div>
+
+                    <div class="inner">
+                         <div class="title">[モンスト]未開の大地の使用キャラをメモって欲しいキャラを選定する</div>
+                    </div>
+               </div>
+          </a>
+        </article>
       </div>
     </section>
 
     <br>
     
     <section class="sidebar">
-      <header>公式ブログ</header>
+      <header>Twitter</header>
       <div>
-        <a href="https://blogs.unity3d.com/jp/">Unity Blog</a>
+        <a class="twitter-timeline" data-lang="ja" data-width="400" data-height="400" data-theme="dark" href="https://twitter.com/IT67709618?ref_src=twsrc%5Etfw">Tweets by IT67709618</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
       </div>
     </section>
 
