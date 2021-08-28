@@ -1,5 +1,5 @@
 ---
-title: "[モンスト]Dr.Ston"
+title: "[モンスト]ブリーチコラボ"
 date: 2021-08-26T20:07:10+09:00
 draft: false
 thumbnail: "images/thumbnail_monst.png"
