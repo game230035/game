@@ -1,7 +1,7 @@
 ---
 title: "[モンスト]「ダイの大冒険」コラボガチャ(2021/7/15~8/2)"
 date: 2021-07-14T17:05:30+09:00
-draft: false
+draft: true
 thumbnail: "images/thumbnail_monst.png"
 categories: ["モンスト"]
 tags: ["ガチャ"]

@@ -1,7 +1,7 @@
 ---
 title: "[モンスト]モンスト夏休み2021ガチャ(2021/8/14~9/2)"
 date: 2021-08-13T17:36:33+09:00
-draft: false
+draft: true
 thumbnail: "images/thumbnail_monst.png"
 categories: ["モンスト"]
 tags: ["ガチャ"]

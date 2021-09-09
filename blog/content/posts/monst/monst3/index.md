@@ -1,7 +1,7 @@
 ---
 title: "[モンスト]ラブライブサンシャインコラボガチャ(2021/6/26~7/2)"
 date: 2021-07-02T09:26:38+09:00
-draft: false
+draft: true
 thumbnail: "images/thumbnail_monst.png"
 categories: ["モンスト"]
 tags: ["ガチャ"]

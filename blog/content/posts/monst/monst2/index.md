@@ -1,7 +1,7 @@
 ---
 title: "[モンスト]祝宴！モンストブライダルガチャ(2021/6/18~7/2)"
 date: 2021-07-02T08:31:56+09:00
-draft: false
+draft: true
 thumbnail: "images/thumbnail_monst.png"
 categories: ["モンスト"]
 tags: ["ガチャ"]

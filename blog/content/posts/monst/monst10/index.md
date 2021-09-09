@@ -1,7 +1,7 @@
 ---
 title: "[モンスト]集結、天使の福音ガチャ(2021/7/22~7/26)"
 date: 2021-07-22T09:33:05+09:00
-draft: false
+draft: true
 thumbnail: "images/thumbnail_monst.png"
 categories: ["モンスト"]
 tags: ["ガチャ"]

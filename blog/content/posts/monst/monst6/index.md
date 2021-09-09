@@ -1,7 +1,7 @@
 ---
 title: "[モンスト]Destiny Burst LIVE!!ガチャ(2012/7/10~7/12)"
 date: 2021-07-10T08:00:00+09:00
-draft: false
+draft: true
 thumbnail: "images/thumbnail_monst.png"
 categories: ["モンスト"]
 tags: ["ガチャ"]
