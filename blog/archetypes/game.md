@@ -8,16 +8,10 @@ tags: ["アクションゲーム"]
 toc: true
 ---
 
-## 制作ゲームの現状  
-アクションゲームを制作しています。  
-今回は、
-- 
-- 
-を制作しました。  
-  
-  
-以下の動画でもざっくり紹介しています。  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ApDFc5mTjCw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
-
+## この記事の目的  
 
   
+製作中のゲームについては以下
+↓↓↓↓↓↓↓↓↓↓↓↓↓  
+<a href="https://game230035.github.io/game/SwordBattle_web/index.html">Revengers</a>  
+↑↑↑↑↑↑↑↑↑↑↑↑↑  

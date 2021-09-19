@@ -5,8 +5,20 @@
     <description>Recent content in Posts on Game View</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 09 Sep 2021 09:24:09 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 19 Sep 2021 14:55:22 +0900</lastBuildDate>
     <atom:link href="" rel="self" type="application/rss+xml"/>
+    
+    <item>
+      <title>[アクションゲーム制作]ホーム画面について</title>
+      <link>https://game230035.github.io/game/posts/game/game22/</link>
+      <pubDate>Sun, 19 Sep 2021 14:55:22 +0900</pubDate>
+      
+      <guid>https://game230035.github.io/game/posts/game/game22/</guid>
+      <description>
+        <p>この記事の目的 今回はホーム画面について モンスト、パスドラ、ウマ娘を調査したいと思います。 この記事でのホーム画面とは タイトル画面タップ後に表示...</p>
+        <p><a href="https://game230035.github.io/game/posts/game/game22/">Read More</a></p>
+      </description>
+    </item>
     
     <item>
       <title>[モンスト]戦型の書を使いたいキャラの選定</title>
@@ -233,18 +245,6 @@
       <description>
         <p>この記事の目的 モンストグランプリ2021の優勝チームを10分で検証・予想します。 まぁ、ぶっちゃけるとモンストは結構運が絡んでくると思います。...</p>
         <p><a href="https://game230035.github.io/game/posts/monst/monst4/">Read More</a></p>
-      </description>
-    </item>
-    
-    <item>
-      <title>[アクションゲーム制作]経過報告No13</title>
-      <link>https://game230035.github.io/game/posts/game/game15/</link>
-      <pubDate>Sun, 04 Jul 2021 16:59:47 +0900</pubDate>
-      
-      <guid>https://game230035.github.io/game/posts/game/game15/</guid>
-      <description>
-        <p>制作ゲームの現状 アクションゲームを制作しています。 今回は、 自キャラと敵キャラのモデルの変更 モデルを変更したので、アニメーションも変更 を制作し...</p>
-        <p><a href="https://game230035.github.io/game/posts/game/game15/">Read More</a></p>
       </description>
     </item>
     

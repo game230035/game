@@ -8,6 +8,16 @@
     <link rel="stylesheet" href="TemplateData/style.css">
   </head>
   <body>
+    <header class="l-header">
+      <div class="l-container">
+        <div class="logo">
+          <a href="https://game230035.github.io/game/"><img src="https://game230035.github.io/game/images/title.png" alt="title"></a>
+        </div>
+        
+
+      </div>
+    </header>
+
     <div id="unity-container" class="unity-desktop">
       <canvas id="unity-canvas" width=375 height=668></canvas>
       <div id="unity-loading-bar">
@@ -18,8 +28,6 @@
       </div>
       <div id="unity-warning"> </div>
       <div id="unity-footer">
-        <div id="unity-webgl-logo"></div>
-        <div id="unity-fullscreen-button"></div>
         <div id="unity-build-title">Revengers</div>
       </div>
     </div>
@@ -108,9 +116,6 @@
           progressBarFull.style.width = 100 * progress + "%";
         }).then((unityInstance) => {
           loadingBar.style.display = "none";
-          fullscreenButton.onclick = () => {
-            unityInstance.SetFullscreen(1);
-          };
         }).catch((message) => {
           alert(message);
         });
