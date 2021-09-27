@@ -5,9 +5,9 @@
 
 # cp -rp /Users/comboengineering/work/unity/DropFloor/dropfloor_web/TemplateData /Users/comboengineering/work/blog/game/blog/content/dropfloor_web
 # cp -rp /Users/comboengineering/work/unity/DropFloor/dropfloor_web/Build /Users/comboengineering/work/blog/game/blog/content/dropfloor_web
-
-cp -rp /Users/comboengineering/work/unity/NewSword/SwordBattle_web/TemplateData /Users/comboengineering/work/blog/game/blog/content/SwordBattle_web
-cp -rp /Users/comboengineering/work/unity/NewSword/SwordBattle_web/Build /Users/comboengineering/work/blog/game/blog/content/SwordBattle_web
+rm -rf /Users/comboengineering/work/blog/game/blog/content/SwordBattle_web
+cp -rp /Users/comboengineering/work/unity/NewSword/SwordBattle_web/ /Users/comboengineering/work/blog/game/blog/content/SwordBattle_web/
+# cp -rp /Users/comboengineering/work/unity/NewSword/SwordBattle_web/Build /Users/comboengineering/work/blog/game/blog/content/SwordBattle_web
 
 cd /Users/comboengineering/work/blog/game/blog
 hugo
