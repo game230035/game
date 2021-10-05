@@ -11,7 +11,7 @@ if [ $# == 1 ]; then
     rm -f "$name"
 
 else
-    for img in /Users/comboengineering/Downloads/monst/*.PNG
+    for img in /Users/comboengineering/Downloads/monst/*
     do
         
         name=`echo ${img// /_}`
