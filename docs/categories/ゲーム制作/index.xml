@@ -5,8 +5,20 @@
     <description>Recent content in ゲーム制作 on Game View</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 19 Sep 2021 14:55:22 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 06 Oct 2021 07:35:25 +0900</lastBuildDate>
     <atom:link href="" rel="self" type="application/rss+xml"/>
+    
+    <item>
+      <title>[アクションゲーム制作]ポップアップ画面について</title>
+      <link>https://game230035.github.io/game/posts/game/game23/</link>
+      <pubDate>Wed, 06 Oct 2021 07:35:25 +0900</pubDate>
+      
+      <guid>https://game230035.github.io/game/posts/game/game23/</guid>
+      <description>
+        <p>この記事の目的 この記事ではゲーム中に表示するポップアップ画面について調査するもの。 ポップアップ画面とは、 人によって定義は違うと思うが、この記...</p>
+        <p><a href="https://game230035.github.io/game/posts/game/game23/">Read More</a></p>
+      </description>
+    </item>
     
     <item>
       <title>[アクションゲーム制作]ホーム画面について</title>
@@ -233,18 +245,6 @@
       <description>
         <p>制作ゲームの現状 現在はDARKSOULSのバトルの部分を参考にしながら制作しています。 今回は、前回のゲームの見た目についての反映結果と、 自キ...</p>
         <p><a href="https://game230035.github.io/game/posts/game/game3/">Read More</a></p>
-      </description>
-    </item>
-    
-    <item>
-      <title>[アクションゲーム制作]経過報告No1</title>
-      <link>https://game230035.github.io/game/posts/game/game2/</link>
-      <pubDate>Thu, 25 Mar 2021 00:46:19 +0900</pubDate>
-      
-      <guid>https://game230035.github.io/game/posts/game/game2/</guid>
-      <description>
-        <p>制作ゲームの現状 現在はDARKSOULSのバトルの部分を参考にしながら制作しています。 今回はそのゲームの見た目について考察していきます。 内容...</p>
-        <p><a href="https://game230035.github.io/game/posts/game/game2/">Read More</a></p>
       </description>
     </item>
     
