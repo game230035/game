@@ -5,8 +5,20 @@
     <description>Recent content in Posts on Game View</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 06 Oct 2021 07:35:25 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 01 Nov 2021 21:52:26 +0900</lastBuildDate>
     <atom:link href="" rel="self" type="application/rss+xml"/>
+    
+    <item>
+      <title>[ランキング]2021年X月初日 PCゲーム/スマホアプリの売上ランキング</title>
+      <link>https://game230035.github.io/game/posts/seller/seller202111/</link>
+      <pubDate>Mon, 01 Nov 2021 21:52:26 +0900</pubDate>
+      
+      <guid>https://game230035.github.io/game/posts/seller/seller202111/</guid>
+      <description>
+        <p>この記事について 2021年11月初め（10月末日時点）のPCゲーム/スマホアプリの売上調査と 自分のスマホ・PCゲームプレイ事情のメモ この記事...</p>
+        <p><a href="https://game230035.github.io/game/posts/seller/seller202111/">Read More</a></p>
+      </description>
+    </item>
     
     <item>
       <title>[アクションゲーム制作]ポップアップ画面について</title>
@@ -233,18 +245,6 @@
       <description>
         <p>制作ゲームの現状 アクションゲームを制作しています。 今回も、 面白いってなんだろうと思いつつ、 頭の中にあるものをゲームに落とし込んでました。 そろ...</p>
         <p><a href="https://game230035.github.io/game/posts/game/game17/">Read More</a></p>
-      </description>
-    </item>
-    
-    <item>
-      <title>[モンスト]2021年7月フラパ・振り返り</title>
-      <link>https://game230035.github.io/game/posts/monst/monst7/</link>
-      <pubDate>Tue, 13 Jul 2021 07:15:20 +0900</pubDate>
-      
-      <guid>https://game230035.github.io/game/posts/monst/monst7/</guid>
-      <description>
-        <p>この記事の目的 モンストについて、今年はフラパが7月10日~11日にオンライン上で実施されました。 XFLAG PARK その中で発表されるアプリのアップデート内...</p>
-        <p><a href="https://game230035.github.io/game/posts/monst/monst7/">Read More</a></p>
       </description>
     </item>
     
