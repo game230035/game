@@ -1,5 +1,5 @@
 ---
-title: "[ランキング]2021年X月初日 PCゲーム/スマホアプリの売上ランキング"
+title: "[ランキング]2021年11月初日 PCゲーム/スマホアプリの売上ランキング"
 date: 2021-11-01T21:52:26+09:00
 draft: false
 thumbnail: "images/thumbnail_seller.png"
